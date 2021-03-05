@@ -1,0 +1,2840 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "96995a49-7dd0-11eb-bedc-af478fea30f9",
+            "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "paste-54ee8d36443a2c01bdc9034e41cd9d82a0568ab3.jpg",
+                "paste-60fd306326dd6436b68b2fbd082edfb2a6bece1b.jpg",
+                "paste-66380030c70b63942931b8bca4a54dafe427f38b.jpg",
+                "paste-b8aeb6599ca50cbc08ea6b5c55af29fa44b7e510.jpg",
+                "paste-c7ab4b4a3705c4b49371df4eaf4577a772d2ec34.jpg",
+                "paste-de91a7ac21cd455c08219ddcb00b9c7d3fa3b00d.jpg"
+            ],
+            "mid": 1602236504918,
+            "name": "02/08 Immunopharm 1",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::Autoimmune disease}}: Immune system cannot distinguish between self and non-self<br><div><br></div><div>{{c1::Chronic inflammatory diseases}}: Over activation of the immune system<br></div>",
+                        "<div>Autoimmune</div>Rheumatoid arthritis<br>Systemic lupus erythematosus<div><br></div><div>Chronic Inflammatory&nbsp;</div><div>Inflammatory bowel disease<br>Vasculitis</div><div>Psoriasis<br></div>"
+                    ],
+                    "guid": "Qf{)1Y%nFW",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Is it innate or adaptive immunity?<div><br></div><div>Higher organisms only&nbsp;{{c1::a}}<br><div>Pathogen-associated molecular patterns (PAMPs){{c1::i}}<br></div></div><div>Non-specific{{c1::i}}</div><div>T-lymphocytes&nbsp;{{c1::a}}</div><div>Monocytes{{c1::i}}</div><div>Polymorphonuclear leukocytes{{c1::i}}<br></div><div>Neutrophils{{c1::i}}</div><div>Barrier defenses{{c1::i}}</div><div>Antibodies&nbsp;{{c1::a}}</div>",
+                        ""
+                    ],
+                    "guid": "t*-r@de/YB",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Why would you use an immunosupressant?",
+                        "Autoimmune disease, Chronic inflammatory disease, Organ Transplant"
+                    ],
+                    "guid": "IS0!6I%}jf",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Opportunistic Infections:{{c1::Infections that do not normally occur in patients with a normal immune system}}<div><br></div><div>Most {{c1::immune suppressant}} drugs increase the risk of opportunistic<br>infections<br></div>",
+                        "Immunosuppressants may also lower vaccine efficacy."
+                    ],
+                    "guid": "p%5K)|0X=m",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Which statement about<br>Immunosuppression is true?<br><br><div>1. It increases the risk of opportunistic infections<br>2. It only affects the adaptive immune system<br>3. It should be employed in patients with infections<br>4. Transplant recipients don’t need it<br>5. Vaccines are immunosuppressants</div>",
+                        "1"
+                    ],
+                    "guid": "Fuo(I3tSp2",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What sort of organ failure does it cause?<div><br></div><div>{{c1::Chronic Kidney Disease}}: Diabetes, glomerulonephritis, hypertension, others<br></div><div><br></div><div>{{c1::Chronic cirrhosis}}: Alcohol, Hepatitis C, NAFLD, autoimmune<br></div><div><br></div><div>{{c1::Acute liver failure}}: Paracetamol overdose, Hepatitis A, others....<br></div>",
+                        ""
+                    ],
+                    "guid": "EdnLe]G}Yb",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Liver transplantation</b><br>Most commonly performed for complications of {{c1::cirrhosis}}, such as:<br>Hepatic encephalopathy:{{c1::confused thinking}}<br>Refractory ascites:{{c1::Buildup of fluid in the abdomen}}<div>{{c1::Variceal}} haemorrhage<br>Liver cancer</div><div><br></div><div>Transplant can be cadaveric or living related<br></div><div>Must be ABO&nbsp;{{c1::compatible}}</div>",
+                        ""
+                    ],
+                    "guid": "AjQE4sHj_B",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Complications of liver transplantation</b><br>Acute cellular rejection<br>Recognition of {{c1::allo}}antigens<br>Lymphocyte activation<br>Clonal expansion of lymphocytes",
+                        "<img src=\"paste-54ee8d36443a2c01bdc9034e41cd9d82a0568ab3.jpg\">"
+                    ],
+                    "guid": "Mkf)W*31A8",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Corticosteroids</b><br><br><div>Hydrocortisone (cortisol) produced in the adrenal cortex<br>&nbsp;</div><div>Essential for health – deficiency results in a disease: {{c1::Addisons disease}}<br><br></div><div>Excess endogenous hydrocortisone results in adisease: {{c1::Cushings syndrome}}<br><br></div><div>Secretion controlled by pituitary hormone: {{c1::ACTH}}</div><div><br></div><div>Is it a corticosteroid target?</div><div>Glucocorticoid receptors{{c1::y}}<br></div><div>Mineralocorticoid{{c1::n}}</div><div>Monocytes{{c1::y}}<br></div><div>Endothelial cells{{c1::y}}</div><div>B-Lymphocytes{{c1::n}}</div><div>T-Lymphocytes{{c1::y}}</div><div>Neutrophils{{c1::y}}</div><div><br></div><div>Is it an acute or chronic side effect?</div><div>Hypertension{{c1::a}}<br>Oppurtunistic Infections{{c1::a}}</div><div>Adrenal suppression{{c1::C}}<br>Muscle atrophy{{c1::c}}<br>Osteoporosis{{c1::c}}<br>Psychosis{{c1::a}}<br>Weight gain{{c1::a}}</div><div>Striae{{c1::c}}<br>Increased triglycerides{{c1::a}}<br>Diabetes{{c1::a}}<br>Hirsutism{{c1::a}}<br>Acne{{c1::a}}<br></div><div>Cataracts{{c1::c}}<br>Growth retardation{{c1::c}}<br></div><div><br></div><div>Side effects of corticosteroids mimic&nbsp;{{c1::Cushings Syndrome}}</div><div><br></div><div>{{c1::Topical}} administration minimizes systemic adverse effects allowing chronic use<br>With chronic {{c1::systemic}} administration, adverse effects outweigh benefits<br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div>",
+                        "<img src=\"paste-60fd306326dd6436b68b2fbd082edfb2a6bece1b.jpg\"><div>Hirsutism=unwanted hair growth</div><div>Striae= Stretch marks</div><div><img src=\"paste-66380030c70b63942931b8bca4a54dafe427f38b.jpg\"><br></div><div>Topical corticosteroids: Uses<br>z Inflammatory skin diseases<br>z Asthma<br>z Inflammatory bowel disease – controlled ileal-release<br>budesonide<br>z Uveitis<br></div><div><br></div><div>Systemic corticosteroids: Uses<br>z Life-saving in severe asthma exacerbations<br>z Use coincided with reduction in mortality from ulcerative colitis – a form of<br>inflammatory bowel disease<br>z Vasculitis<br>z Inflammatory arthritis<br>z Blood cancers<br>z Glomerulonephritis<br>z Multiple sclerosis<br>z Vasculitis<br>z Autoimmune hepatitis<br></div>"
+                    ],
+                    "guid": "Q<:L;YZnvk",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Which statement about corticosteroids is correct?</b><br><br>1. Anti-inflammatory effects are mediated by the mineralocorticoid receptor<br>2. They are hydrophilic and traverse plasma membranes poorly<br>3. They must be administered systemically<br>4. Their actions affect both innate and adaptive immune cells<br>5. Side effects are uncommon even with prolonged administration",
+                        "4"
+                    ],
+                    "guid": "l?+(1:_v|,",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Cyclosporine or Tacrolimus?<br><br>Binds FKBP&nbsp;{{c1::t}}<br><div>Fungal metabolite{{c1::c}}<div>Binds cyclophilin{{c1::c}}<br>Inhibits T cell activation{{c1::both}}</div></div><div>Macrolide antibiotic{{c1::t}}</div><div><br></div><div>How Cyclosporine and Tacrolimus inhibit T-cell activation</div><div><br></div><div>-Cyclosporine A and Tacrolimus inhibit&nbsp;{{c1::calcineurin}}</div><div>-The transcription factor&nbsp;{{c1::NFAT}} cannot be dephosphorylated</div><div>-{{c1::IL-2}} is not produced leading to inhibition of t-cell&nbsp; activity</div><div><br></div><div>Cyclosporine and Tacrolimus<br>Major Uses:<br>Prevention of organ transplant {{c1::rejection}}<br>Autoimmune &amp; Inflammatory diseases<br>{{c1::- Vasculitis<br>- Arthritis<br>- IBD<br>- Psoriasis<br>- Eczema}}(5)<br></div><div><br></div><div><br></div>",
+                        "<img src=\"paste-b8aeb6599ca50cbc08ea6b5c55af29fa44b7e510.jpg\">"
+                    ],
+                    "guid": "N4i+,B~A4$",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Cyclosporine:</b><div><b><br></b></div><div>-{{c1::Unpredictable}} oral biovailability due to&nbsp;{{c1::Emulsion formulation}}<b><br></b></div><div><br></div><div>-&nbsp;{{c1::Narrow}} therapeutic index</div><div><br></div><div>Blood concentration monitoring essential<br></div><div><br></div><div>Side Effects:</div><div>Oppurtunistic infections</div><div>{{c1::Nephro}}toxicity<br>{{c1::Hyper}}tension<br>Gum {{c1::hyperplasia}}<br>{{c1::Skin}} cancer<br>Seizures<br>Neuropathy<br></div><div><br></div><div>Cyclosporine is metabolized by&nbsp;{{c1::CYP3A4}}.</div><div>Patients should not drink&nbsp;{{c1::grapefruit juice}}</div><div><br></div>",
+                        "<img src=\"paste-de91a7ac21cd455c08219ddcb00b9c7d3fa3b00d.jpg\">"
+                    ],
+                    "guid": "B?[6@AM;}z",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>Cyclosporine and Tacrolimus:<br></div><div><br></div>Have few adverse effects<br>Have a low therapeutic index<br>Block the binding of IL-2 to its receptor<br>Are considered \"designer\" drugs<br>Cause bone marrow suppression",
+                        "2"
+                    ],
+                    "guid": "Cx%^{%ySHX",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><b>Polyclonal Anti-Thymocyte Globulin</b></div><div><b><br></b>Developed by immunising <b>rabbits</b> with human thymocytes<br><br></div><div>{{c1::Gamma globulins}} purified from serum<br><br></div><div>Polyclonal mixture of antibodies reactive against lymphocyte expressed surface antigens<br><br></div><div>Administration results in profound killing of {{c1::host lymphocytes}}<br><br></div><div>{{c1::Profound}} immunosuppression – {{c1::loads of}} opportunistic infections<br><br></div><div>Effective treatment for {{c1::acute kidney transplant rejection}}<br></div><div><br></div><b>Monoclonal Anti IL-2 receptor antibodies</b><br><br><div>Drug names: {{c1::Daclizumab}} and {{c1::basiliximab}}<div><div><br></div><div>&nbsp;IL-2 is a pivotal cytokine in the development of acquired<br>immune responses<div>&nbsp;</div><div>Effective treatment for {{c1::acute rejection}}</div><div><br></div><div>{{c1::Less}} profound immunosuppression than polyclonal anti-</div><div>thymocyte globulin<br><br>{{c1::Less}} opportunistic infections</div><div><br></div><div><br></div></div></div></div>",
+                        "<img src=\"paste-c7ab4b4a3705c4b49371df4eaf4577a772d2ec34.jpg\">"
+                    ],
+                    "guid": "h5z;5AQJia",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "969b06d1-7dd0-11eb-90ff-af478fea30f9",
+            "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "paste-0e2c9412ce0aca914f907704cd19b83a6326c549.jpg",
+                "paste-21d1fc81c1df399811bf77b1fc25cbca52e86529.jpg",
+                "paste-2c16030f7bbad0aae58469728e9ec99ad70e754a.jpg",
+                "paste-349deda8407f33fddff82f32c7fc68bce04e6e16.jpg",
+                "paste-521e34d1481afc8f77546d5f5f63d6ee034d6d8d.jpg",
+                "paste-5a3f1da69e87543b5e326b2e8b34f1547ffb52a8.jpg",
+                "paste-6e11f86a3a2f079914e586feb06e318572c9d599.jpg",
+                "paste-70c1f3f5ee73f098af0130b689a0e46e41293d27.jpg",
+                "paste-78a7b028675910c3caf97435028307ab132e9e56.jpg",
+                "paste-8b7e889ebcb82dfebf8b6318f737b424c680509d.jpg",
+                "paste-db1e580a6cc12279fcd69fc4b9a01885235c8265.jpg",
+                "paste-e21e877e9b74fdaa51531524267b04ba43fb419e.jpg",
+                "paste-f9774e4df0afe6979adf00357fd159d02b7bf277.jpg",
+                "paste-fadc0bc99d401125fb76db8c2a92ed4801aa03b6.jpg"
+            ],
+            "mid": 1602236504918,
+            "name": "09/02 Immunopharm 2",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "IBD: Histology<br><br><div>{{c1::Epithelium}} is ulcerated<br><br></div><div>{{c1::Lamina propria}} is infiltrated with acute and chronic inflammatory cells<br><br></div><div>Crypts have {{c1::abscesses}}</div><div><br></div><div><img src=\"paste-0e2c9412ce0aca914f907704cd19b83a6326c549.jpg\"><br></div><div>For extra points, where is the ulcer</div>",
+                        "Ulcer is the big crypt with the white outline<div><img src=\"paste-8b7e889ebcb82dfebf8b6318f737b424c680509d.jpg\"><br><div><br></div><div><br></div></div>"
+                    ],
+                    "guid": "dKxe?|0,)T",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Thiopurines (immunosupressants)&nbsp;</b><div><br></div><div>Mechanism of action:<br>Deplete {{c1::purine nucleotides}}<br><br></div><div>Inhibits:<br></div><div>- {{c1::DNA}} synthesis<br>- {{c1::RNA}} synthesis<br><br></div><div>Results in:<br>- Apoptosis of {{c1::activated lymphocytes}}<br>- Impaired cell-mediated immunity, specifically {{c1::adaptive}} cell-mediated immunity<br></div><div><br></div><div>{{c1::chronic}} Immunosuppression.<br></div><div><br></div><div><br></div><div><b>Azathioprine (A thiopurine)</b><br></div><div><br></div><div>Originally developed as an anti-leukemia drug<br></div><div>Pro-drug of {{c1::6-mercaptopurine}}<br></div><div><br></div><div>Has a&nbsp;{{c1::narrow}} therapeutic index</div><div>{{c1::oral}} administration<br></div><div>{{c1::slow}} onset of action<br></div><div><br></div><div>Is the side effect acute or chronic?</div><div>Opportunistic infections&nbsp;{{c1::b}}<br></div><div>Allergy: Fever, skin rash&nbsp;{{c1::a}}</div><div>EBV-associated lymphomas&nbsp;{{c1::c}}<br>Bone marrow suppression, esp. leukopenia&nbsp;{{c1::a}}<br>Pancreatitis&nbsp;{{c1::a}}<br>Liver injury&nbsp;{{c1::c}}</div><div><br></div><div>Azathiopurine dose is based on the patients levels of the enzyme&nbsp;{{c1::thiopurine methyltransferase}}</div><div><br></div><div>If there is low levels of this enzyme, Azathiourine is&nbsp;{{c1::more}} effective, but there are more&nbsp;{{c1::ADRs}} such as&nbsp;{{c1::myelosuppression}}</div><div><br></div><div><br>AZATHIOPURINE IS CONVERTED TO&nbsp;{{c1::6-MERCAPTOPURINE}} WHICH IS CONVERTED TO&nbsp;{{c1::6-THIOGUAMINE}}</div>",
+                        "Azathiprine is apparently a prototype<div>Leukopenia= Too little WBCs</div><div>EBV=Epstein Barr Virus</div><div>TPMT levels are genetic</div><div><img src=\"paste-fadc0bc99d401125fb76db8c2a92ed4801aa03b6.jpg\"><br></div><div><img src=\"paste-78a7b028675910c3caf97435028307ab132e9e56.jpg\"><br></div>"
+                    ],
+                    "guid": "Kx~%f6R6H`",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Which statement is false?&nbsp;<div> Azathioprine is a pro-drug&nbsp;</div><div> Hereditary factors affect responses to thiopurines&nbsp;</div><div> Azathioprine does not cause significant immunosuppression&nbsp;</div><div> Thiopurines are administered orally&nbsp;</div><div> Patients full blood count should be monitored</div>",
+                        "3"
+                    ],
+                    "guid": "IrZ-Y:4#}D",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Methotrexate:</b><br><br>Competitive analog of {{c1::folic acid}}<br>Blocks&nbsp;{{c1::dihydrofolate reductase}}<br>Prevents accumulation of {{c1::4H-folic acid}}<br>Blocks {{c1::purine}} biosynthesis<br>{{c1::S}}-phase cells most sensitive to methotrexate&nbsp;<div><br></div><div>Causes:</div><div>Apoptosis of {{c1::activated lymphocytes}}</div><div>Inhibition of {{c1::neutrophil}} functions<br></div><div><br></div><div>Methotexate is given once weekly, why?</div><div>{{c1::Because it accumulates in cells}}<br></div><div><br></div><div><br></div><div>{{c1::oral, SC or IM}} Administration<br></div><div>SLow onset of action</div><div><br></div><div>Adverse effects<br>Bone marrow suppression which leads to&nbsp;{{c1::leukopenia}}<br>{{c1::Liver}} toxicity<br>Hypersensitivity {{c1::pneumonitis}}<br></div><div><br></div>",
+                        "<img src=\"paste-db1e580a6cc12279fcd69fc4b9a01885235c8265.jpg\"><div><img src=\"paste-21d1fc81c1df399811bf77b1fc25cbca52e86529.jpg\"><br></div>"
+                    ],
+                    "guid": "lA.^J?njhM",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Which statement is true about\nmethotrexate?&nbsp;<div> Methotrexate blocks accumulation of dihydrofolate&nbsp;</div><div> It is structurally similar to purine nucleotides&nbsp;</div><div> Methotrexate can only be administered parenterally&nbsp;</div><div> Adverse effects include kidney damage&nbsp;</div><div> Administered once weekly</div>",
+                        "5"
+                    ],
+                    "guid": "KZtu$Svam$",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Monoclonal antibodies&nbsp;</b><div>Advantages:&nbsp;<div> Highly {{c1::specific}} to their target&nbsp;</div><div> {{c1::Long}} duration of action&nbsp;</div><div> Most side effects are intrinsic ie\nextensions of the action of the drug\nat its target&nbsp;</div><div> New drug targets available&nbsp;</div><div>&nbsp; &nbsp; -{{c1::Extracellular}} proteins&nbsp;</div><div>&nbsp; &nbsp; -{{c1::Cell surface}} proteins&nbsp;</div><div> Big in immune-mediated disease\nand {{c1::oncology}}</div></div><div><br></div><div>Disadvantages&nbsp;</div><div> Expensive&nbsp;</div><div> Parenteral administration&nbsp;</div><div> Immuno{{c1::genicity&nbsp;}}</div><div> Infusion reactions<br></div><div><br></div><div>{{c1::parenteral injection (Iv or sc)}} administration.<br></div><div><br></div><div>Extravasation dependant on&nbsp;{{c1::convection}} rather than&nbsp;{{c1::diffusion}}.</div><div>&nbsp;</div><div>Transcytosis via {{c1::Fc}} receptors\nalso relevant<br></div><div><br></div><div>Antigen binding takes place in {{c1::tissues}}<br></div><div><br></div><div>Eliminated by Receptor-mediated {{c1:: endocytosis}}</div><div>Intracellular catabolism by\n{{c1::lysosomal}} degradation<br></div><div>Protective effect of FcRn\nleading to some {{c1::recycling}}<br></div><div><br></div><div>If there is an anti-drug immune response:</div><div>Drug clearance is&nbsp;{{c1::faster}}</div><div>{{c1::loss}} of clinical efficacy<br></div><div>Increased risk of&nbsp;{{c1::allergic-type\nreactions}}</div><div><br></div><div><br></div><div><br></div>",
+                        "Immunogenicity=immune response can be mountded against it<div><img src=\"paste-2c16030f7bbad0aae58469728e9ec99ad70e754a.jpg\"><br></div><div><img src=\"paste-e21e877e9b74fdaa51531524267b04ba43fb419e.jpg\"><br></div>"
+                    ],
+                    "guid": "bQ[D$N^a>@",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "TNF-alpha is central in Pathogenesis of many\ndiseases eg {{c1::IBD}}, {{c1::RA}}, {{c1::psoriasis}}",
+                        ""
+                    ],
+                    "guid": "F:A0;TqMo@",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Which statement about monoclonal\nantibodies is false?&nbsp;<div> They are highly selective in binding their target&nbsp;</div><div> They are much more complex and costly to produce than small molecule\ndrugs</div><div>&nbsp; They must be administered parenterally (by injection)&nbsp;</div><div> They are metabolized by cytochromes P450 in the liver&nbsp;</div><div> They are dosed much less frequently than small molecule drugs</div>",
+                        "4"
+                    ],
+                    "guid": "r(hYwSbA4q",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "TNF-alpha can stimulate production of&nbsp;{{c1::TNF-alpha}}",
+                        "<img src=\"paste-521e34d1481afc8f77546d5f5f63d6ee034d6d8d.jpg\">"
+                    ],
+                    "guid": "e4Y;@@&`#;",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Etanercept&nbsp;<div> Soluble TNFalpha receptor\n{{c1::fusion}} protein&nbsp;</div><div> Affectively neutralises\nbiological activity of TNF alpha</div><div> Does not bind to {{c1::membrane}}\nassociated TNF alpha</div><div> Does not induce apoptosis\nof TNF alpha expressing cells&nbsp;</div><div> Effective in {{c1::RA}} but not {{c1::IBD}}</div><div>Is it a monoclonal antibody?&nbsp;{{c1::no}}</div><div><br></div><div>Infliximab</div><div>{{c1::mouse}}-human chimeric antibody<br></div><div>Binds to TNF-alpha expressing cells and induces&nbsp;{{c1::apoptosis}}</div><div>Why do they lose their effectiveness over time?&nbsp;{{c1::anti-inflixamab antibodies}}</div>",
+                        "<img src=\"paste-5a3f1da69e87543b5e326b2e8b34f1547ffb52a8.jpg\"><div><img src=\"paste-349deda8407f33fddff82f32c7fc68bce04e6e16.jpg\"><br><div><br></div></div>"
+                    ],
+                    "guid": "NGSt#YM.VT",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Adverse Effects of TNFalpha Inhibitors:<div>Reactivation of {{c1::latent tuberculosis }}&nbsp;</div><div>Increased risk of {{c1::opportunistic infections&nbsp;}}</div><div>Emergence of {{c1::Multiple Sclerosis}}&nbsp;</div><div>Injection and infusion reactions<br></div>",
+                        ""
+                    ],
+                    "guid": "LRzrsyCzP{",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "True statements concerning anti-TNF\nbiologics include&nbsp;<div> Infliximab is a mouse-human chimeric anti-TNF monoclonal antibody&nbsp;</div><div> Patients should be screened for latent tuberculosis before starting any anti-TNF drug&nbsp;</div><div> Loss of response to anti-TNF biologics is often due to their immunogenicity&nbsp;</div><div> These drugs have proved highly beneficial in treating several chronic inflammatory diseases&nbsp;</div><div> All of the above</div>",
+                        "5"
+                    ],
+                    "guid": "c;#!r2c`5z",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Anti-integrin biologics: Leukocyte extravasation inhibitors<div><br></div><div>Block the binding of&nbsp;{{c1::leukocyts}} to&nbsp;{{c1::vascular cell adhesion molecules}}</div>",
+                        "<img src=\"paste-6e11f86a3a2f079914e586feb06e318572c9d599.jpg\">"
+                    ],
+                    "guid": "b.wjSl~R_&",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Natalizumab: anti-{{c1::α4}} integrin<br>Vedolizumab: specific anti-{{c1::α4β7}} integrin<div><br></div><div>Treat&nbsp;{{c1::IBD}} and&nbsp;{{c1::MS}}&nbsp;</div>",
+                        "<img src=\"paste-f9774e4df0afe6979adf00357fd159d02b7bf277.jpg\">"
+                    ],
+                    "guid": "Phk~nJjtcB",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Anti-cytokine biologics</b><br>Drug Name: Ustekinumab<br><div>Monoclonal {{c1::anti-p40}} subunit<br></div><div><br></div><div>Inhibits:</div><div>IL-{{c1::12/23}}<br><br></div><div>T/F this IL is:</div><div>Derived from hepatocytes&nbsp;{{c1::F}}<br>Elevated in only Rheumatic Arthrits{{c1::F}}<br>Stimulate Th1 and Th17 signalling{{c1::T}}<br><br><br></div>",
+                        "Derived from many types of<br>immune cells<br>Elevated in many inflammatory<br>diseases<br>Stimulate Th1 and Th17<br>signalling<div><img src=\"paste-70c1f3f5ee73f098af0130b689a0e46e41293d27.jpg\"><br></div>"
+                    ],
+                    "guid": "s`Ojf`q3=I",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Anti-B lymphocyte biologics<br>B cells involved in pathogenesis of RA<br>B cell malignancies ie lymphoma common<br>Rituximab<br>Anti-CD20 monoclonal<br>Blocks B cell activation<br>&nbsp;Kills B cells by multiple<br>mechanisms",
+                        ""
+                    ],
+                    "guid": "PaP|FF}lUY",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "969cda51-7dd0-11eb-acdf-af478fea30f9",
+            "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "paste-4301241840ed16771b4dc018189a975f932e9ddc.jpg",
+                "paste-49d6a82bda0677d16d9eaab0aea03fc49a72bc98.jpg",
+                "paste-e137da2c0499e34f58c7d3191720c5073a791963.jpg",
+                "paste-e463ac68b4c3d6bf86769a48fab0e5038e923531.jpg",
+                "paste-e95f601c181141294f3fb2a4ab05a57ff748b8ef.jpg"
+            ],
+            "mid": 1602236504918,
+            "name": "GIT PHARM 01/03",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mesalazine is used to treat IBD especially&nbsp;{{c1::ulcerative collitis}}<div>Another name for Mesalazine is&nbsp;{{c1::5-Aminosalicytic acid}}</div><div><br></div><div>Mesalazine is administered&nbsp;{{c1::orally}} or&nbsp;{{c1::rectally}}</div><div><br></div><div>The concentration of mesalazine achived in the large intestine is&nbsp;{{c1::10-30}}mmol/l this is a very&nbsp;{{c1::high concentration}}</div><div><br></div><div>It is&nbsp;{{c1::well}} tolerated</div><div><br></div><div><br></div>",
+                        ""
+                    ],
+                    "guid": "c,$aj|:M]=",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Corticosteroids are used sometimes in patients with&nbsp;{{c1::moderate to severe}} IBD<div><br></div><div>There are&nbsp;{{c1::many}} side effects associated with&nbsp;{{c1::long}} term use of corticosteroids</div>",
+                        ""
+                    ],
+                    "guid": "V?8=_!~}g",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>IMMUNOSUPPRESSANTS:</div><div>{{c1::Slow}}-acting&nbsp;<br></div><div><br></div><div><br></div>Azathioprine/6-mercaptopurine&nbsp;<div> {{c1::Purine}} analogues&nbsp;</div><div> Decrease {{c1::nucleotide}} biosynthesis selectively in {{c1::lymphoid}} cells&nbsp;</div><div> S/Es: Bone marrow suppression, pancreatitis, allergy, lymphoma&nbsp;</div><div><br></div><div>Methotrexate&nbsp;</div><div> {{c1::Folic acid}} analogue&nbsp;</div><div> Competitive inhibitor of {{c1::dihydrofolate reductase}}</div><div>&nbsp; Induces apoptosis of activated {{c1::lymphocytes&nbsp;}}</div><div> S/Es: Liver fibrosis, pneumonitis, bone marrow suppressions</div><div><br></div>",
+                        ""
+                    ],
+                    "guid": "E1il]@`8F9",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "TNFalpha&nbsp;<div> Pro-inflammatory {{c1::cytokine&nbsp;}}</div><div> Produced by activated {{c1::macrophages}} in inflamed gut&nbsp;</div><div><br></div><div>ANTI-TNFalpha drugs</div><div>Infliximab&nbsp;</div><div> Neutralizes {{c1::soluble}} and {{c1::membrane-associated}} TNFalpha</div><div> Induces {{c1::apoptosis}} of cells expressing TNFalpha&nbsp;</div><div><br></div><div>Highly effective in induces and maintaining responses in {{c1::IBD}} patients&nbsp;<br></div><div><br></div><div><br></div><div>There is a loss of&nbsp; response to Infliximab over time, why?</div><div>{{c1::Production of anti infliximab antibodies}}<br></div><div><br></div><div>Adverse effects of TNFalpha inhibitors</div><div> Reactivation of latent {{c1::tuberculosis&nbsp;}}</div><div> Increased risk of opportunistic infections&nbsp;</div><div> Emergence of {{c1::Multiple Sclerosis&nbsp;}}</div><div> Injection and infusion reactions<br></div><div><br></div><div><br></div><div><br></div>",
+                        "V#<img src=\"paste-4301241840ed16771b4dc018189a975f932e9ddc.jpg\">"
+                    ],
+                    "guid": "JOZt<go-o0",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Anti-integrin Biologics for IBD patients<div>Drug Name:{{c1::Vedolizumab\n(Entyvio)}}</div><div> {{c1::Slow}} acting&nbsp;</div><div> {{c1::IV}} administered</div><div> {{c1::Good}} efficacy&nbsp;</div><div> {{c1::Very few}} side effects<br><div><br></div></div>",
+                        "<img src=\"paste-e137da2c0499e34f58c7d3191720c5073a791963.jpg\">"
+                    ],
+                    "guid": "D+TNtPW]ep",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Anti-cytokine biologics in IBD<div>Drug Name:&nbsp;{{c1::Ustekinumab (Stelara)}}</div><div> Combines IL-{{c1::12/23}}</div><div> Derived from many types of\nimmune cells</div><div> Elevated in many inflammatory\ndiseases</div><div> Stimulate {{c1::Th1}} and {{c1::Th17}}\nsignalling&nbsp;</div><div> Monoclonal anti-{{c1::p40}} subunit</div><div> Good efficacy&nbsp;</div><div> Well tolerated&nbsp;</div><div> First dose {{c1::IV}} then SC<br></div>",
+                        "<img src=\"paste-49d6a82bda0677d16d9eaab0aea03fc49a72bc98.jpg\">"
+                    ],
+                    "guid": "O!4O:h@8LU",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Vomiting<div><br></div><div>GI Irritation:&nbsp;</div><div>Cytotoxic Drugs, Radiation &amp; other GI irritants release 5-HT from the\n{{c1::enterochromaffin}} cells&nbsp;</div><div>\nStimulation of the {{c::15-HT3}} Receptors present on vagal afferents</div><div>\nStimulation of {{c1::CTZ&nbsp;}}</div><div>\nVomiting<br></div><div><br></div><div>Vestibular Irritation:</div><div>-The vestibular apparatus generates impulses when body is\nrotated or {{c1::equilibrium}} is disturbed or when {{c1::ototoxic}} drugs\nact.&nbsp;</div><div>-These impulses reach the vomiting centre mainly relayed by\nthe {{c1::M}} and the {{c1::H1}}\nreceptors.&nbsp;</div><div>-Various sensory stimuli such as bad odour, ghastly sight,\nsevere pain as well as fear cause {{c1::nausea}} and vomiting by\ndirect stimulation of higher centres<br></div>",
+                        "CTZ=Chemoceptor trigger zone<div><img src=\"paste-e463ac68b4c3d6bf86769a48fab0e5038e923531.jpg\"><br></div>"
+                    ],
+                    "guid": "t&&F!<`+3N",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>Vomiting Mediators and Receptors</div>5-HT: an important mediator involved in such\nsignals, many other mediators and peptides are also\ninvolved.&nbsp;<div><br></div><div>The CTZ expresses a variety of receptors e.g.\nHistamine H{{c1::1}}\n, Dopamine D{{c1::2}}\n, Cholinergic M, Opioid u and the Serotonin 5-HT{{c1::3}}\nreceptors, through which\nthe emetic signals are relayed.</div><div><br></div><div><br></div>",
+                        ""
+                    ],
+                    "guid": "P2O=UI*mhD",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>Anticholinergics,&nbsp;H1 Antihistamines,&nbsp;Neuroleptics,&nbsp;D2 Receptor Antagonist,&nbsp;5-HT3 Receptor Antagonist,&nbsp;Others<br></div><div><br></div><div> {{c1::D2 Receptor Antagonist}}: Domperidone, Metoclopramide&nbsp;<br></div><div> {{c1::Neuroleptics}}: Chlorpromazine, Haloperidol</div><div> {{c1::Anticholinergics}}: Hyoscine, Dicyclomine&nbsp;<br></div><div> {{c1::Others}}: Dexamethasone, BZD, Cannabinoids<br></div><div> {{c1::H1 Antihistamines}}: Promethazine, Cyclizine, Diphenhydramine, Cinnarizine<br></div><div> {{c1::5-HT3 Receptor Antagonist}}: Ondansetron, Granisetron&nbsp;<br></div><div><br></div>",
+                        ""
+                    ],
+                    "guid": "G~E%%,93U4",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Anticholinergics<div>Hyoscine is an effective drug for\n{{c1::motion sickness&nbsp;}}</div><div> Blocks {{c1::muscarinic}} receptors</div><div> suitable for short journeys</div><div> blocks the conduction of nerve impulses\nacross a cholinergic link pathway\nleading from the {{c1::vestibular apparatus}} to\nthe vomiting centre.&nbsp;</div><div> anticholinergic side effects such as {{c1::dry\nmouth}} and {{c1::sedation}}</div>",
+                        ""
+                    ],
+                    "guid": "CD_[-bT+j;",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "H1 Antihistamines&nbsp;<div>Promethazine, Diphenhydramine&nbsp;</div><div> Anticholinergic, antihistaminic and {{c1::sedative}}\neffects&nbsp;</div><div> Protect from motion sickness for {{c1::4-6}} hrs.&nbsp;</div><div> {{c1::Cyclizine}}, {{c1::Meclizine}}, are less sedative&nbsp;</div><div> {{c1::Meclizine}} has a long duration of action used\nin sea sickness.</div>",
+                        ""
+                    ],
+                    "guid": "mg~(U2=vAX",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Neuroleptics&nbsp;<div>prochlorpromazine&nbsp;</div><div>-Potent {{c1::antiemetics}}&nbsp;</div><div>-Block {{c1::D2}} receptors in the CTZ.&nbsp;</div><div>-Broad spectrum antiemetic effect and is\nuseful in&nbsp;</div><div> Drug induced and postanaesthetic {{c1::nausea}} and\nvomiting&nbsp;</div><div> Vomiting due to diseases: {{c1::gastroenteritis}},\nmigraine etc.&nbsp;</div><div> {{c1::Hyperemesis gravidarum}}</div><div>-Second line agents&nbsp;</div><div>-Sedation++</div>",
+                        ""
+                    ],
+                    "guid": "r`_liF.^H?",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "D2 receptor antagonist:&nbsp;<div>-Metoclopromide&nbsp;<div> It increases GI {{c1::peristalsis}} leading\nto increased gastric emptying&nbsp;</div><div><br></div><div> The tone of {{c1::lower oesophageal\nsphincter}} is increased&nbsp;</div><div><br></div><div> ADR&nbsp;</div><div>&nbsp; &nbsp;  sedation, dizziness, movement\ndisorders (extrapyramidal)&nbsp;</div><div>&nbsp; &nbsp;  acute {{c1::dystonias}} eg spasmodic torticollis&nbsp;</div><div>&nbsp; &nbsp;  {{c1::occulogyric}} crisis&nbsp;</div><div>&nbsp; &nbsp;  Managed with antihistamines eg\ndiphenhydramine&nbsp;</div><div><br></div><div> Long term use can cause\n{{c1::Parkinsonism}} (tardive dyskinesia)&nbsp;</div><div><br></div><div>-Domperidone&nbsp;</div><div>&nbsp; &nbsp; &nbsp; Similar but does not cross BBB – fewer\nside effects but less&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;effective&nbsp;<br></div><div>&nbsp; &nbsp; &nbsp; Associated with long {{c1::QT}} Syndrome</div></div>",
+                        "<b>Oculogyric crisis</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;refers to spasms of extraocular muscles leading to tonic eye deviation</span>"
+                    ],
+                    "guid": "iMg6Wc&n)Q",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>5-HT3 Receptor Antagonists<br></div><div><br></div>Very effective in treating {{c1::Cancer\nChemotherapy/Radiotherapy}} induced vomiting&nbsp;<div><br></div><div>It is effective in vomiting due to any cause\n&nbsp;</div><div><br></div><div>Blocks the emetogenic impulses both at their\nperipheral origin and their central relay.\n&nbsp;</div><div><br></div><div>It has no {{c1::DA}} blocking effects\n&nbsp;</div><div><br></div><div>It is given {{c1::orally}} or {{c1::i.v}}\n&nbsp;</div><div><br></div><div>Generally well tolerated and very few side effects\n&nbsp;</div><div><br></div><div>Granisetron is {{c1::10}} times potent than Ondansetron</div>",
+                        ""
+                    ],
+                    "guid": "ekH/K5GGA+",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Constipation usually the result of {{c1::slow colonic}} transit (lazy\nbowel)&nbsp;<div> Intermittent constipation is best prevented with a {{c1::high fibr}}e\ndiet, adequate fluid intake, regular exercise&nbsp;</div><div><br></div><div> Those not responding to the above measures should be\nmedically evaluated before started on laxatives</div>",
+                        ""
+                    ],
+                    "guid": "zuakqU~yT!",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Does it cause constipation?<div>Opioid analgesics?&nbsp;{{c1::yes}}</div><div>Cationic Drugs?&nbsp;{{c1::yes}}</div><div>Anionic Drugs?&nbsp;{{c1::its not in the lecture so we'll say no}}</div><div>NSAID Drugs?&nbsp;{{c1::Nah}}</div><div>Calcium Channel blockers&nbsp;{{c1::Yes}}</div><div>Cholinergic&nbsp;{{c1::No, anti-cholinergic}}</div>",
+                        ""
+                    ],
+                    "guid": "P!-Ih1~d.:",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Bulk Forming Laxatives&nbsp;<div><br></div><div> Indigestible, hydrophilic colloids that absorb\nwater, forming a bulky {{c1::emollient gel}} that\ndistends the colon and promotes {{c1::peristalsis}}&nbsp;</div><div><br></div><div> Natural plant products:&nbsp;</div><div>-{{c1::Psyllium}} husk&nbsp;</div><div>-{{c1::Methylcellulose}}&nbsp;</div><div><br></div><div> Synthetic fibres – Polycarbophil&nbsp;</div><div><br></div><div> ADR of these preparations include {{c1::bloating of\nabdomen}}</div>",
+                        ""
+                    ],
+                    "guid": "PM~A<T(QDI",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Stool Softeners&nbsp;<div> Soften the stool material, permitting {{c1::water}} and {{c1::lipids}}\nto penetrate&nbsp;</div><div><br></div><div> They are administered {{c1::orally}} or {{c1::rectally}}.&nbsp;</div><div><br></div><div> Common agents</div><div>-Docusate (orally and as an enema)&nbsp;</div><div>-{{c1::Glycerine}} suppository&nbsp;</div><div><br></div><div> Mineral oil is a clear, viscous oil which lubricates\nfaecal material, retarding water absorption from the\nstool (for treating faecal impaction in {{c1::children}})</div>",
+                        ""
+                    ],
+                    "guid": "rdXTI1Q`f@",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Osmotic Laxatives&nbsp;<div> Osmotic laxatives are soluble but {{c1::nonabsorbable}}\ncompounds&nbsp;</div><div>&nbsp;-result in increased stool liquidity due to an increase in faecal\nfluid&nbsp;</div><div><br></div><div> Magnesium oxide – to be used with caution in patients with\n{{c1::renal}} impairment (may cause {{c1::hypermagnesemia}})&nbsp;</div><div><br></div><div> Sorbitol &amp; Lactulose –&nbsp;</div><div>-Treatment of {{c1::chronic}} constipation&nbsp;</div><div>-Metabolized by the colonic bacteria&nbsp;</div><div>-May cause severe {{c1::flatus}} and {{c1::cramps}}</div>",
+                        ""
+                    ],
+                    "guid": "N?#)l&&Kdx",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Motility stimulant&nbsp;<div> Prucalopride&nbsp;</div><div>-{{c1::5HT4}} agonist&nbsp;</div><div>-Stimulates colonic\nsmooth muscle\n{{c1::contraction&nbsp;}}</div><div>When is it used?&nbsp;{{c1::The other treatments have failed}}</div>",
+                        "<img src=\"paste-e95f601c181141294f3fb2a4ab05a57ff748b8ef.jpg\">"
+                    ],
+                    "guid": "m[a%Y<J7n*",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "WHen should anti-diarrhoetic drugs NOT be used?",
+                        "When there is stool in the diarrhoea"
+                    ],
+                    "guid": "F,Iw,U1`#k",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Opioid Agonists (for diarrhoea)<div><br></div><div> These agents have significant constipating effects&nbsp;</div><div><br></div><div> Inhibition of {{c1::pre}}synaptic cholinergic nerves in {{c1::submucosal}} and\n{{c1::myenteric}} plexus and lead to increased colonic transit time.&nbsp;</div><div>-Loperamide&nbsp;&nbsp;</div><div>-{{c1::Diphenoxylate&nbsp;}}</div><div><br></div><div> Less CNS effect than conventional opiates, why?&nbsp;{{c1::Doesn't usually cross the BBB}}</div><div><br></div><div> At higher than recommended doses, CNS effects can occur&nbsp;</div><div><br></div><div> Codeine can also be used (morphine pro-drug)</div>",
+                        ""
+                    ],
+                    "guid": "H@qYQ<XY6U",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Anti-cholinergics (for diarrhoea)<div><br></div><div>Atropine&nbsp;</div><div><br></div><div> Combined with opioids in certain pharmaceutical preparations</div><div>-Low dose&nbsp;</div><div>-Uncertain benefit at such low doses&nbsp;</div><div><br></div><div>What happnes at doses sufficient to inhibit diarrhoea?&nbsp;{{c1::Many bad side effects Dry mouth, tachycardia, sedation}}</div><div><br></div>",
+                        ""
+                    ],
+                    "guid": "O=rr/X;&h9",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "969eadd5-7dd0-11eb-9fbb-af478fea30f9",
+            "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "1ad708726cb340fabbd48a89a486f940-ao-1-A.svg",
+                "1ad708726cb340fabbd48a89a486f940-ao-1-Q.svg",
+                "1ad708726cb340fabbd48a89a486f940-ao-2-A.svg",
+                "1ad708726cb340fabbd48a89a486f940-ao-2-Q.svg",
+                "1ad708726cb340fabbd48a89a486f940-ao-3-A.svg",
+                "1ad708726cb340fabbd48a89a486f940-ao-3-Q.svg",
+                "1ad708726cb340fabbd48a89a486f940-ao-4-A.svg",
+                "1ad708726cb340fabbd48a89a486f940-ao-4-Q.svg",
+                "1ad708726cb340fabbd48a89a486f940-ao-O.svg",
+                "paste-0df824779fe0fd45e809249e1e283d49489e328f.jpg",
+                "paste-4a5a63dedccb023ede42c065be9707f2979c8937.jpg",
+                "paste-4aadf770ecaa2186ef02bc180460e81420380e28.jpg",
+                "paste-833c5702fc009736b1ec143329d762ce03850f30.jpg",
+                "paste-f351da7749cb8c28dcaf7246b7ed24f940bb1b97.jpg",
+                "tmpye0sogmy.png"
+            ],
+            "mid": 1602236504918,
+            "name": "GIT Pharm, Ulcers 02/03",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Peptic Ulcer Disease:<div><br></div><div>Three areas where ulcers occur in it;&nbsp;{{c1::Esophagus}}(due to acid reflux),&nbsp;{{c1::stomach}} and{{c1::small intestine}} .</div><div><br></div><div>Most common symptom of PUD is&nbsp;{{c1::a gnawing pain}} &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br></div>",
+                        ""
+                    ],
+                    "guid": "nm[%*`@jFw",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "PUD: Pathogenesis&nbsp;<div><br></div><div>Normal defences against ulcers T/F</div><div><br></div><div>Peristalsis&nbsp;{{c1::F}}</div><div>Mucus&nbsp;{{c1::t}}</div><div>Cell renewal&nbsp;{{c1::t}}&nbsp;</div><div>Blood flow&nbsp;{{c1::t}}<br></div><div>Secretin&nbsp;{{c1::f}}</div><div>Cytokines&nbsp;&nbsp;{{c1::f}}</div><div>Bicarbonate layer&nbsp;&nbsp;{{c1::t}}</div><div>Sphincters&nbsp;&nbsp;{{c1::f}}</div><div>Prostaglandins&nbsp;{{c1::t}}<br></div><div>Cell renewal&nbsp;&nbsp;{{c1::t}}</div><div><br></div><div>Pathogenic Factors:</div><div><br></div><div>Most Common:</div><div>{{c1::helicobacter}} infection and&nbsp;{{c1::NSAIDs}}<br></div><div><br></div><div>Least Common:&nbsp;</div><div>Excess {{c1::Acid}}<br></div><div><br></div><div><br></div><div>ULCER OCCURS WHEN&nbsp;{{c1::PATHOGENIC}} FACTORS OUTWEIGH&nbsp;{{c1::DEFENSES}}</div><div><br></div><div><br></div>",
+                        ""
+                    ],
+                    "guid": "rQ;)x1WMa8",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<img src=\"paste-0df824779fe0fd45e809249e1e283d49489e328f.jpg\"><div>Helicobacter&nbsp;{{c1::Pylori}}</div><div><br></div><div>Gram&nbsp;{{c1::negative}} bacillus</div><div>Causes&nbsp;{{c1::Chronic Gastritis}}</div><div><br></div><div>Present in most patients with a non-NSAID linked&nbsp;{{c1::duodenal}} Ulcer</div><div><br></div><div><br></div><div><br></div>",
+                        "H. pylori infection is detectable before the occurrence of DU\nand appears to be a risk factor for the disorder.<div><br></div><div>Eradication of H. pylori prevents disease recurrence<br></div>"
+                    ],
+                    "guid": "lKCwHKk&uA",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "PUD and NSAIDs<div><br></div><div>NSAIDs decrease protective {{c1::prostaglandin}} production in the\nstomach (systemic effect)<br></div><div><br></div><div>Maybe additional direct irritant effect (local effect)<br></div>",
+                        ""
+                    ],
+                    "guid": "q^Ek|?*<`J",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is a Gastrinoma?<div>What disease causes Gastrinomas?</div><div>How can Gastrinomas cause Peptic Ulcers?</div>",
+                        "Gastrin secreting tumour<div>Zollinger-Ellison Syndrome</div><div>Gastrin is acidic and excess acid causes ulcer.</div>"
+                    ],
+                    "guid": "j7qs<7X]:?",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "1ad708726cb340fabbd48a89a486f940-ao-1",
+                        "",
+                        "<img src=\"tmpye0sogmy.png\" />",
+                        "<img src=\"1ad708726cb340fabbd48a89a486f940-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"1ad708726cb340fabbd48a89a486f940-ao-1-A.svg\" />",
+                        "<img src=\"1ad708726cb340fabbd48a89a486f940-ao-O.svg\" />"
+                    ],
+                    "guid": "G>ztJ7ogmd",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "1ad708726cb340fabbd48a89a486f940-ao-2",
+                        "",
+                        "<img src=\"tmpye0sogmy.png\" />",
+                        "<img src=\"1ad708726cb340fabbd48a89a486f940-ao-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"1ad708726cb340fabbd48a89a486f940-ao-2-A.svg\" />",
+                        "<img src=\"1ad708726cb340fabbd48a89a486f940-ao-O.svg\" />"
+                    ],
+                    "guid": "L<I5nGhZEp",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "1ad708726cb340fabbd48a89a486f940-ao-3",
+                        "",
+                        "<img src=\"tmpye0sogmy.png\" />",
+                        "<img src=\"1ad708726cb340fabbd48a89a486f940-ao-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"1ad708726cb340fabbd48a89a486f940-ao-3-A.svg\" />",
+                        "<img src=\"1ad708726cb340fabbd48a89a486f940-ao-O.svg\" />"
+                    ],
+                    "guid": "to[n/dzM-q",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "1ad708726cb340fabbd48a89a486f940-ao-4",
+                        "",
+                        "<img src=\"tmpye0sogmy.png\" />",
+                        "<img src=\"1ad708726cb340fabbd48a89a486f940-ao-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"1ad708726cb340fabbd48a89a486f940-ao-4-A.svg\" />",
+                        "<img src=\"1ad708726cb340fabbd48a89a486f940-ao-O.svg\" />"
+                    ],
+                    "guid": "q-hhml@QYB",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "The Three Gastric Acid Secretagogues are<div>{{c1::Histamine}}: Produced by&nbsp;{{c1::M}} cells</div><div>{{c1::Ach}}: Produced by&nbsp;{{c1::Cholinergic}} Nerves<br></div><div>{{c1::Gastrin}}: Delivered via Blood vessels<br></div>",
+                        "<img src=\"paste-4aadf770ecaa2186ef02bc180460e81420380e28.jpg\">"
+                    ],
+                    "guid": "nED1=O+X[A",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Inhibition Of Gastric Acid:<div><br></div><div><b>ANTACIDS</b>:</div><div><br></div><div>-{{c1::Neutralizes}} Gastric Acids and {{c1::raises}} pH</div><div><br></div><div>-Contains:</div><div>&nbsp; &nbsp; &nbsp; &nbsp;{{c1::Magnesium}} salts,which can cause diarrhoea</div><div>&nbsp; &nbsp; &nbsp; &nbsp;{{c1::Aluminium}} salts, which can cause constipation</div><div>&nbsp; &nbsp; &nbsp; &nbsp; {{c1::Sodium Hydroxide}}</div><div>Most preparations use various anatacids together.</div><div><br></div><div><b>H2 receptor antagonists&nbsp;</b></div><div><br></div><div> {{c1::Competitive}} antagonists of the receptor&nbsp;</div><div><br></div><div> Inhibit {{c1::basal acid}} secretion&nbsp;</div><div><br></div><div> Decrease acid secretion in response to&nbsp;</div><div>- Histamine&nbsp;</div><div>- Gastrin&nbsp;</div><div>- Acetylcholine&nbsp;</div><div>Why?&nbsp;{{c1::All have an effect on m cells}}</div><div><br></div><div> Examples&nbsp;</div><div>- {{c1::Cimetidine}}&nbsp;</div><div>- {{c1::Ranitidine}}<br></div><div>Very Effective</div><div><br></div><div><b>Proton pump inhibitors</b><br></div><div><br></div><div>Irreversible inhibition of the {{c1::H+/K+-ATPase (the proton pump}})&nbsp;</div><div><br></div><div>&nbsp;Final common pathway of basal and induced acid secretion&nbsp;</div><div><br></div><div>Are administered as {{c1::prodrugs}}</div><div><br></div><div>Weak bases, accumulate in the acid environment of the canaliculi of\nthe stimulated parietal cell where they are activated</div><div><br></div><div>Examples:&nbsp;{{c1::Omeprazole, lansoprazole, rabeprazole}} (3)</div><div><br></div><div><br></div>",
+                        "Antacid example:&nbsp;Maalox:\nEach 5 ml of oral solution contains:\nAluminium hydroxide 175mg\nMagnesium hydroxide 200mg<div><br></div><div><img src=\"paste-833c5702fc009736b1ec143329d762ce03850f30.jpg\"><br></div>"
+                    ],
+                    "guid": "y(mL?C-&z0",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Cimetidine and ranitidine&nbsp;<div><br></div><div> {{c1::High}} oral bioavailability&nbsp;</div><div> Usually given twice daily&nbsp;</div><div> Low side effect profile :{{c1::Diarrhoea}} and {{c1::Rash}}&nbsp;</div><div><div> Available OTC&nbsp;</div><div> Renal excretion – reduce dose in renal insufficiency</div></div><div><br></div><div>Cimetidine inhibits {{c1::CYP450&nbsp;}}</div><div> Drug interactions (Higher {{c1::Warfarin}} and {{c1::TCA}} levels)&nbsp;</div><div><br></div>",
+                        ""
+                    ],
+                    "guid": "QC<m#WC(M9",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Omeprazole&nbsp;<div> Best taken 30 minutes before a meal&nbsp;</div><div> Also IV&nbsp;</div><div><br></div><div> Adverse effects are {{c1::Very well}} tolerated:&nbsp;</div><div> {{c1::Diarrhoea&nbsp;}}</div><div> {{c1::Allergic skin rash&nbsp;}}</div><div><br></div><div> S-enantiomer available also (esomeprazole)&nbsp;</div><div> Metabolized by {{c1::CYP2C19}}</div>",
+                        ""
+                    ],
+                    "guid": "bKhGIs8?!s",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Proton Pump Inhibitors have a half life of 1-1.5 hours, yet their duration of action is 24-36 hours, how?",
+                        "Canalicular trapping by protonation (weak base in an acidic pH)&nbsp;<div> Irreversible inhibition of H+/K+ ATPase so requires Requires new pump synthesis to start secreting acid again.</div>"
+                    ],
+                    "guid": "ILf8Zoi``,",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "The recurrent rate of PUD is &gt;&nbsp;{{c1::30%}}<div><br></div><div>Requires long-term {{c1::H2RA}} or {{c1::PPI}} therapy</div><div><div><br></div></div>",
+                        " Expense&nbsp;<div> Inconvenience&nbsp;</div><div> Potential for side effects</div>"
+                    ],
+                    "guid": "dq(zhLFuz}",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "1. Antacids block gastric acid\nsecretion&nbsp;<div>2. Cimetidine inhibits the final\ncommon pathway for acid\nsecretion&nbsp;</div><div>3. Acid inhibition causes\nmalabsorption&nbsp;</div><div>4. Omeprazole has a long\nplasma half life, explaining\nits 24h duration of action&nbsp;</div><div>5. Omeprazole is trapped in\nthe parietal cell and\nirreversibly inhibits the\nproton pump</div>",
+                        "5. Omeprazole is trapped in\nthe parietal cell and\nirreversibly inhibits the\nproton pump"
+                    ],
+                    "guid": "n%u3iN+&nU",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "H. pylori eradication<div><br><div>{{c1::multi}} drug regimens<br></div></div><div><br></div><div>Answer Penicillin tolerant, penecillin allergic or both to treatrment options</div><div><br></div><div>Metronidazole&nbsp;{{c1::PCN allergic}}<br></div><div>Clarithromycin&nbsp;{{c1::both}}</div><div>Amoxicillin&nbsp;{{c1::PCN tolerant}}</div><div>PPI&nbsp;{{c1:: Both}}</div><div><br></div><div>7-14 days</div><div>{{c1::80-90}}% eradication rate.<br></div>",
+                        " Variable efficacy&nbsp;<div> Gradual increase in prevalence of drug-resistant strains</div>"
+                    ],
+                    "guid": "HQD)Kps}:`",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>NSAIDs</b>&nbsp;&nbsp;<div>Aspirin and Non-aspirin anti-inflammatory pain killers&nbsp;</div><div> Used to treat pain, especially arthritic pain&nbsp;</div><div><br></div><div> Block the actions of {{c1::cyclo-oxygenase}}&nbsp;</div><div> {{c1::↓}} levels of PGE2&nbsp;</div><div> {{c1::↓}} Mucous and bicarbonate secretion&nbsp;</div><div>&nbsp;{{c1::increase}} acid production</div><div><br></div><div>To mitigate this you use&nbsp;</div><div><b>Misoprostol</b><br></div><div><b><br></b></div><div> Stable analogue of {{c1::PGE2}}&nbsp;</div><div> Oral – produces high concentration at gastro-duodenal\nmucosa&nbsp;</div><div> Mitigates harmful effects of NSAIDs on {{c1::PG}} production in\nstomach&nbsp;</div><div> Decreases rate of NSAID-induced {{c1::ulceration&nbsp;}}</div><div> Usefulness limited by\n {{c1::Diarrhoea}}\n Effects on {{c1::cervix}}<b><br></b></div>",
+                        ""
+                    ],
+                    "guid": "NKi&:<F5`t",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "1. Peptic ulcers can be caused by an\ninfection with H pylori&nbsp;<div>2. Eradication of H pylori with 2\nantibiotics and a PPI is 100%\neffective&nbsp;</div><div>3. Misoprostol blocks prostaglandin\nreceptors&nbsp;</div><div>4. NSAIDs decrease gastro-protective\nprostaglandins&nbsp;</div><div>5. PPIs are available over the counter</div>",
+                        "2 and 3 smh Larry"
+                    ],
+                    "guid": "ehx0t>3i1o",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Gastro-oesophageal reflux disease</b>&nbsp;<div> Incompetence of {{c1::lower\noesophageal sphincter}} (obesity,\ndrugs, heredity…….)&nbsp;</div><div> Reflux of acidic gastric contents\ninto lower oesophagus</div><div> Heartburn&nbsp;</div><div><br></div><div> Complications&nbsp;</div><div>&nbsp; &nbsp; -{{c1::Stricture&nbsp;}}</div><div>&nbsp; &nbsp; -{{c1::Barretts oesophagus &amp; cancer}}</div><div><br></div><div>Diagnosis:&nbsp;</div><div> {{c1::Heartburn}} symptoms&nbsp;</div><div> Reflux oesophagitis&nbsp;</div><div><br></div><div> Gold standard test</div><div>&nbsp;-24 hour oesophageal pH</div><div>&nbsp;-{{c1::De Meester}} score<br></div>",
+                        "<div><img src=\"paste-f351da7749cb8c28dcaf7246b7ed24f940bb1b97.jpg\"><br></div><img src=\"paste-4a5a63dedccb023ede42c065be9707f2979c8937.jpg\">"
+                    ],
+                    "guid": "j|#%5|3!Q4",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "GORD: Treatment&nbsp;<div> Prevent acid reflux&nbsp;</div><div> Weight loss, drug avoidance, elevate head of bed etc&nbsp;</div><div> Surgical {{c1::fundoplication&nbsp;}}</div><div> Increase tone of {{c1::LOS&nbsp;}}</div><div><br></div><div> Medical&nbsp;</div><div> Suppress gastric acidity (requires chronic therapy)&nbsp;</div><div> {{c1::PPI}} or {{c1::H2RA}}<br></div>",
+                        ""
+                    ],
+                    "guid": "U-Zk|]xw?",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "969fe5ce-7dd0-11eb-8411-af478fea30f9",
+            "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "1544a2db81e54eb3aea4ea1f5f3af765-oa-1-A.svg",
+                "1544a2db81e54eb3aea4ea1f5f3af765-oa-1-Q.svg",
+                "1544a2db81e54eb3aea4ea1f5f3af765-oa-2-A.svg",
+                "1544a2db81e54eb3aea4ea1f5f3af765-oa-2-Q.svg",
+                "1544a2db81e54eb3aea4ea1f5f3af765-oa-3-A.svg",
+                "1544a2db81e54eb3aea4ea1f5f3af765-oa-3-Q.svg",
+                "1544a2db81e54eb3aea4ea1f5f3af765-oa-O.svg",
+                "d1f829bd93fa4637b526c3ffbd0c2069-oa-1-A.svg",
+                "d1f829bd93fa4637b526c3ffbd0c2069-oa-1-Q.svg",
+                "d1f829bd93fa4637b526c3ffbd0c2069-oa-O.svg",
+                "tmphj6msyzl.png",
+                "tmpvsmuyas5.png"
+            ],
+            "mid": 1602236504914,
+            "name": "IMMUNOPHARM 3: Allergies 15/02",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "1544a2db81e54eb3aea4ea1f5f3af765-oa-1",
+                        "",
+                        "<img src=\"tmphj6msyzl.png\" />",
+                        "<img src=\"1544a2db81e54eb3aea4ea1f5f3af765-oa-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"1544a2db81e54eb3aea4ea1f5f3af765-oa-1-A.svg\" />",
+                        "<img src=\"1544a2db81e54eb3aea4ea1f5f3af765-oa-O.svg\" />"
+                    ],
+                    "guid": "GkI9gYkEaA",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "1544a2db81e54eb3aea4ea1f5f3af765-oa-2",
+                        "",
+                        "<img src=\"tmphj6msyzl.png\" />",
+                        "<img src=\"1544a2db81e54eb3aea4ea1f5f3af765-oa-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"1544a2db81e54eb3aea4ea1f5f3af765-oa-2-A.svg\" />",
+                        "<img src=\"1544a2db81e54eb3aea4ea1f5f3af765-oa-O.svg\" />"
+                    ],
+                    "guid": "vERa%nE~.w",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "1544a2db81e54eb3aea4ea1f5f3af765-oa-3",
+                        "",
+                        "<img src=\"tmphj6msyzl.png\" />",
+                        "<img src=\"1544a2db81e54eb3aea4ea1f5f3af765-oa-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"1544a2db81e54eb3aea4ea1f5f3af765-oa-3-A.svg\" />",
+                        "<img src=\"1544a2db81e54eb3aea4ea1f5f3af765-oa-O.svg\" />"
+                    ],
+                    "guid": "s_Ghr#zRE`",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::IgE}} binds to an Allergen, then&nbsp;{{c1::IgE}} binds to the&nbsp;{{c2::FC}} receptor on the mast cell, causing the release of&nbsp;{{c3::Histamine}}<br>",
+                        ""
+                    ],
+                    "guid": "NIXG`tQK!j",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "d1f829bd93fa4637b526c3ffbd0c2069-oa-1",
+                        "",
+                        "<img src=\"tmpvsmuyas5.png\" />",
+                        "<img src=\"d1f829bd93fa4637b526c3ffbd0c2069-oa-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"d1f829bd93fa4637b526c3ffbd0c2069-oa-1-A.svg\" />",
+                        "<img src=\"d1f829bd93fa4637b526c3ffbd0c2069-oa-O.svg\" />"
+                    ],
+                    "guid": "qhD]=Ua!)9",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Epinephrine stimulates&nbsp;{{c1::vasoconstriction}} on alpha-adrenoreceptors,&nbsp;{{c1::increased cardiac contractility}} on beta-1 receptors and&nbsp;{{c1::bronchodilation}} on beta-2 adrenoceptors",
+                        ""
+                    ],
+                    "guid": "m;Nd1?~}j|",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Atopic individuals often have&nbsp;{{c1::multiple allergies}}",
+                        ""
+                    ],
+                    "guid": "lPP/3y,1-e",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "For Atopy, corticosteroids should be administered&nbsp;{{c1::prophylactally}} as they are slow acting, and&nbsp;{{c1::topically}} to minimize systemic exposure",
+                        ""
+                    ],
+                    "guid": "-d+eCU8^m",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Corticosteroids such as fluticasone, triamcinolone, beclomethasone are structurally modified&nbsp;{{c1::hydrocortisone}} and they have high&nbsp;{{c1::lipophilicity}}, high&nbsp;{{c1::first-pass metabolism}} and are more potent at&nbsp;{{c1::glucocorticoid}} receptors",
+                        ""
+                    ],
+                    "guid": "p|,0e4h2l$",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mast cell stabilizers inhibit&nbsp;{{c1::sodium channels}} on mast cells which prevent {{c1::degranulation}} and&nbsp;{{c1::histamine}} release.",
+                        ""
+                    ],
+                    "guid": "ik&v|AiIBQ",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "1st generation&nbsp; anti-histamines are lipo{{c1::phillic}}and they act as&nbsp;{{c1::inverse agonists}} (effect on receptor)",
+                        ""
+                    ],
+                    "guid": "c(64x=H#ua",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is anaphylaxis mediated by?",
+                        "IgE"
+                    ],
+                    "guid": "H&w35r.AP*",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Where is the effect of a mild allergic reaction felt?",
+                        "At the site of contact with the allergen"
+                    ],
+                    "guid": "fiF,Hvx.O{",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Name 5 clinical examples of allergic diseases",
+                        "Food allergy, Asthma, Allergic Rhinitis, Drug Allergy, Contact dermatitis"
+                    ],
+                    "guid": "uoD!cIX>zZ",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What sort of cells produce IgE?",
+                        "Plasma Cells"
+                    ],
+                    "guid": "yS_Ms_[Vmu",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the process of mast cells releasing Histamine called?",
+                        "De-granulation"
+                    ],
+                    "guid": "Hc2I^#C{/1",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What other substances are produced by the mast cells?",
+                        "Eicosanoids"
+                    ],
+                    "guid": "vjZXOa;tot",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What does H1 agonism cause in the bronchial smooth muscle?",
+                        "Contraction"
+                    ],
+                    "guid": "Go[l5s+,p3",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What does H1 agonism cause in endothelial cells",
+                        "? Vasodilation and vascular permeability"
+                    ],
+                    "guid": "i/~tBX,ec/",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What cohort of people does type 1 hypersensitivity reactions affect?",
+                        "Those who are genetically susceptible"
+                    ],
+                    "guid": "wT|7)hnyDW",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the itch caused by, in mild allergic reaction?",
+                        "Sensory Nerve irritation"
+                    ],
+                    "guid": "fm6Sx*6ey/",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is urticaria?",
+                        "Hives"
+                    ],
+                    "guid": "Iov{rk9A?@",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is angioedema?",
+                        "Rapid oedema of the area beneath the skin or mucosa."
+                    ],
+                    "guid": "K>XEz}rto",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "How long after exposure to allergen does anaphylaxis occur?",
+                        "5-60mins"
+                    ],
+                    "guid": "jP=r9ZXe@o",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What substance should you administer straight away if someone has anaphylaxis?",
+                        "Epinephrine"
+                    ],
+                    "guid": "gg9gKORe).",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Why is there only a limited benefit of giving anti-histamines during anaphylaxis?",
+                        "The histamine is already in the body."
+                    ],
+                    "guid": "eg|L=ve54{",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What are three other types of drugs that can be given to those who suffer from anaphylaxis?",
+                        "Anti-histamines, beta-2 adrenoceptors, corticosteroids"
+                    ],
+                    "guid": "d6)m*kh[.x",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "When does the 2nd phase of anaphylaxis occur?",
+                        "8-72 hours after initial symptoms"
+                    ],
+                    "guid": "prnQe|i~=|",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What drugs inhibit the 2nd phase of anaphylaxis?",
+                        "Corticosteroids."
+                    ],
+                    "guid": "nuuEY)l3_(",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Why can corticosteroids&nbsp; diffuse through membranes and get to the affected tissues easily",
+                        "They ar lipophillic&nbsp;"
+                    ],
+                    "guid": "rWJ>c{Mc;&",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What affect does chronic use of topical corticosteroids have on the skin?",
+                        "It thins the skin"
+                    ],
+                    "guid": "gEK34XTOqb",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Name two mast cell stabilisers",
+                        "Cromolyn sodium and nedocromil"
+                    ],
+                    "guid": "Hx#|LuguwA",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Name two 1st generation anti-histamines",
+                        "diphenhydramine and chlorpheniramine"
+                    ],
+                    "guid": "MA7z&&]3^f",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What are 1st generation anti-histamines used for?",
+                        "Anaphylaxis and nausea"
+                    ],
+                    "guid": "cB5)whh^v6",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Why do 1st geration anti-histamines cause sedation but 2nd generation don't?",
+                        "Because 1st cross the blood brain barrier"
+                    ],
+                    "guid": "t4q}*ycuuT",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Name three 2nd gen anti-histamines",
+                        "Cetirizine, loratadien and fexofenadine"
+                    ],
+                    "guid": "f00&ez9qyR",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What are the uses for 2nd gen anti-histamines?",
+                        "Allergic rhinitis and urticaria"
+                    ],
+                    "guid": "PkP0&|aebm",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is allergic rhinitis?",
+                        "Inflammation on the inside of the nose due to an allergen"
+                    ],
+                    "guid": "EnjkZg2Uq!",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What drug interacted with terfenadine that caused a build up of it?",
+                        "Erythromycin"
+                    ],
+                    "guid": "to_c;iD|-X",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the MoA for topical calcineuron inhibitors?",
+                        "Inhibits production of IL-2 by activated T lymphocytes"
+                    ],
+                    "guid": "gUve:QM_5[",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "96a16b70-7dd0-11eb-be8a-af478fea30f9",
+            "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "0505c55ce9654e369f14c06fdd858660-oa-1-A.svg",
+                "0505c55ce9654e369f14c06fdd858660-oa-1-Q.svg",
+                "0505c55ce9654e369f14c06fdd858660-oa-2-A.svg",
+                "0505c55ce9654e369f14c06fdd858660-oa-2-Q.svg",
+                "0505c55ce9654e369f14c06fdd858660-oa-3-A.svg",
+                "0505c55ce9654e369f14c06fdd858660-oa-3-Q.svg",
+                "0505c55ce9654e369f14c06fdd858660-oa-4-A.svg",
+                "0505c55ce9654e369f14c06fdd858660-oa-4-Q.svg",
+                "0505c55ce9654e369f14c06fdd858660-oa-5-A.svg",
+                "0505c55ce9654e369f14c06fdd858660-oa-5-Q.svg",
+                "0505c55ce9654e369f14c06fdd858660-oa-6-A.svg",
+                "0505c55ce9654e369f14c06fdd858660-oa-6-Q.svg",
+                "0505c55ce9654e369f14c06fdd858660-oa-O.svg",
+                "20f1b859b3f3462b9cee1c8101813127-oa-1-A.svg",
+                "20f1b859b3f3462b9cee1c8101813127-oa-1-Q.svg",
+                "20f1b859b3f3462b9cee1c8101813127-oa-2-A.svg",
+                "20f1b859b3f3462b9cee1c8101813127-oa-2-Q.svg",
+                "20f1b859b3f3462b9cee1c8101813127-oa-3-A.svg",
+                "20f1b859b3f3462b9cee1c8101813127-oa-3-Q.svg",
+                "20f1b859b3f3462b9cee1c8101813127-oa-4-A.svg",
+                "20f1b859b3f3462b9cee1c8101813127-oa-4-Q.svg",
+                "20f1b859b3f3462b9cee1c8101813127-oa-5-A.svg",
+                "20f1b859b3f3462b9cee1c8101813127-oa-5-Q.svg",
+                "20f1b859b3f3462b9cee1c8101813127-oa-6-A.svg",
+                "20f1b859b3f3462b9cee1c8101813127-oa-6-Q.svg",
+                "20f1b859b3f3462b9cee1c8101813127-oa-O.svg",
+                "Capture-0bf8086f674b1ec1c41fc3d467f8ef9b052900fd.PNG"
+            ],
+            "mid": 1602236504914,
+            "name": "IMMUNOPHARM 4 16/02",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Who did the experiment of smallpox and cowpox?",
+                        "Edward Jenner"
+                    ],
+                    "guid": "GX27QRm+vE",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "How many laboratories in the world hold smallpox?",
+                        "2"
+                    ],
+                    "guid": "CfY+cbdii]",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "20f1b859b3f3462b9cee1c8101813127-oa-1",
+                        "",
+                        "<img src=\"Capture-0bf8086f674b1ec1c41fc3d467f8ef9b052900fd.PNG\" />",
+                        "<img src=\"20f1b859b3f3462b9cee1c8101813127-oa-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"20f1b859b3f3462b9cee1c8101813127-oa-1-A.svg\" />",
+                        "<img src=\"20f1b859b3f3462b9cee1c8101813127-oa-O.svg\" />"
+                    ],
+                    "guid": "HZ[|~D:}JQ",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "20f1b859b3f3462b9cee1c8101813127-oa-2",
+                        "",
+                        "<img src=\"Capture-0bf8086f674b1ec1c41fc3d467f8ef9b052900fd.PNG\" />",
+                        "<img src=\"20f1b859b3f3462b9cee1c8101813127-oa-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"20f1b859b3f3462b9cee1c8101813127-oa-2-A.svg\" />",
+                        "<img src=\"20f1b859b3f3462b9cee1c8101813127-oa-O.svg\" />"
+                    ],
+                    "guid": "y@LnEK^*a%",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "20f1b859b3f3462b9cee1c8101813127-oa-3",
+                        "",
+                        "<img src=\"Capture-0bf8086f674b1ec1c41fc3d467f8ef9b052900fd.PNG\" />",
+                        "<img src=\"20f1b859b3f3462b9cee1c8101813127-oa-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"20f1b859b3f3462b9cee1c8101813127-oa-3-A.svg\" />",
+                        "<img src=\"20f1b859b3f3462b9cee1c8101813127-oa-O.svg\" />"
+                    ],
+                    "guid": "j]_Vg1_*9I",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "20f1b859b3f3462b9cee1c8101813127-oa-4",
+                        "",
+                        "<img src=\"Capture-0bf8086f674b1ec1c41fc3d467f8ef9b052900fd.PNG\" />",
+                        "<img src=\"20f1b859b3f3462b9cee1c8101813127-oa-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"20f1b859b3f3462b9cee1c8101813127-oa-4-A.svg\" />",
+                        "<img src=\"20f1b859b3f3462b9cee1c8101813127-oa-O.svg\" />"
+                    ],
+                    "guid": "O2[*Pts9j@",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "20f1b859b3f3462b9cee1c8101813127-oa-5",
+                        "",
+                        "<img src=\"Capture-0bf8086f674b1ec1c41fc3d467f8ef9b052900fd.PNG\" />",
+                        "<img src=\"20f1b859b3f3462b9cee1c8101813127-oa-5-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"20f1b859b3f3462b9cee1c8101813127-oa-5-A.svg\" />",
+                        "<img src=\"20f1b859b3f3462b9cee1c8101813127-oa-O.svg\" />"
+                    ],
+                    "guid": "m(op>`!W:;",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "20f1b859b3f3462b9cee1c8101813127-oa-6",
+                        "",
+                        "<img src=\"Capture-0bf8086f674b1ec1c41fc3d467f8ef9b052900fd.PNG\" />",
+                        "<img src=\"20f1b859b3f3462b9cee1c8101813127-oa-6-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"20f1b859b3f3462b9cee1c8101813127-oa-6-A.svg\" />",
+                        "<img src=\"20f1b859b3f3462b9cee1c8101813127-oa-O.svg\" />"
+                    ],
+                    "guid": "G?@nB4h:_N",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "0505c55ce9654e369f14c06fdd858660-oa-1",
+                        "",
+                        "<img src=\"Capture-0bf8086f674b1ec1c41fc3d467f8ef9b052900fd.PNG\" />",
+                        "<img src=\"0505c55ce9654e369f14c06fdd858660-oa-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"0505c55ce9654e369f14c06fdd858660-oa-1-A.svg\" />",
+                        "<img src=\"0505c55ce9654e369f14c06fdd858660-oa-O.svg\" />"
+                    ],
+                    "guid": "pF2ld2#v0s",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "0505c55ce9654e369f14c06fdd858660-oa-2",
+                        "",
+                        "<img src=\"Capture-0bf8086f674b1ec1c41fc3d467f8ef9b052900fd.PNG\" />",
+                        "<img src=\"0505c55ce9654e369f14c06fdd858660-oa-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"0505c55ce9654e369f14c06fdd858660-oa-2-A.svg\" />",
+                        "<img src=\"0505c55ce9654e369f14c06fdd858660-oa-O.svg\" />"
+                    ],
+                    "guid": "uKy}_z7Ux(",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "0505c55ce9654e369f14c06fdd858660-oa-3",
+                        "",
+                        "<img src=\"Capture-0bf8086f674b1ec1c41fc3d467f8ef9b052900fd.PNG\" />",
+                        "<img src=\"0505c55ce9654e369f14c06fdd858660-oa-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"0505c55ce9654e369f14c06fdd858660-oa-3-A.svg\" />",
+                        "<img src=\"0505c55ce9654e369f14c06fdd858660-oa-O.svg\" />"
+                    ],
+                    "guid": "l|Usy:*G_4",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "0505c55ce9654e369f14c06fdd858660-oa-4",
+                        "",
+                        "<img src=\"Capture-0bf8086f674b1ec1c41fc3d467f8ef9b052900fd.PNG\" />",
+                        "<img src=\"0505c55ce9654e369f14c06fdd858660-oa-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"0505c55ce9654e369f14c06fdd858660-oa-4-A.svg\" />",
+                        "<img src=\"0505c55ce9654e369f14c06fdd858660-oa-O.svg\" />"
+                    ],
+                    "guid": "d;HQEC7F/J",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "0505c55ce9654e369f14c06fdd858660-oa-5",
+                        "",
+                        "<img src=\"Capture-0bf8086f674b1ec1c41fc3d467f8ef9b052900fd.PNG\" />",
+                        "<img src=\"0505c55ce9654e369f14c06fdd858660-oa-5-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"0505c55ce9654e369f14c06fdd858660-oa-5-A.svg\" />",
+                        "<img src=\"0505c55ce9654e369f14c06fdd858660-oa-O.svg\" />"
+                    ],
+                    "guid": "tIQ-NBTDY>",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "0505c55ce9654e369f14c06fdd858660-oa-6",
+                        "",
+                        "<img src=\"Capture-0bf8086f674b1ec1c41fc3d467f8ef9b052900fd.PNG\" />",
+                        "<img src=\"0505c55ce9654e369f14c06fdd858660-oa-6-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"0505c55ce9654e369f14c06fdd858660-oa-6-A.svg\" />",
+                        "<img src=\"0505c55ce9654e369f14c06fdd858660-oa-O.svg\" />"
+                    ],
+                    "guid": "qkiie]/_?E",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "In traditional vaccines, virus is isolated from{{c1::humans}} and is used to infect&nbsp;{{c1::animal}} cells, the virus acquires many mutations that do not allow it to grow in&nbsp;{{c1::human}} cells anymore.",
+                        ""
+                    ],
+                    "guid": "j$V1OeqNmt",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What are the three parts of a virus DNA?",
+                        "Receptor binding protein.<div>Virulence</div><div>Core proteins</div>"
+                    ],
+                    "guid": "ySm@5DeIfO",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "With recombinant DNA techniques the&nbsp;{{c1::virulence}} gene of the virus is deleted.",
+                        ""
+                    ],
+                    "guid": "h-`pFVhA}A",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "In a live attenuated vaccine the&nbsp;{{c1::virus}} is selected. It is passed through tissue cultures and a&nbsp;{{c2::weakened strain}} of the virus is used.",
+                        ""
+                    ],
+                    "guid": "QfaU(NS],y",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Give an example of a live attenuated vaccine",
+                        "MMR"
+                    ],
+                    "guid": "Q5_jn>sM[S",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Who should a live attenuated vaccine not be given to?",
+                        "People with weak immune systems"
+                    ],
+                    "guid": "z9!1,o8*>?",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "In an inactivated vaccine, a&nbsp;{{c1::bacterial}} or&nbsp;{{c1::viral}} strain is isolated, it is&nbsp;{{c1::inactivated}} using heat or chemicals.",
+                        ""
+                    ],
+                    "guid": "jAr~<|}XHo",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Give an example of an inactivated vaccine",
+                        "Hepatitis A"
+                    ],
+                    "guid": "b;b&QZW)30",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is different about a subunit/conjugated vaccine, compared to the rest?",
+                        "Only the part of pathogen that provokes an immune response is used"
+                    ],
+                    "guid": "tgZJXSbG!2",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What sort of immune response does an antigen evoke?",
+                        "An adaptive immune response"
+                    ],
+                    "guid": "ho(TvU6`zG",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What sort of immune response does an adjuvant evoke?",
+                        "AN innate imkune response."
+                    ],
+                    "guid": "d_)i=22?8J",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What type of cell takes up the vaccine?",
+                        "APC"
+                    ],
+                    "guid": "K<g(H=Pv%z",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What sort of diseases are affected by herd immunity?",
+                        "Diseases that spread from human to human contact.<div><br></div>"
+                    ],
+                    "guid": "e[&B!vLdj=",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Give some reasons why HIV is unable to be vaccinated against?<div><br></div>",
+                        "Lack of natural immunity against it<div>Variability of HIV types</div><div>Lack of correlates of protective immunity&nbsp;</div><div>Lack of an animal model that reliably predicts vaccine efficacy in humans</div>"
+                    ],
+                    "guid": "mDn6hc`NoY",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is passive immunity?",
+                        "Administration of antibodies from an exposed donor specific to the infectious agent."
+                    ],
+                    "guid": "Q+Y4u(d{e5",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the name of the vaccine for HPV?",
+                        "Gardasil."
+                    ],
+                    "guid": "p<=HuU^_K~",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "96a27bd7-7dd0-11eb-bab2-af478fea30f9",
+            "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "2f59fdaa166c419fb0afa5d0a3d6316e-ao-1-A.svg",
+                "2f59fdaa166c419fb0afa5d0a3d6316e-ao-1-Q.svg",
+                "2f59fdaa166c419fb0afa5d0a3d6316e-ao-2-A.svg",
+                "2f59fdaa166c419fb0afa5d0a3d6316e-ao-2-Q.svg",
+                "2f59fdaa166c419fb0afa5d0a3d6316e-ao-3-A.svg",
+                "2f59fdaa166c419fb0afa5d0a3d6316e-ao-3-Q.svg",
+                "2f59fdaa166c419fb0afa5d0a3d6316e-ao-4-A.svg",
+                "2f59fdaa166c419fb0afa5d0a3d6316e-ao-4-Q.svg",
+                "2f59fdaa166c419fb0afa5d0a3d6316e-ao-O.svg",
+                "573b238c9bcd409eb3e1cc105c7694d2-ao-1-A.svg",
+                "573b238c9bcd409eb3e1cc105c7694d2-ao-1-Q.svg",
+                "573b238c9bcd409eb3e1cc105c7694d2-ao-2-A.svg",
+                "573b238c9bcd409eb3e1cc105c7694d2-ao-2-Q.svg",
+                "573b238c9bcd409eb3e1cc105c7694d2-ao-O.svg",
+                "Capture-d97a4aec839f97ed34efc1c4e421661ed3ffd1bf.PNG",
+                "a3bf7cc25e9a4de3b592994e432039c6-ao-1-A.svg",
+                "a3bf7cc25e9a4de3b592994e432039c6-ao-1-Q.svg",
+                "a3bf7cc25e9a4de3b592994e432039c6-ao-2-A.svg",
+                "a3bf7cc25e9a4de3b592994e432039c6-ao-2-Q.svg",
+                "a3bf7cc25e9a4de3b592994e432039c6-ao-3-A.svg",
+                "a3bf7cc25e9a4de3b592994e432039c6-ao-3-Q.svg",
+                "a3bf7cc25e9a4de3b592994e432039c6-ao-4-A.svg",
+                "a3bf7cc25e9a4de3b592994e432039c6-ao-4-Q.svg",
+                "a3bf7cc25e9a4de3b592994e432039c6-ao-O.svg",
+                "a866c98ccddb4d9f8ee8934854b9af52-ao-1-A.svg",
+                "a866c98ccddb4d9f8ee8934854b9af52-ao-1-Q.svg",
+                "a866c98ccddb4d9f8ee8934854b9af52-ao-2-A.svg",
+                "a866c98ccddb4d9f8ee8934854b9af52-ao-2-Q.svg",
+                "a866c98ccddb4d9f8ee8934854b9af52-ao-3-A.svg",
+                "a866c98ccddb4d9f8ee8934854b9af52-ao-3-Q.svg",
+                "a866c98ccddb4d9f8ee8934854b9af52-ao-O.svg",
+                "b06073520ebe46d38482969be733a8f6-ao-1-A.svg",
+                "b06073520ebe46d38482969be733a8f6-ao-1-Q.svg",
+                "b06073520ebe46d38482969be733a8f6-ao-2-A.svg",
+                "b06073520ebe46d38482969be733a8f6-ao-2-Q.svg",
+                "b06073520ebe46d38482969be733a8f6-ao-O.svg",
+                "e2b20fec8fb242c0b97ba631a70e14ed-ao-1-A.svg",
+                "e2b20fec8fb242c0b97ba631a70e14ed-ao-1-Q.svg",
+                "e2b20fec8fb242c0b97ba631a70e14ed-ao-2-A.svg",
+                "e2b20fec8fb242c0b97ba631a70e14ed-ao-2-Q.svg",
+                "e2b20fec8fb242c0b97ba631a70e14ed-ao-3-A.svg",
+                "e2b20fec8fb242c0b97ba631a70e14ed-ao-3-Q.svg",
+                "e2b20fec8fb242c0b97ba631a70e14ed-ao-4-A.svg",
+                "e2b20fec8fb242c0b97ba631a70e14ed-ao-4-Q.svg",
+                "e2b20fec8fb242c0b97ba631a70e14ed-ao-O.svg",
+                "e96d54f2bd3e47c3b75ee0f2c8aab2df-ao-1-A.svg",
+                "e96d54f2bd3e47c3b75ee0f2c8aab2df-ao-1-Q.svg",
+                "e96d54f2bd3e47c3b75ee0f2c8aab2df-ao-2-A.svg",
+                "e96d54f2bd3e47c3b75ee0f2c8aab2df-ao-2-Q.svg",
+                "e96d54f2bd3e47c3b75ee0f2c8aab2df-ao-3-A.svg",
+                "e96d54f2bd3e47c3b75ee0f2c8aab2df-ao-3-Q.svg",
+                "e96d54f2bd3e47c3b75ee0f2c8aab2df-ao-4-A.svg",
+                "e96d54f2bd3e47c3b75ee0f2c8aab2df-ao-4-Q.svg",
+                "e96d54f2bd3e47c3b75ee0f2c8aab2df-ao-O.svg",
+                "f8968587c7b04c86a378c679301108d5-ao-1-A.svg",
+                "f8968587c7b04c86a378c679301108d5-ao-1-Q.svg",
+                "f8968587c7b04c86a378c679301108d5-ao-2-A.svg",
+                "f8968587c7b04c86a378c679301108d5-ao-2-Q.svg",
+                "f8968587c7b04c86a378c679301108d5-ao-O.svg",
+                "ff17189e02f44a3da6fd7c1b9f060933-ao-1-A.svg",
+                "ff17189e02f44a3da6fd7c1b9f060933-ao-1-Q.svg",
+                "ff17189e02f44a3da6fd7c1b9f060933-ao-2-A.svg",
+                "ff17189e02f44a3da6fd7c1b9f060933-ao-2-Q.svg",
+                "ff17189e02f44a3da6fd7c1b9f060933-ao-O.svg",
+                "paste-0d2756215775a5261efd3f41fb4a6a35a0ae28a8.jpg",
+                "paste-1dde4f442d303b53a70387313522fa9212e73744.jpg",
+                "paste-41e82ef870068aea652215b939aee75720ef16f0.jpg",
+                "paste-44af17c986fdc1d9a6b5db867d9de4c65cf23900.jpg",
+                "paste-5919a7fe2153dc365a7d2b98536f60c48b0b1f71.jpg",
+                "paste-854dac1f54a21a3026dc78215d4949c8f71f810f.jpg",
+                "paste-8e6c84ba755d94c51d3946488f0710fb06b14080.jpg",
+                "paste-f8ed57f377933dc5de967a98b519cf08ed3da6ba.jpg",
+                "tmp1t7h0jab.png",
+                "tmp62gv7z57.png",
+                "tmpbk8kbydk.png",
+                "tmppkgd49wt.png",
+                "tmpqsrwmzoe.png",
+                "tmpz7vvox8i.png",
+                "tmpzxuh_fh8.png"
+            ],
+            "mid": 1602236504918,
+            "name": "Resp Pharm 1+2 21/02",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Asthma is common: affects up to&nbsp;{{c1::10%}} of children<div>Wheezing due to airflow&nbsp;{{c1::limitation}}</div><div>Is episodic , meaning that airflow&nbsp;{{c1::limitation}} is&nbsp;{{c1::reversible}}</div><div>Triggers<br>{{c1::z Allergens<br>z Exercise<br>z Cold air<br>z Virus infections}} (4)<br></div>",
+                        "Limitation due to narrow bronchi<div>Goes from mild and occasional, to serious and persistent</div>"
+                    ],
+                    "guid": "f28vE+Yj+v",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "In asthma, the airflow limitation arises as a result of the&nbsp;{{c1::bronchi}} being too narrow.<div>It is felt mainly at&nbsp;{{c1::exhalation}} as the positive pressure in the chest cavity when the&nbsp;{{c1::diaphragm}} and the&nbsp;{{c1::intercostal muscles}} relax constricts the&nbsp;{{c1::bronchii}} even further.</div>",
+                        "<img src=\"paste-44af17c986fdc1d9a6b5db867d9de4c65cf23900.jpg\"><div>Lungs full and diaphragm flattened</div><div><img src=\"paste-854dac1f54a21a3026dc78215d4949c8f71f810f.jpg\"><br></div><div>Exhalation much slower in asthma</div><div><br></div>"
+                    ],
+                    "guid": "m)nxlv>9!>",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Causes of asthma<div>1. Allergic effect:&nbsp;{{c1::Mast}} cells, that release&nbsp;{{c1::histamine}} which constrict bronchial smooth muscle cells.</div><div><br></div><div>2. Neurological cause:{{c1::Vagus}} nerve acts on bronchial smpoth muscle cells through the neurotransmitter&nbsp;{{c1::Ach}}</div>",
+                        ""
+                    ],
+                    "guid": "RfT3K<8?,-",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "FEV1 stands for&nbsp;{{c1::forced expiratory volume in 1second}}<div><br></div><div>During an asthma attack the FEV1 can decrease to as low as&nbsp;{{c1::75%}} (% of normal fev1)</div><div><br></div><div>Phase 1 asthma attack, Mast cell releasing histamine or Vagus nerve problem</div><div><br></div><div>Phase 2: CHronic&nbsp;{{c1::inflammation}}: Mast cells, eosinophils, neutrophils etc. infiltrate the bronchial&nbsp;{{c1::submucosa}} and {{c1::lamina propria}} which narrows the airway even more.</div><div><br></div><div><br></div>",
+                        "<img src=\"paste-1dde4f442d303b53a70387313522fa9212e73744.jpg\"><div>CD4+ T lymphocytes contribute to the inflammation</div>"
+                    ],
+                    "guid": "RdWP=WEvY2",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "e2b20fec8fb242c0b97ba631a70e14ed-ao-1",
+                        "",
+                        "<img src=\"tmpbk8kbydk.png\" />",
+                        "<img src=\"e2b20fec8fb242c0b97ba631a70e14ed-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"e2b20fec8fb242c0b97ba631a70e14ed-ao-1-A.svg\" />",
+                        "<img src=\"e2b20fec8fb242c0b97ba631a70e14ed-ao-O.svg\" />"
+                    ],
+                    "guid": "lAm&|rycq9",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "e2b20fec8fb242c0b97ba631a70e14ed-ao-2",
+                        "",
+                        "<img src=\"tmpbk8kbydk.png\" />",
+                        "<img src=\"e2b20fec8fb242c0b97ba631a70e14ed-ao-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"e2b20fec8fb242c0b97ba631a70e14ed-ao-2-A.svg\" />",
+                        "<img src=\"e2b20fec8fb242c0b97ba631a70e14ed-ao-O.svg\" />"
+                    ],
+                    "guid": "E%RNEP/M=>",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "e2b20fec8fb242c0b97ba631a70e14ed-ao-3",
+                        "",
+                        "<img src=\"tmpbk8kbydk.png\" />",
+                        "<img src=\"e2b20fec8fb242c0b97ba631a70e14ed-ao-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"e2b20fec8fb242c0b97ba631a70e14ed-ao-3-A.svg\" />",
+                        "<img src=\"e2b20fec8fb242c0b97ba631a70e14ed-ao-O.svg\" />"
+                    ],
+                    "guid": "n>(#M<H,AY",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "e2b20fec8fb242c0b97ba631a70e14ed-ao-4",
+                        "",
+                        "<img src=\"tmpbk8kbydk.png\" />",
+                        "<img src=\"e2b20fec8fb242c0b97ba631a70e14ed-ao-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"e2b20fec8fb242c0b97ba631a70e14ed-ao-4-A.svg\" />",
+                        "<img src=\"e2b20fec8fb242c0b97ba631a70e14ed-ao-O.svg\" />"
+                    ],
+                    "guid": "vEB[.W1c},",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "COPD, {{c1::COAD}}, {{c1::chronic bronchitis}}, {{c1::emphysema}}<br>&nbsp;Almost universally linked with {{c1::cigarette smoking}}<br>{{c1::Irreversible}} damage to airways<br><br>",
+                        "Airflow limitation<br>Susceptibility to lower respiratory tract infections<br>Loss of lung function"
+                    ],
+                    "guid": "tRvOl_`CFr",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Emphysema<div>Loss of&nbsp;{{c1::alveoli}} in centrilobar or {{c1::acinar}} area.</div><div>Oxygen and gas exchange is compromise, chronically&nbsp;{{c1::hypoxemic}}</div>",
+                        "<img src=\"paste-41e82ef870068aea652215b939aee75720ef16f0.jpg\">"
+                    ],
+                    "guid": "HcJ3%d(d-h",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "a3bf7cc25e9a4de3b592994e432039c6-ao-1",
+                        "",
+                        "<img src=\"tmpz7vvox8i.png\" />",
+                        "<img src=\"a3bf7cc25e9a4de3b592994e432039c6-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"a3bf7cc25e9a4de3b592994e432039c6-ao-1-A.svg\" />",
+                        "<img src=\"a3bf7cc25e9a4de3b592994e432039c6-ao-O.svg\" />"
+                    ],
+                    "guid": "wu62~iUgRL",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "a3bf7cc25e9a4de3b592994e432039c6-ao-2",
+                        "",
+                        "<img src=\"tmpz7vvox8i.png\" />",
+                        "<img src=\"a3bf7cc25e9a4de3b592994e432039c6-ao-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"a3bf7cc25e9a4de3b592994e432039c6-ao-2-A.svg\" />",
+                        "<img src=\"a3bf7cc25e9a4de3b592994e432039c6-ao-O.svg\" />"
+                    ],
+                    "guid": "tI6gH5diK-",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "a3bf7cc25e9a4de3b592994e432039c6-ao-3",
+                        "",
+                        "<img src=\"tmpz7vvox8i.png\" />",
+                        "<img src=\"a3bf7cc25e9a4de3b592994e432039c6-ao-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"a3bf7cc25e9a4de3b592994e432039c6-ao-3-A.svg\" />",
+                        "<img src=\"a3bf7cc25e9a4de3b592994e432039c6-ao-O.svg\" />"
+                    ],
+                    "guid": "N$W53mMpCz",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "a3bf7cc25e9a4de3b592994e432039c6-ao-4",
+                        "",
+                        "<img src=\"tmpz7vvox8i.png\" />",
+                        "<img src=\"a3bf7cc25e9a4de3b592994e432039c6-ao-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"a3bf7cc25e9a4de3b592994e432039c6-ao-4-A.svg\" />",
+                        "<img src=\"a3bf7cc25e9a4de3b592994e432039c6-ao-O.svg\" />"
+                    ],
+                    "guid": "w./U7U6x=+",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "f8968587c7b04c86a378c679301108d5-ao-1",
+                        "",
+                        "<img src=\"Capture-d97a4aec839f97ed34efc1c4e421661ed3ffd1bf.PNG\" />",
+                        "<img src=\"f8968587c7b04c86a378c679301108d5-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"f8968587c7b04c86a378c679301108d5-ao-1-A.svg\" />",
+                        "<img src=\"f8968587c7b04c86a378c679301108d5-ao-O.svg\" />"
+                    ],
+                    "guid": "sx%mFKRf4s",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "f8968587c7b04c86a378c679301108d5-ao-2",
+                        "",
+                        "<img src=\"Capture-d97a4aec839f97ed34efc1c4e421661ed3ffd1bf.PNG\" />",
+                        "<img src=\"f8968587c7b04c86a378c679301108d5-ao-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"f8968587c7b04c86a378c679301108d5-ao-2-A.svg\" />",
+                        "<img src=\"f8968587c7b04c86a378c679301108d5-ao-O.svg\" />"
+                    ],
+                    "guid": "iAaEzILp%&",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "573b238c9bcd409eb3e1cc105c7694d2-ao-1",
+                        "",
+                        "<img src=\"tmpzxuh_fh8.png\" />",
+                        "<img src=\"573b238c9bcd409eb3e1cc105c7694d2-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"573b238c9bcd409eb3e1cc105c7694d2-ao-1-A.svg\" />",
+                        "<img src=\"573b238c9bcd409eb3e1cc105c7694d2-ao-O.svg\" />"
+                    ],
+                    "guid": "J=CN-G:Y?M",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "573b238c9bcd409eb3e1cc105c7694d2-ao-2",
+                        "",
+                        "<img src=\"tmpzxuh_fh8.png\" />",
+                        "<img src=\"573b238c9bcd409eb3e1cc105c7694d2-ao-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"573b238c9bcd409eb3e1cc105c7694d2-ao-2-A.svg\" />",
+                        "<img src=\"573b238c9bcd409eb3e1cc105c7694d2-ao-O.svg\" />"
+                    ],
+                    "guid": "KHU@V#Y;06",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ff17189e02f44a3da6fd7c1b9f060933-ao-1",
+                        "",
+                        "<img src=\"tmpqsrwmzoe.png\" />",
+                        "<img src=\"ff17189e02f44a3da6fd7c1b9f060933-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"ff17189e02f44a3da6fd7c1b9f060933-ao-1-A.svg\" />",
+                        "<img src=\"ff17189e02f44a3da6fd7c1b9f060933-ao-O.svg\" />"
+                    ],
+                    "guid": "rFK@KTXGKH",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ff17189e02f44a3da6fd7c1b9f060933-ao-2",
+                        "",
+                        "<img src=\"tmpqsrwmzoe.png\" />",
+                        "<img src=\"ff17189e02f44a3da6fd7c1b9f060933-ao-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"ff17189e02f44a3da6fd7c1b9f060933-ao-2-A.svg\" />",
+                        "<img src=\"ff17189e02f44a3da6fd7c1b9f060933-ao-O.svg\" />"
+                    ],
+                    "guid": "vjW[Lk*{c?",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "a866c98ccddb4d9f8ee8934854b9af52-ao-1",
+                        "",
+                        "<img src=\"tmp1t7h0jab.png\" />",
+                        "<img src=\"a866c98ccddb4d9f8ee8934854b9af52-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"a866c98ccddb4d9f8ee8934854b9af52-ao-1-A.svg\" />",
+                        "<img src=\"a866c98ccddb4d9f8ee8934854b9af52-ao-O.svg\" />"
+                    ],
+                    "guid": "h|tEc9><.A",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "a866c98ccddb4d9f8ee8934854b9af52-ao-2",
+                        "",
+                        "<img src=\"tmp1t7h0jab.png\" />",
+                        "<img src=\"a866c98ccddb4d9f8ee8934854b9af52-ao-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"a866c98ccddb4d9f8ee8934854b9af52-ao-2-A.svg\" />",
+                        "<img src=\"a866c98ccddb4d9f8ee8934854b9af52-ao-O.svg\" />"
+                    ],
+                    "guid": "c>xDgy)%{R",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "a866c98ccddb4d9f8ee8934854b9af52-ao-3",
+                        "",
+                        "<img src=\"tmp1t7h0jab.png\" />",
+                        "<img src=\"a866c98ccddb4d9f8ee8934854b9af52-ao-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"a866c98ccddb4d9f8ee8934854b9af52-ao-3-A.svg\" />",
+                        "<img src=\"a866c98ccddb4d9f8ee8934854b9af52-ao-O.svg\" />"
+                    ],
+                    "guid": "G4y2>>gek1",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "b06073520ebe46d38482969be733a8f6-ao-1",
+                        "",
+                        "<img src=\"tmp62gv7z57.png\" />",
+                        "<img src=\"b06073520ebe46d38482969be733a8f6-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"b06073520ebe46d38482969be733a8f6-ao-1-A.svg\" />",
+                        "<img src=\"b06073520ebe46d38482969be733a8f6-ao-O.svg\" />"
+                    ],
+                    "guid": "pX$Wen`~[L",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "b06073520ebe46d38482969be733a8f6-ao-2",
+                        "",
+                        "<img src=\"tmp62gv7z57.png\" />",
+                        "<img src=\"b06073520ebe46d38482969be733a8f6-ao-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"b06073520ebe46d38482969be733a8f6-ao-2-A.svg\" />",
+                        "<img src=\"b06073520ebe46d38482969be733a8f6-ao-O.svg\" />"
+                    ],
+                    "guid": "s#m:8mm?=b",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "2f59fdaa166c419fb0afa5d0a3d6316e-ao-1",
+                        "",
+                        "<img src=\"tmp62gv7z57.png\" />",
+                        "<img src=\"2f59fdaa166c419fb0afa5d0a3d6316e-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"2f59fdaa166c419fb0afa5d0a3d6316e-ao-1-A.svg\" />",
+                        "<img src=\"2f59fdaa166c419fb0afa5d0a3d6316e-ao-O.svg\" />"
+                    ],
+                    "guid": "EX6-;[ddHP",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "2f59fdaa166c419fb0afa5d0a3d6316e-ao-2",
+                        "",
+                        "<img src=\"tmp62gv7z57.png\" />",
+                        "<img src=\"2f59fdaa166c419fb0afa5d0a3d6316e-ao-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"2f59fdaa166c419fb0afa5d0a3d6316e-ao-2-A.svg\" />",
+                        "<img src=\"2f59fdaa166c419fb0afa5d0a3d6316e-ao-O.svg\" />"
+                    ],
+                    "guid": "m-x#V#fe~4",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "2f59fdaa166c419fb0afa5d0a3d6316e-ao-3",
+                        "",
+                        "<img src=\"tmp62gv7z57.png\" />",
+                        "<img src=\"2f59fdaa166c419fb0afa5d0a3d6316e-ao-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"2f59fdaa166c419fb0afa5d0a3d6316e-ao-3-A.svg\" />",
+                        "<img src=\"2f59fdaa166c419fb0afa5d0a3d6316e-ao-O.svg\" />"
+                    ],
+                    "guid": "smj<,dA]MU",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "2f59fdaa166c419fb0afa5d0a3d6316e-ao-4",
+                        "",
+                        "<img src=\"tmp62gv7z57.png\" />",
+                        "<img src=\"2f59fdaa166c419fb0afa5d0a3d6316e-ao-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"2f59fdaa166c419fb0afa5d0a3d6316e-ao-4-A.svg\" />",
+                        "<img src=\"2f59fdaa166c419fb0afa5d0a3d6316e-ao-O.svg\" />"
+                    ],
+                    "guid": "MMjc9GuU3",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Salbutamol and terbutaline are selective beta 2&nbsp;{{c1::agonists}}<div><br></div><div>How much of the drug (cannisters being measurement) suggests the treatment of asthma is inadequate?&nbsp;{{c1::more than one}}</div><div><br></div><div>SHould only be used for bouts of asthmatic symptoms, if used regularly it may&nbsp;{{c1::lower effectiveness}} or increase {{c1::airway hyper responsivenss}}</div><div><br></div><div>Side effects<br>{{c1::z Tremor<br>z Tachycardia<br>z Nausea<br>z Light-headedness}} (4)<br></div>",
+                        "side effects mostly related to stimulation of Beta1 receptors in<br>CVS, would need to take a lot tho for this to happen"
+                    ],
+                    "guid": "jksI+U-/N;",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::salmeterol}} is a long acting b-adrenoceptor agonist<br><div>Has a&nbsp;{{c1::slower}} onset of action</div><div>It is not used for&nbsp;{{c1::acute}} symptoms</div>",
+                        ""
+                    ],
+                    "guid": "mkH|g|T[Ep",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "MUSCARINIC RECEPTOR ANTAGONISTS<br>Anticholinergic<br>Target is {{c1::vagally}}-mediated, acetylcholine-dependent<br>{{c1::parasympathetic}}(type of neuron) airway smooth muscle tone<br>Inhibits muscarinic receptors<br>&nbsp;Example: ipratropium bromide<br>T/F More useful in asthma than COPD&nbsp;{{c1::false}}<div>T/F Inhaled&nbsp;{{c1::True}}<br>T/F Many clinically significant side effects&nbsp;{{c1::False}}</div>",
+                        ""
+                    ],
+                    "guid": "A&SB>dl)-]",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>Methylxanthines<br></div>{{c1::Phosphodiesterase}} inhibitors<br>Examples:{{c1::Theophylline}} (oral) and {{c1::Aminophylline}} (IV)<br>Cause relaxation of bronchial smooth muscle<br>May have other mechanisms of action<br>Anti-inflammatory effects<br><br><br>Side effects<br>Narrow therapeutic index<br>{{c1::Nausea}}<br>Gastro-oesophageal reflux<br>{{c1::Tachycardia}}<br>Agitation",
+                        "This is for when the patient cannot take any other medication whatsoever, it is shit compared to the others"
+                    ],
+                    "guid": "r-)CcVk9,T",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<img src=\"paste-5919a7fe2153dc365a7d2b98536f60c48b0b1f71.jpg\"><div>Why does Albuterol(salbutamol) and ipratropium have an additive effect on their change in FEV1?</div>",
+                        "Two different mechanisms of action producing the same effect<div><br></div>"
+                    ],
+                    "guid": "gmek$wxq&T",
+                    "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "e96d54f2bd3e47c3b75ee0f2c8aab2df-ao-1",
+                        "",
+                        "<img src=\"tmppkgd49wt.png\" />",
+                        "<img src=\"e96d54f2bd3e47c3b75ee0f2c8aab2df-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"e96d54f2bd3e47c3b75ee0f2c8aab2df-ao-1-A.svg\" />",
+                        "<img src=\"e96d54f2bd3e47c3b75ee0f2c8aab2df-ao-O.svg\" />"
+                    ],
+                    "guid": "O*ZTPJe@^Q",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "e96d54f2bd3e47c3b75ee0f2c8aab2df-ao-2",
+                        "",
+                        "<img src=\"tmppkgd49wt.png\" />",
+                        "<img src=\"e96d54f2bd3e47c3b75ee0f2c8aab2df-ao-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"e96d54f2bd3e47c3b75ee0f2c8aab2df-ao-2-A.svg\" />",
+                        "<img src=\"e96d54f2bd3e47c3b75ee0f2c8aab2df-ao-O.svg\" />"
+                    ],
+                    "guid": "jdq=62<Hx1",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "e96d54f2bd3e47c3b75ee0f2c8aab2df-ao-3",
+                        "",
+                        "<img src=\"tmppkgd49wt.png\" />",
+                        "<img src=\"e96d54f2bd3e47c3b75ee0f2c8aab2df-ao-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"e96d54f2bd3e47c3b75ee0f2c8aab2df-ao-3-A.svg\" />",
+                        "<img src=\"e96d54f2bd3e47c3b75ee0f2c8aab2df-ao-O.svg\" />"
+                    ],
+                    "guid": "rK{w5)A%ka",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "e96d54f2bd3e47c3b75ee0f2c8aab2df-ao-4",
+                        "",
+                        "<img src=\"tmppkgd49wt.png\" />",
+                        "<img src=\"e96d54f2bd3e47c3b75ee0f2c8aab2df-ao-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"e96d54f2bd3e47c3b75ee0f2c8aab2df-ao-4-A.svg\" />",
+                        "<img src=\"e96d54f2bd3e47c3b75ee0f2c8aab2df-ao-O.svg\" />"
+                    ],
+                    "guid": "mt6IQ;h+Go",
+                    "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Corticosteroid treatment in asthma patients is primarily used as prophylactic&nbsp;{{c1::anti-inflammatory}} to prevent the&nbsp;{{c1::2nd phase }} of an asthma attack.<div><br></div><div>They are taken prophylactically because corticosteroids are relatively&nbsp;{{c1::slow}} acting</div><div><br></div><div><br>{{c1::Glucocorticoid}} receptors&nbsp;<br>&nbsp;Innate immune cells such as&nbsp; {{c1::Monocytes}} and {{c1::macrophages}}<br>&nbsp;Adaptive immune cells<br>&nbsp;T lymphocytes<br>&nbsp;Non-immune cells<br>Endothelial cells<br><br>inalldifferentcelltypes<br><br>Inhaled corticosteroid side effects<br><br>z Local side effects<br>z Dysphonia Oropharyngeal candidiasis Cough<br>z Systemic side effects<br>z Adrenal suppression Growth suppression Bruising<br>Osteoporosis Cataracts Glaucoma Metabolic<br>abnormalities (glucose, insulin, triglycerides)<br>Psychiatric disturbances<br><br>bcitdampensdowntheIs<br>morepronetoinfectious<br><br>chronic<br><br>ofuoia q<br><br>hyperglycemia<br><br>Corticosteroid use in asthma and COPD<br><br>z By inhalation<br>z Often combined with inhaled E2-adrenoceptor agonist<br>z Slow onset of action (hours)<br>z Not used for immediate symptom relief<br>z Use to prevent attacks<br>z Long duration of benefit (hours)<br>z Systemically<br>z Oral or IV<br>z Used in more severe cases<br></div>",
+                        "<img src=\"paste-8e6c84ba755d94c51d3946488f0710fb06b14080.jpg\"><div><img src=\"paste-0d2756215775a5261efd3f41fb4a6a35a0ae28a8.jpg\"><br></div>"
+                    ],
+                    "guid": "CXB*8MY2qo",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Corticosteroid Targets:<br>{{c1::Glucocorticoid}} receptors&nbsp;<br>Innate immune cells: Monocytes, {{c1::macrophages}}<br>Adaptive immune cells: {{c1::T lymphocytes}}<br>Non-immune cells: {{c1::Endothelial cells}}<br><br><br><br>Inhaled corticosteroid side effects<br>&nbsp;Local side effects:<br>&nbsp;Dysphonia:&nbsp;{{c1::hoarseness of voice}}<div>&nbsp;Oropharyngeal candidiasis:&nbsp;{{c1::thrush infection}}</div><div>&nbsp;Cough<br>&nbsp;</div><div>Systemic side effects:<br>&nbsp;{{c1::Adrenal}} suppression, {{c1::Growth}} suppression, Bruising<br>Osteoporosis, Cataracts, Glaucoma,&nbsp;</div><div>Metabolic abnormalities (glucose, insulin, triglycerides)<br>Psychiatric disturbances<br><br>Corticosteroid use in asthma and COPD T/F<br><br>&nbsp;By inhalation&nbsp;{{c1::true}}<br>&nbsp;Often combined with inhaled E2-adrenoceptor agonist&nbsp;{{c1::true}}<br>&nbsp;Slow onset of action (hours){{c1::True}}<br>&nbsp;Used for immediate symptom relief&nbsp;{{c1::False, is used prophylactilly}}<br>&nbsp;Use after phase 1 part of attacks&nbsp;{{c1::true, still before phase 2}}<br>&nbsp;Long duration of benefit (hours)&nbsp;{{c1::True}}<br>&nbsp;</div><div>Systemically:</div><div>&nbsp;Only used orally&nbsp;{{c1::False can be used IV}}</div><div>&nbsp;Used in more severe cases{{c1::True}}</div>",
+                        "<img src=\"paste-0d2756215775a5261efd3f41fb4a6a35a0ae28a8.jpg\">"
+                    ],
+                    "guid": "xWN+)wKM9t",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "During an asthma attack, leukotrienes contribute to the&nbsp;{{c1::inflammaotry}} process. But they also further constrict the bronchial smooth muscle by acting on the&nbsp;{{c1::CysLT}} receptor.<div><br></div><div>Lukasts</div><div>{{c1::&nbsp;Inhibit}} these receptors expressed on respiratory epithelium and infiltrating leukocytes<br>Improve airflow in both early and late phases<br>{{c1::Orally}} administered<br>Well tolerated<br>Example: {{c1::Montelukast}}<br>Slow acting: used to prevent attacks<br></div>",
+                        "<img src=\"paste-f8ed57f377933dc5de967a98b519cf08ed3da6ba.jpg\"><div>Lukasts quicker acting than corticosteroid, but shorter lasting</div>"
+                    ],
+                    "guid": "l>cOEItcl)",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Anti-IgE therapy of asthma</b><br>In some patients asthma triggers are {{c1::allergic}}<br><br><div>Anti-IgE treatment may be considered if:</div><div>-Moderate-to-severe {{c1::persistent}} asthma<br>-Asthma symptoms are inadequately controlled with inhaled<br>glucocorticoids<br><div>-A total serum IgE level is between {{c1::30}} and 1500 international units/mL, which is the range over which the drug can reduce enough free IgE to ensure a therapeutic effect<br>-Allergic sensitization demonstrated by positive skin testing or in vitro testing for allergen-specific IgE to an allergen that is present year-round e.g.&nbsp;{{c1::house dust mites, animal danders, cockroaches, or molds}}<br><br><br><br>{{c1::Omalizumab}} is a recombinant humanized anti-IgE antibody<br><br>Used in selected asthmatic patients&nbsp;</div><div>Results in marked fall in serum IgE&nbsp;</div><div>&nbsp;May be useful also in other IgE-mediated diseases eg {{c1::recurrent anaphylaxis}}</div></div>",
+                        ""
+                    ],
+                    "guid": "gW}$kGrS=g",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                }
+            ]
+        }
+    ],
+    "crowdanki_uuid": "9698beb1-7dd0-11eb-935e-af478fea30f9",
+    "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    1,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "2.2::Drugs and Disease",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Back Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic-b2764",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Image Occlusion Enhanced",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": []
+}
