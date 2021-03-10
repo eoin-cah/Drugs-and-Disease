@@ -165,6 +165,7 @@
         },
         {
             "__type__": "Deck",
+            "activeTags": [],
             "children": [],
             "crowdanki_uuid": "969b06d1-7dd0-11eb-90ff-af478fea30f9",
             "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
@@ -172,6 +173,7 @@
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
+            "inactiveTags": [],
             "media_files": [
                 "paste-0e2c9412ce0aca914f907704cd19b83a6326c549.jpg",
                 "paste-21d1fc81c1df399811bf77b1fc25cbca52e86529.jpg",
@@ -883,7 +885,197 @@
         },
         {
             "__type__": "Deck",
-            "children": [],
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "39db036b-81a3-11eb-b530-af478fea30f9",
+                    "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-9f4a3c6ed368210df719db3091aba16c81edacdd.jpg",
+                        "paste-b38d69c994278815cf149d87e68d527141d373a2.jpg",
+                        "paste-c536f1fde99ba424ef2fb86dfa8a032d14de5606.jpg"
+                    ],
+                    "mid": 1602236504915,
+                    "name": "02/15 IMMUNOPHARM 3 ALLERGIES V2",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Anaphylaxis</b><br>Severe acute allergic, {{c1::IgE}}-mediated,immediate {{c1::hypersensitivity}} reactions<br>Accounts for 1% A&amp;E visits<br>Life-threatening (5000-10,000 deaths per year in US)<br><br><div>Commonest allergens<br>{{c1::z Insect stings<br>z Foods<br>z Drugs<br>z Protein drugs (such as infliximab)<br>z Radiocontrast agents}} (5)<br></div><div><b><br></b></div><div><b>Milder allergic reactions</b><br>Confined to body surfaces<br>{{c1::Sites of contact}} with allergens<br>Very common<br>&nbsp;Symptoms trivial and recurrent<br><br></div><div>Commonest allergens<br>{{c1::Pollen</div>z House dust mite dander<br><div>z Latex}} (3)<br></div>",
+                                ""
+                            ],
+                            "guid": "u%Dk^K?@]8",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>Examples of Allergic reactions:</div><div><br></div><b>Food allergy</b><br>Cause:{{c1::Peanut, shell fish, kiwi, strawberry..........}}<div>Rxn; GI upset to {{c1::Anaphylaxis}}<br><br><div><b>Asthma</b><br>Cause: {{c1::House dust mite dander, pollen.......}}<br>Rxn: {{c1::Wheezing}}, can be life threatening<br><br></div><div><b>Allergic rhinitis</b><br></div><div>Cause: {{c1::Fungal spores...}}<br>Rxn: {{c1::Nasal congestion, mild}}<br><br></div><div><b>Drug allergy</b><br>Cause: {{c1::PCN.......}}<br>Rxn: Rash to {{c1::Anaphylaxis}}<br><b><br></b></div><div><b>Contact dermatitis</b><br>Cause: {{c1::Latex.....}}<br>Rxn: {{c1::Rash}}</div></div>",
+                                ""
+                            ],
+                            "guid": "v+wh7(D8!4",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Hypersensitivity type I:</b><div><b><br></b></div><div>{{c1::IgE}} anti-bodies binds to the allergen, IgE corss links allergen with mast cell by binding onto the {{c1::Fc}} receptor.&nbsp; The mast cell releases {{c1::histamine}} and eicanosoids such as {{c1::Lymphotoxins}} and {{c1::Prostoglandins}}</div><div><br></div><div>This reaction is called&nbsp;{{c1::degranulation}}</div>",
+                                "<img src=\"paste-b38d69c994278815cf149d87e68d527141d373a2.jpg\">"
+                            ],
+                            "guid": "v*:OS]|ire",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Histamine</b><br><br>Basic {{c1::amine}}<br>Stored in {{c1::mast}} cell granules<div>&nbsp;Acts on specific histamine receptors H1, H2.... which are {{c1::G protein couples}} receptors<br></div><div><br></div><div>&nbsp;H1 receptors present on<br>-{{c1::Bronchial}} smooth muscle – contraction<br>- {{c1::Endothelial}}&nbsp;cells – vasodilatation &amp; vascular permeability<br>- {{c1::Vomiting}} centres in brain<br><br><br></div>",
+                                "<img src=\"paste-c536f1fde99ba424ef2fb86dfa8a032d14de5606.jpg\">"
+                            ],
+                            "guid": "qFgS(b~[#.",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Hypersensitivity type I reactions</b><br><br><div>Anaphylactic or immediate {{c::1hypersensitivity}} reaction<br>Develops only in genetically susceptible individuals<br>Mediated by allergen-specific {{c1::IgE}} antibodies<br>Central role of local histamine release in mild allergic reactions<br><br></div><div>Increased capillary permeability which causes {{c1::Wheal}} and {{c1::urticarial (hives)}}<br><br></div><div>Vasodilatation which causes {{c1::Erythema}}<br><br></div><div>Itch caused by {{c1::Sensory nerve irritation}}<br><br></div>",
+                                ""
+                            ],
+                            "guid": "GQ;;iVu$f_",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Anaphylaxis: Clinical presentation&nbsp;</b><div><br></div><div>{{c1::5-60}} minutes after exposure to allergen<br><br></div><div>{{c1::Urticaria}} and {{c1::angioedema}} due to Capillary leakage of plasma<br><br></div><div>Bronchospasm causing wheezing due to {{c1::Histamine}}-induced {{c1::bronchoconstriction}}<br><br></div><div>{{c1::Hypo}}tension and CV collapse due to {{c1::Hypo}}volemia, myocardial depression</div><div><br></div><div>Vomiting, diarrhea&nbsp;</div>",
+                                ""
+                            ],
+                            "guid": "bCQV&!IU<R",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Concerning allergy, which statement is false?</b><div><b><br></b></div><div>1. Allergic reactions are antigen-specific<br>2. IgE triggers histamine release from mast cells<br>3. Histamine acts on H1 receptors to cause bronchodilatation and vasoconstriction<br>4. Allergic diseases range from mild everyday symptoms to life-threatening emergencies<br>5. Can to diagnosed by skin prick testing<b><br></b></div>",
+                                "3"
+                            ],
+                            "guid": "j+(;#ox.vI",
+                            "note_model_uuid": "afe9bf23-7dce-11eb-b4f3-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Epinephrine</b><div><b><br></b>Stimulates:<br></div><div>{{c1::beta2}} adrenoceptors – bronchodilation<br>{{c1::beta1}} adrenoceptors – increased cardiac contractility<br>{{c1::alpha}} adrenoceptors - vasoconstriction<br><br></div><div>Life saving<br>No absolute contraindication<br>Needs to be administered {{c1::rapidly}}&nbsp;</div>",
+                                ""
+                            ],
+                            "guid": "v^e1~+uQKD",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Anaphylaxis after Epinephrine:</b><div>Anti-histamines<br>Drug Name: {{c1::Diphenhydramine}}<br>{{c1::H1}} receptor inverse agonist<br>Administered {{c1::IV}} or {{c1::orally}}<br>Continue for duration of symptoms<br>Inhibit {{c1::vasodilation}}, vascular leakage and bronchospasm<b><br></b></div><div><br></div><div>Beta 2 adrenoceptor agonists<br>Given to {{c1::Wheezing}} patients<br>Drug Name: {{c1::Salbutamol}}<br>{{c1::Nebulised}} administration<br>Not a substitute for epinephrine<br></div><div><br></div><div><br>2nd phase of {{c1::anaphylaxis}} often occurs 8-72 hours after initial symptoms<br>Markedly inflammatory<br>Mediated in part by {{c1::eicosanoids}} and {{c1::cytokines}}<br><br>Corticosteroids<br>Inhibit the 2nd phase<br>Must be administered {{c1::early}}<br>Drug Name: {{c1::Methylprednisolone&nbsp;}}</div><div>Administered IV, high dose<br></div><div><br></div><div>Agressive fluid&nbsp;{{c1::resuscitation}}</div><div>Airway Management</div>",
+                                ""
+                            ],
+                            "guid": "p_>8BhV/!4",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Anaphylaxis</b><br>1. Is difficult to diagnose<br>2. Should only be treated in a hospital setting<br>3. Causes severe hypertension<br>4. Requires immediate administration of anti-histamines and corticosteroids<br>5. Should be treated with IM adrenaline",
+                                "5"
+                            ],
+                            "guid": "B_54Fl}U6F",
+                            "note_model_uuid": "39db5048-81a3-11eb-b5a8-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Atopic diseases</b><br>Skin: {{c1::eczema}}<br>Airways: {{c1::asthma}}<br>GIT: {{c1::food allergy}} (differentiate disease from common use of this term)<br>Eyes: {{c1::conjunctivitis}}<br>Nose: {{c1::allergic rhinitis}}",
+                                ""
+                            ],
+                            "guid": "tC/I%ZA!?Z",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Drugs for atopy</b><br><br>Corticosteroids<br><br><div>&nbsp;Administered at time/season of symptoms<br><br><div>&nbsp;Slow-acting – must be used {{c1::prophylactically}}<br><br><div>&nbsp;Inhibit recruitment of {{c1::immune cells eg mast cells, lymphocytes etc}}<br><br><div>&nbsp;Topical use minimizes systemic exposures<br>z Nasal spray<br>z Cream/ointment<br>z Eye drops&nbsp;</div></div></div></div><div><br></div><div><br>Drug Name: {{c1::Fluticasone, triamcinolone, beclomethasone}}<br><br></div><div>Structural modification of {{c1::hydrocortisone}} to<br>{{c1::increase}} lipophilicity<br>{{c1::increase}} first-pass metabolism<br> Glucocorticoid potency &gt; mineralocorticoid<br><br></div><div>z ADR:<br>z Some systemic exposure even with topicals<br>z Skin – {{c1::thinning}} with chronic use<br></div>",
+                                ""
+                            ],
+                            "guid": "lY!_xgvC#`",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Mast cell stabilizers<br>Drug Names: {{c1::Cromolyn sodium}} and {{c1::nedocromil}}<br>z Inhibit {{c1::Cl}} channel on mast cells, and others<br>z Prevents mast cell {{c1::degranulation}} and {{c1::histamine}} release<br>z Ineffective once that has already happened<br>z Used {{c1::prophylactically}}<div><br></div><div>Route of administration</div><div>z {{c1::Inhalation}}: Allergic asthma<br>z {{c1::Nasal spray}}: Allergic rhinitis<br>z {{c1::Ophthalmic drops}}: Allergic conjunctivitis<br>z {{c1::Oral}}: Mastocytosis<br></div><div><br></div>",
+                                ""
+                            ],
+                            "guid": "DQOOz_KQ<C",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Anti-histamines: H1 receptor partial agonists:</b><div><b><br></b><div>First Generation<br>Drug Name: {{c1::diphenhydramine, chlorpheniramine}}<br>z Lipop{{c1::hilic}}, cross BBB<br>z Act as “{{c1::inverse agonists}}”<br>z Drug that binds to the same receptor as an agonist but induces a pharmacological response opposite to that of the agonist<br><br></div><div>Used for<br>z {{c1::Anaphylaxis}}<br>z Nausea and vomiting<br><br></div><div>Adverse effects<br>z {{c1::Sedation}}<br>z {{c1::Dry mouth}}<b><br></b></div></div><div><br></div><div>Second generation:<br>Drug Names: {{c1::Cetirizine}}, {{c1::loratadine}}, {{c1::fexofenadine}}<br>z Lipo{{c1::phobic}}, don’t cross BBB<br>z Additional anti-inflammatory effects<br><br></div><div>Uses:<br>z {{c1::Allergic rhinitis}} (↓ sneezing, rhinorrhoea)<br>z {{c1::Urticaria}}<br><br></div><div>Orally administered</div><div><br></div><div>&nbsp;Available OTC<br></div><div><br></div><div>Why Don't second-gen Anti-histamines cause sedation?&nbsp;{{c1::They don't cross the blood brain barrier}}</div>",
+                                "<img src=\"paste-9f4a3c6ed368210df719db3091aba16c81edacdd.jpg\">"
+                            ],
+                            "guid": "f3SlmKh(#+",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What was the name of the first non-sedating anti-histamine that got pulled due to suddden cardiac deaths?",
+                                "Terfenadine"
+                            ],
+                            "guid": "h4+.ifPJ~G",
+                            "note_model_uuid": "39db5048-81a3-11eb-b5a8-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Topical calcineurin inhibitors<br>{{c1::Tacrolimus}} (FK506) ointment<br>z Inhibits production of {{c1::IL-2}} by activated T lymphocytes<br><br><div>Uses:<br>z Atopic eczema dependent on {{c1::corticosteroids}}<br><br></div><div>&nbsp;ADR:<br>z {{c1::Burning sensation in skin}}<br>z Possibly&nbsp;{{c1::lymphoma}}</div><div><br></div>",
+                                ""
+                            ],
+                            "guid": "j?#uOb<jl;",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Which statement about anti-histamines is<br>false?<br><br>1. Diphenhydramine is a H1 receptor antagonist<br>2. Diphenhydramine crosses the blood brain barrier<br>3. Loratadine does not cross the blood brain barrier<br>4. Terfenadine can be subject to a clinically significant drug-drug interaction<br>5. Many anti-histamines are available over the counter",
+                                "1"
+                            ],
+                            "guid": "jTq47*,%e#",
+                            "note_model_uuid": "39db5048-81a3-11eb-b5a8-af478fea30f9",
+                            "tags": []
+                        }
+                    ]
+                }
+            ],
             "crowdanki_uuid": "969fe5ce-7dd0-11eb-8411-af478fea30f9",
             "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
             "desc": "",
@@ -1347,7 +1539,105 @@
         },
         {
             "__type__": "Deck",
-            "children": [],
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "39dc6222-81a3-11eb-a5a1-af478fea30f9",
+                    "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-d97c47d5b40b9b2d047a17e0481165984b50f014.jpg"
+                    ],
+                    "mid": 1602236504918,
+                    "name": "02/16 IMMUNOPHARM 4 ALLERGIES V2",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>Traditional attenuated virus</div><div><br></div><div>{{c1::2.}} The cultured virus is used to infect monkey cells<br></div>{{c1::1}}.Pathogenic virus is isolated from a patient and grown in human cultured&nbsp;<div>{{c1::4.}} The virus no longer grows well in human cells and can be used in a vaccine</div><div>{{c1::3}}&nbsp;The virus acquires many mutations that allow it to grow well in&nbsp; monkey cells<br></div>",
+                                ""
+                            ],
+                            "guid": "snyF9fKhWt",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "With recombinant DNA techniques, attenuation can be achieved by removing the&nbsp;{{c1::virulence}} part of pathogen, but leaving behind the&nbsp;{{c1::receptor binding protein}} and&nbsp;{{c1::core proteins}}",
+                                ""
+                            ],
+                            "guid": "j?eXlUEpzV",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What sort of vaccine is it?<div><br></div><div>MMR&nbsp;{{c1::LAV}}</div><div>HEP B&nbsp;{{c1::SUB/CON}}</div><div>Passed Through cell cultures&nbsp;{{c1::LAV}}</div><div>HEP A&nbsp;{{c1::Inactivated}}</div><div><br></div>",
+                                ""
+                            ],
+                            "guid": "K;7rpnQp5#",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::Antigen}} provides specificity of response to adaptive immunity<br><br><div>{{c1::Adjuvant}} provides innate immune activity to boost adaptive immunity</div><div><br></div><div>Adjuvants bind to&nbsp;{{c1::Toll-like}} receptors on&nbsp;{{c1::antigen presenting}} cells or it can be&nbsp;{{c1::phagocytosed}}</div><div><br></div><div>Inflammasomes induce production of {{c1::cytokines}}</div><div><br></div><div>{{c1::APC}} presents the antigen which activates the immune response</div>",
+                                "<img src=\"paste-d97c47d5b40b9b2d047a17e0481165984b50f014.jpg\">"
+                            ],
+                            "guid": "p,VE%AeC+$",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Which immune response<div><br></div><div>Slow and not strong{{c1::primary}}</div><div><br></div><div>Fast and Strong&nbsp;{{c1::secondary}}</div>",
+                                ""
+                            ],
+                            "guid": "NY{Qb-/XJ&",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Reasons for inability to develop effective<br>vaccines: HIV<br><br>z Lack of {{c1::natural immunity}} to HIV<br>z {{c1::Variability}} of HIV types<br>z Lack of correlates of protective immunity<br>z Lack of an {{c1::animal model}} that reliably predicts vaccine efficacy in humans",
+                                ""
+                            ],
+                            "guid": "Ais5c]%xS^",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "HPV is a common STI<br>Infection at sexual debut<br>Most infected persons clear<br>HPV infection<br>Chronic HPV16 infection causes certain cancers:<br>{{c1::z Cervical<br>z Anal<br>z Penile<br>zHead and neck}} (4)<br>",
+                                ""
+                            ],
+                            "guid": "Ou7~`U3mXd",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "1.{{c1::APC}} takes up antigen&nbsp;<div>2. {{c1::T helper cell}} exposed to antigen</div><div>3.&nbsp;{{c1::Naive}} T and B lymphocytes activated</div><div>4.{{c1::B-cells}} make antibodies,&nbsp;{{c1::T-cells}} kill the infected cells</div><div>5.&nbsp;{{c1::memory b-cells, memory t-cells and memory helper t-cells}}(3) stay behind</div>",
+                                ""
+                            ],
+                            "guid": "H`0R;;t,XT",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        }
+                    ]
+                }
+            ],
             "crowdanki_uuid": "96a16b70-7dd0-11eb-be8a-af478fea30f9",
             "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
             "desc": "",
@@ -2831,6 +3121,146 @@
                     "name": "IO Card",
                     "ord": 0,
                     "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "afe9bf23-7dce-11eb-b4f3-a0b2d6ecb02c",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic (and reversed card)-defa1",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{Back}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "39db5048-81a3-11eb-b5a8-af478fea30f9",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic (and reversed card)",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{Back}}"
                 }
             ],
             "type": 0
