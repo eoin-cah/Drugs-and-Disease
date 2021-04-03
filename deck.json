@@ -2843,6 +2843,1088 @@
                     "tags": []
                 }
             ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "13665ee2-948a-11eb-971c-ad9d49024ac7",
+            "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "paste-2c6d1a0e917bf340f56af66d6997d02564bdbbac.jpg",
+                "paste-6e3250f7d98c3ae816a51e6065c47512f2f52393.jpg",
+                "paste-b00dffe6f2f58c1ab8a50b3b588f5904bb60bad2.jpg"
+            ],
+            "name": "03/19 NSAIDS",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Name the 3 dimensions of experience of pain,<div>{{c1::Sensory/discriminative&nbsp;<div>Motivational/affective&nbsp;</div><div>Cognitive/evaluative}}</div></div>",
+                        ""
+                    ],
+                    "guid": "PS%qOZ?tl0",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What are the two types of chronic pain?<div>{{c1::inflammatory and neuropathic}}<br></div>",
+                        ""
+                    ],
+                    "guid": "L{sl=kgSjt",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Ascending pain pathway:</b><div><br></div><div>The painful stimulus is picked up by&nbsp;{{c1::C nociceptor}} and&nbsp;{{c1::A delta nociceptor}} (types of receptor)</div><div><br></div><div>The nerve enters the spinal cord in the&nbsp;{{c1::dorsal horn}}</div><div>It then decussates and ascends in the&nbsp;{{c1::spinothalamic}} tract</div><div><br></div><div>It passes through the&nbsp;{{c1::brainstem}} and&nbsp;{{c1::midbrain}} before synapsing at the&nbsp;{{c1::VP}} or&nbsp;{{c1::IL}} nuclei of the thalamus.<br><br></div><div>The pathway then divides into 3 pathways, leading to the&nbsp;{{c1::somatosensory cortex}},{{c1::cingulate cortex}} and&nbsp;{{c1::limbic system}}</div><div><br></div><div>Is it a substant released from adamged cells? Y/N</div><div>Bradykinin</div><div>Haemoglobin</div><div>Cations</div><div>Anions</div><div>Free radicals</div><div>Histamine</div><div>Choline</div><div>Prostanoids</div><div>Purines</div><div>Serotonin</div><div>GABA</div><div>Tachykinins</div><div><br></div><div>{{c1::everything except Hb, anions, GABA and choline}}<br><div><b><br></b></div></div>",
+                        "<img src=\"paste-6e3250f7d98c3ae816a51e6065c47512f2f52393.jpg\">"
+                    ],
+                    "guid": "NB6|Q$!o$|",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Descending Pain Pathway<div>Begins at the {{c1::Periaqueductal grey matter}} and synapses in the {{c1::Nucleus Raphe Magnus}}, is carried by {{c1::A beta}} afferent fibres<br></div>",
+                        "<img src=\"paste-b00dffe6f2f58c1ab8a50b3b588f5904bb60bad2.jpg\">"
+                    ],
+                    "guid": "mwl682iT.l",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What does NSAID stand for?{{c1::Non Steroidal Anti Inflammatory Drugs}}<div><br></div><div>Weaker or stronger than opiates?&nbsp;{{c1::weaker}}</div>",
+                        ""
+                    ],
+                    "guid": "JF^l:!k4P9",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Give two other beneficial actions of NSAIDs&nbsp;{{c1::Anti-inflammatory\nAnti-thrombotic\nAnti-pyretic\nAnti-cancer (}}(4)",
+                        ""
+                    ],
+                    "guid": "xUkwJBxp4z",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "This One's hard&nbsp;<div>Do it or don't, but like its here if you want it</div><div><br></div><div>Acetic Acid NSAIDs</div><div>{{c1::Diclofenac</div><div>Etodolac</div><div>Indomethacin</div><div>Sulindac</div><div>Tolmetin}} (5)</div><div><br></div><div>Fenamate NSAIDs</div><div>{{c1::Meclofenamate</div><div>Meclofenamic Acid}} (2)</div><div><br></div><div>Naphthylalkanone</div><div>{{c1::Nabumetone}} (1)</div><div><br></div><div>Oxicam</div><div>{{c1::Piroxicam</div><div>Meloxicam}} (2)</div><div><br></div><div>Propionic Acid</div><div>{{c1::Fenoprofen</div><div>Flurbiprofen</div><div>Ibuprofen</div><div>Ketoprfen</div><div>Naproxen</div><div>Oxaproxen}} (6)</div><div><br></div><div>Salicylate</div><div>{{c1::Aspirin</div><div>Diflunisal}} (2)</div><div><br></div><div>Choline Magnesium Trisalicylate</div><div>{{c1::Salsalate}} (1)</div><div><br><div><br></div></div>",
+                        ""
+                    ],
+                    "guid": "OCu]C5UQ2t",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "NSAIDs inhibit&nbsp;{{c1::Cycloxygenase}} (COX)<div><br></div><div>COX-1 has&nbsp;{{c1::Homeostatic}} Functions</div><div>Give 2 examples of this function,{{c1::fxn on GI tract, Renal Tract, Platelet finction and Macrophage differentiation}} (4)</div><div><br></div><div>COX-2 has {{c1::inflammatory&nbsp;}} functions</div><div>Specifically the production of&nbsp;{{c1::prostaglandins}}</div><div><br></div><div>Traditional NSAIDs block&nbsp;{{c1::both}} COX channels</div><div>COX-2 inhibitors are&nbsp;{{c1::too big}} so cannot be used on COX-1 channels</div>",
+                        "<img src=\"paste-2c6d1a0e917bf340f56af66d6997d02564bdbbac.jpg\">"
+                    ],
+                    "guid": "g:!K/vs[<O",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Give three advantages of Prostaglandin inhibition,<div>{{c1::Analgesia</div><div>Antipyresis</div><div>Anti-inflammatory</div><div>Antithrombotic</div><div>Closure of ductus arteriosus}} (5)<br></div><div><br></div><div>Give three disadvantage of prostaglandin inhibition,</div><div>{{c1::Gastric mucosal damage</div><div>Bleeding,due to platelet problems</div><div>Limitations of renal blood flow</div><div>Prolongation of labour</div><div>Asthma and anaphylactoid reactions in susceptible individuals}} (5)<br></div><div><br></div><div> Prostaglandins themselves do not cause pain but they\npotentiate the pain producing effects of\nother inflammatory mediators such as\n{{c1::5-HT}} and {{c1::Bradykinin}}<br></div>",
+                        ""
+                    ],
+                    "guid": "hGvgeD&r5d",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Other Benefits of NSAIDs apart from Analgesia.<div><b>ANTIPYRESIS&nbsp;</b></div><div> NSAIDs {{c1::reduce}} body temperature in {{c1::fever}} but do\nnot cause {{c1::hypothermia}}&nbsp;</div><div> Fever during infection is produced through the\ngeneration of pyrogen {{c1::ILs}}, {{c1::TNF}}, {{c1::Interferons&nbsp;}}</div><div> Induction of PG in {{c1::hypothalamus}} raises body\ntemperature</div><div><br></div><div><b>Anti-inflammatory action&nbsp;</b></div><div> The most important mechanism of anti-inflammatory action of NSAIDs is {{c1::inhibition\nof PGs at the site of injury&nbsp;}}</div><div><br></div><div> The anti-inflammatory potency of\ncompounds corresponds to their potency\nto inhibit {{c1::COX}}&nbsp;<br></div><div><br></div><div><b>Actions in dysmenorrhoea&nbsp;</b></div><div> Role of PG in dysmenorrhoea has been clearly\ndemonstrated\n The levels of {{c1::PGF2alpha}}(specific pg) are raised in\ndysmenorrhoeic women&nbsp;</div><div> NSAIDs lower uterine PG levels and afford\nsignificant relief in {{c1::60-70}} % of patients&nbsp;</div><div> The ancillary symptoms of dysmenorrhoea such\nas {{c1::headache}}, {{c1::backache}} and {{c1::nausea}} are also\nrelieved<br></div><div><br></div><div>What is Dysmenorrhoea?&nbsp;{{c1::period pains}}</div><div><br></div><div><br></div><div><br></div>",
+                        ""
+                    ],
+                    "guid": "J.t.,co-C0",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Aspirin&nbsp;<div>{{c1::Acetylsalicylic}} acid&nbsp;</div><div>Analgesic&nbsp;</div><div>Anti-{{c1::pyretic}}&nbsp;</div><div>Anti-{{c1::inflammatory}}&nbsp;</div><div>Inhibits {{c1::platelet aggregation}}&nbsp;</div><div>causes irreversible inactivation of {{c1::COX-1&nbsp;}}</div><div>Oral, {{c1::rapid}} absorption, 75 % metabolism in\nliver&nbsp;</div><div>Half life = {{c1::4}} hours</div>",
+                        ""
+                    ],
+                    "guid": "7{RT1c~.B",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Bad Effects of NSAIDs<div><br></div><div><b>Antiplatelet action</b>&nbsp;</div><div> NSAIDs inhibit the pro-aggregatory {{c1::TXA2&nbsp;}}</div><div> Bleeding time is {{c1::prolonged&nbsp;}}</div><div> Aspirin is highly active, acetylates {{c1::platelet\nCOX}} irreversibly&nbsp;</div><div> Small doses are able to exert\n{{c1::antithrombotic}} effect for {{c1::several days}} (how long)<br></div><div><br></div><div><b>Gastric mucosal damage</b><br></div><div>Defieciency of Prostaglandins decreases the amount of&nbsp;{{c1::mucus}} and&nbsp;{{c1::HCO3-}} so gastric mucosal damage happens<br></div><div><br></div><div>Give two effects of Gastric mucosal damage of NSAIDs</div><div>{{c1::Gastric pain, mucosal erosion, ulceration and\nblood loss}}<br></div><div><br></div><div>Two ways to counteract this</div><div>1.&nbsp;{{c1::Acid secretion}} inhibition by using {{c1::PPIs or H2RA}}</div><div><br></div><div>2.&nbsp;{{c1::PG}} analogues, such as&nbsp;{{c1::misoprostol}}</div><div><br></div><div><b>Renal Effects</b></div><div>Do healthy individuals have to worry about the renal ADRs of NSAIDs? {{c1::nah man}}</div><div><br></div><div>What conditions would make someone at risk for the renal ADRs of NSAIDs?</div><div>{{c1::CHF,\nhypovolemia, hepatic cirrhosis and renal\ndisease}}<br></div><div><br></div><div>The effects are due to inhibition of&nbsp;{{c1::Prostaglandins}} synthesis</div><div><br></div><div><b>Normal ADRs at Analgesic doses:</b></div><div><b><br></b></div><div>-{{c1::nausea, vomiting and epigastric distress}}(3) (relating to GI tract)<br></div><div><br></div><div>-Blood loss in stool</div><div><br></div><div>-{{c1::rash, worse asthma, fixed drug eruptions}} (3) (relating to hypersensitivity)</div><div><b><br></b></div><div><b>Salicylism</b><br></div><div>{{c1::Anti-inflammatory}} doses cause a\nsyndrome called as salicylism&nbsp;</div><div> Dizziness, {{c1::tinnitus}}, vertigo, {{c1::reversible}}\nimpairment of hearing&nbsp;</div><div> Mental confusion and {{c1::hyper}}ventilation can\noccur<b><br></b></div><div><br></div><div><b>Acute salicylate poisoning</b></div><div>More common in kids or adults?</div><div>{{c1::kids}}<br></div><div><br></div><div>What is the adult fatal dose?&nbsp;{{c1::15-30g}}</div><div><br></div><div>Is it an effect of ASP?</div><div><br></div><div>dehydration,&nbsp;</div><div>vomiting,</div><div>diarrhoea</div><div>electrolyte disturbances,&nbsp;</div><div>frequent urination,</div><div>restlessness and\ndelirium, hallucinations,</div><div>chest pain</div><div>convulsions&nbsp;&nbsp;</div><div>coma<br></div><div>{{c1::everything except diarrhoea, chest pain and frequent urination}}<br></div><div><br></div><div>Death is due to {{c1::respiratory failure}} and\n{{c1::cardiovascular collapse}}<br></div>",
+                        ""
+                    ],
+                    "guid": "dk:[0+l:9f",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Precautions and CI&nbsp;<div> Contraindicated in hypersensitive and {{c1::peptic\nulcers&nbsp;}}</div><div> Chronic {{c1::liver disease }}</div><div> Aspirin should be stopped {{c1::1 week}} before\nsurgery&nbsp;</div><div> During pregnancy may cause premature\nclosure of {{c1::ductus arteriosus&nbsp;}}</div><div> Administration during pregnancy also may\ncause {{c1::low birth weight}} babies&nbsp;</div><div> Should be avoided in {{c1::breast feeding}} women</div>",
+                        ""
+                    ],
+                    "guid": "NRa+Fmna4i",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Is it a non-specific COX inhibitor or a COX-2 specific?<div>Rofecoxib<br></div><div>Ibuprofen&nbsp;</div><div>Celecoxib<br></div><div>Diclofenac&nbsp;</div><div>Etoricoxib<br></div><div>Indomethacin&nbsp;</div><div>Valdecoxib<br></div><div>Mephenamic acid&nbsp;</div><div>Piroxicam&nbsp;</div><div>Ketorolac<br></div><div><br></div><div>{{c1::Celecoxib\n Etoricoxib&nbsp;Rofecoxib&nbsp;Valdecoxib are all COX-2 }}<br></div>",
+                        ""
+                    ],
+                    "guid": "gjDA=<HD:N",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Paracetemol<div>&nbsp;•{{c1::Weak}} inhibitor of COX-1 and COX-2&nbsp;</div><div>•Analgesic&nbsp;</div><div>•Anti-{{c1::pyretic&nbsp;}}</div><div>•{{c1::Very weak}} anti-inflammatory effects&nbsp;</div><div>•Lacks gastrointestinal side effects&nbsp;</div><div>•Metabolized in {{c1::liver}}, half life = {{c1::2-4}}\nhours&nbsp;</div><div>•Hepatotoxic in very high doses</div>",
+                        ""
+                    ],
+                    "guid": "QHnZk[Ac*V",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Advantages of COX-2 Specific Analgesics?<div>Even at {{c1::high doses}} they have less effect\non the {{c1::gastric mucosa&nbsp;}}</div><div> {{c1::Tolerability}} is better than the older NSAIDs&nbsp;</div><div> Longer duration of action (half-life {{c1::11-13}}\nhrs&nbsp;<br></div>",
+                        ""
+                    ],
+                    "guid": "E)-|.WNH!}",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        " Rofecoxib was withdrawn due to its\nassociation with higher cardiovascular\nincidents:<div><br></div><div>Increase {{c1::BP}}\nIncreased {{c1::risk of MI}}\n{{c1::Thromboembolism}}<br></div>",
+                        ""
+                    ],
+                    "guid": "z6hL=[|;@T",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "13671026-948a-11eb-a4ed-ad9d49024ac7",
+            "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "paste-679c4995006fba3d8c59324008eb0184a1599db4.jpg",
+                "paste-70e8c6027bb30a08b10dcce76ec56a063aa16298.jpg"
+            ],
+            "name": "03/20 OPioids",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Natural opium alkaloids: {{c1::Morphine,\ncodeine}} (2)<div>Semisynthetic opiates:\n{{c1::diacetylmorphine (Heroin)}} (1)</div><div>Synthetic opiates: {{c1::Pethidine, fentanyl,\ntramadol, methadone and\ndextropropoxyphene}}(5)</div>",
+                        ""
+                    ],
+                    "guid": "pwkA?4)aUh",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "All opioid receptors are&nbsp;{{c1::g-protein coupled}} receptors<div><br></div><div>{{c1::mu}} receptors are responsible for most analgesic effects opioids as well as some additional affects<br></div><div><br></div><div>{{c1::delta}} receptors are more important in the\nperiphery<br></div><div><br></div><div>{{c1::kappa}}receptors are responsible for analgesia\nat the spinal level<br></div>",
+                        ""
+                    ],
+                    "guid": "I=?mFISepe",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Endogenous opioid peptides</b>&nbsp;<div><br></div><div> These are peptides with opiate like pharmacological effects&nbsp;</div><div><br></div><div> There are four types of EOPs&nbsp;</div><div>{{c1::<div>1. Enkephalin&nbsp;</div><div>2. Dynorphin&nbsp;</div><div>3. Endorphin&nbsp;</div><div>4. Endomorphin</div>}}<br></div>",
+                        ""
+                    ],
+                    "guid": "sH.f6D_|Uq",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Pain modulation: Descending inhibitory pathway</b><div><b><br></b></div><div>Opioids can act on the&nbsp;{{c1::periaquaductal grey matter}}, the {{c1::medulla}}, or spinal cord to activate the Desc. Inhib. pathway.</div>",
+                        "<img src=\"paste-70e8c6027bb30a08b10dcce76ec56a063aa16298.jpg\"><div><img src=\"paste-679c4995006fba3d8c59324008eb0184a1599db4.jpg\"><br></div>"
+                    ],
+                    "guid": "Oha@,HY~dv",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>CNS Effects of Morphine:</b><div><b><br></b></div><div>{{c1::<div>Analgesia<b><br></b></div><div><br></div><div>Euphoria<br></div><div><br></div><div>Sedation<br></div><div><br></div><div>Respiratory Depression</div>}}(4)<br></div><div><br></div><div><br></div><div><br></div><div>Some questions,</div><div>Does morphine effect the sensory or emotional components of pain?{{c1::both}}</div><div><br></div><div>T/F&nbsp;</div><div>There is severe amnesia associated with morphine use{{c1::f}}</div><div>The respiratory center in the brain is acted on by morphine{{c1::t}}</div><div>Patients on morphine frequently feel a floating sensation{{c1::t}}</div><div><br></div><div><br></div>",
+                        ""
+                    ],
+                    "guid": "DpACU2-L$8",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Non-CNS actions of Opioids:</b><div><b><br></b></div><div>-Anti-tussive:&nbsp;{{c1::cough suppression}}</div><div>{{c1::codeine}} is very effective in this action<br></div><div><br></div><div>-{{c1::constriction}} of pupils</div><div><br></div><div>-{{c1::truncal}} rigidity:&nbsp;{{c1::intensification of tone in large trunk muscle}}</div><div>Can interfere with&nbsp;{{c1::ventilation}}</div><div>Usually due to high doses of lipid&nbsp;{{c1::soluble}} opioids like&nbsp;{{c1::fentanyl, sulfentanil}}(2)</div><div><br></div><div>-{{c1::Nausea and vomiting}}(learned about this in drugs and disease)</div><div>Due to&nbsp;Opioid receptors that are present in the {{c1::CTZ}}</div><div><br></div><div>-Vaso{{c1::dilation}}</div><div>Due to both depression of\n{{c1::vasomotor}} center and due to release of\n{{c1::histamine}}<br></div><div>This can cause Bradycardia, but does the heart stay bradycardiac? And why?&nbsp;{{c1::vasodilation and bradycardia lead to hypotension which causes reflex tachycardia , so heart actually becomes tachycardiac}}</div><div><br></div><div>-Constipation</div><div>Due to {{c1::Spasm}} of {{c1::pyloric}} and {{c1::ileocaecal}} sphincters and a&nbsp;{{c1::decrease}}&nbsp;in all intestinal secretions</div><div>What does this mean for opioid addicts?{{c1::its never easy to take a poo}}</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div>",
+                        "Release of histamine can be due to allergic affect"
+                    ],
+                    "guid": "Fp-%XEYT_m",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>MORPHINE</b><div>Oral absorption of Morphine is unreliable, why?{{c1::high\nfirst pass metabolism&nbsp;}}</div><div>T/F and if false give corrct answer</div><div>Morphine is widely distributed&nbsp;{{c1::t}}<br></div><div>Enters the brain within minutes {{c1::f v slowly}}</div><div>Does not enter placental barrier{{c1::f yes and quickly}}</div><div>Morphine-4-glycosulfide is the active metabolite{{c1::f Morphine-6-glucuronide}}</div><div>Most morphine is excreted in 24 hrs{{c1::t}}<b><br></b></div>",
+                        ""
+                    ],
+                    "guid": "vfE`O:tOq!",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ADRs of Morphine<div> {{c1::Sedation, mental clouding, lethargy&nbsp;}}(CNS 3)</div><div> {{c1::Vomiting }}(GIT1)</div><div> {{c1::Urinary retention, constipation&nbsp;}}(Excretion 2)</div><div> Idiosyncracy and allergy</div>",
+                        ""
+                    ],
+                    "guid": "j&zfBqH$fm",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>MORPHINE POISONING:</b><div>acute lethal dose of humans is {{c1::250}} mg<b><br></b></div><div>{{c1::50}} mgs produces\nsevere toxicity<br></div><div><br></div><div><b>Treatment</b></div><div>-Respiratory support&nbsp;</div><div>-Maintenance of {{c1::BP}}</div><div>-Gastric lavage: {{c1::stomach pumping}}</div><div>-Specific antidote-&nbsp;</div><div>Name:{{c1::Naloxone}}&nbsp;</div><div>Dose: {{c1::0.4-0.8}} mg every 2-3 minutes until respiration picks up</div><div>Administration:&nbsp;{{c1::IV}}</div>",
+                        ""
+                    ],
+                    "guid": "C[5<Y=C)Ay",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Morphine Addiction:</b><div>High degree of {{c1::tolerance}} and dependence is\nnoted with morphine<b><br></b></div><div>Addicts can tolerate morphine in {{c1::grams}}(unit of measurement)<br></div><div>Morphine produces both {{c1::physiological}} and\n{{c1::psychological}} dependence<br></div><div><br></div><div>Manifestations of withdrawal are:</div><div>lacrymation:&nbsp;{{c1::crying}}</div><div>sweating,</div><div>&nbsp;yawning,</div><div>&nbsp;anxiety,&nbsp;</div><div>fear,&nbsp;</div><div>restlessness,&nbsp;</div><div>goose flesh:&nbsp;{{c1::permanent goosebumps}}</div><div>mydriasis, :{{c1::<span style=\"color: rgb(32, 33, 36);\">unusual dilation or widening of the pupils</span>}}</div><div>tremor,&nbsp;</div><div>insomnia,&nbsp;</div><div>abdominal colic, :{{c1::<b>abdominal</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;pain characterized by sudden onset and cessation</span>}}</div><div>diarrhea,</div><div>&nbsp;dehydration&nbsp;</div><div>rise in BP</div>",
+                        ""
+                    ],
+                    "guid": "lDbKIKYd]-",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>{{c1::Fentanyl-}}&nbsp;</div><div>80-100 times more potent\nthan morphine&nbsp;</div><div> Short duration of action&nbsp;</div><div> IV, IT, transdermal&nbsp;</div><div> Used in anaesthesia with droperidol<br></div><div><br></div><div><br></div><div><br></div><div>{{c1::Heroin&nbsp;}}<br></div><div> It is {{c1::diacetylmorphine}}&nbsp;</div><div> 3 times more potent than morphine&nbsp;</div><div> More lipid soluble and so enters brain rapidly&nbsp;</div><div> More euphorient and has high addiction liability&nbsp;</div><div> Has less prominent sedative and emetic effect<br></div><div><br></div><div><br></div><div>{{c1::Pethidine (Meperidine)&nbsp;}}</div><div> Was synthesized as an atropine\nsubstitute in 1939&nbsp;</div><div> Chemically unrelated to morphine but has\nsimilar actions&nbsp;</div><div> Has a very good analgesic action&nbsp;</div><div> Poor cough suppressant action&nbsp;</div><div> Given i.m. and onset of action is very rapid&nbsp;</div><div> Used for postoperative pain relief and\nduring labour<br></div><div><br></div><div><br></div><div><br></div><div>{{c1::Codeine&nbsp;}}<br></div><div> It is {{c1::methyl morphine}}, occurs naturally in\nopium and is partly converted into\nmorphine</div><div> It is less potent than morphine&nbsp;</div><div> Selective cough suppressant&nbsp;</div><div> Has good oral bioavailability</div>",
+                        ""
+                    ],
+                    "guid": "E>BI:VwS=_",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Pethidine: ADR&nbsp;<div> Overdose of pethidine causes many excitatory\neffects&nbsp;</div><div>Tremors,&nbsp;</div><div>mydriasis:&nbsp;{{c1::unusual dilation of pupils}}</div><div>hyperreflexia:{{c1::<span style=\"color: rgb(32, 33, 36);\">overactive or overresponsive reflexes</span>}}</div><div>delirium,&nbsp;</div><div>myoclonus:{{c1::sudden muscle spasm}}</div><div>convulsions.&nbsp;</div><div><br></div><div> This is due to accumulation of its metabolite\n{{c1::norpethidine}}</div>",
+                        ""
+                    ],
+                    "guid": "b:{eR)yOqH",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Other opioid analgesics&nbsp;<div> Tramadol&nbsp;</div><div> Tapentadol&nbsp;</div><div> Buprenorphine</div><div>&nbsp; Meptazinol</div><div>Oxycodone&nbsp;</div><div> Hydrocodone wasn't really sure how to go about this one</div><div>{{c1::g}}<br></div>",
+                        ""
+                    ],
+                    "guid": "H))gw%e7oQ",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Adjuvant Analgesics</b>&nbsp;<div> Defined as {{c1::drugs with other indications\nthat may be analgesic in specific\ncircumstances}}&nbsp;</div><div> Numerous drugs in diverse classes&nbsp;</div><div> Multipurpose or specific for {{c1::neuropathic}}\npain<br></div><div><br></div><div>Antidepressant Adjuvant Analgesics:{{c1::amitriptyline, desipramine,\nnortriptyline, duloxetine,\nvenlafaxine, paroxetine}}(6)</div><div><br></div><div>Alpha-2 adrenergic agonists:{{c1::tizanidine, clonidine}}<br></div><div><br></div><div>Corticosteroids:{{c1::prednisone,\ndexamethasone}}(2)<br></div><div><br></div><div>Good anti-covulsants:{{c1::gabapentin, pregabalin,}}(2)</div><div><br></div><div>Reasonable Anti-convulsants:{{c1::valproate, lamotrigine\nphenytoin, carbamazepine,\nclonazepam, topiramate,\ntiagabine, levetiracetam\noxcarbazepine,}}(10)</div><div><br></div><div>Local anesthetics: {{c1::mexiletine, tocainide}}<br></div>",
+                        ""
+                    ],
+                    "guid": "LRIr<W4gjs",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "1367fa01-948a-11eb-a584-ad9d49024ac7",
+            "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "mid": 1602236504918,
+            "name": "03/21 Dympna Pain",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "If a patient comes into to you with intense pain, what would your initial route of administration be?&nbsp;{{c1::continous subcutaneous infusion, because you know exactly how much will be absorbed}}<div><br></div><div>How long should oxynorm and morphine work for?{{c1::4-6 hours}}</div><div><br></div><div>Ask patient if opioids are working and for how long</div><div><br></div><div>What extra drugs would you give to patients on opioids?{{c1::anti-emetic and laxatives}}</div><div><br></div><div><br></div>",
+                        ""
+                    ],
+                    "guid": "AV?vi@i0E+",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Give 4 drugs used for the treatment of cancer pain in ireland<div>{{c1::ketamine, methadone, NSAIDs, Steroids, Paracetamol, Tapentadol}}(6)<br></div><div><br></div><div>Cancer pain can be both&nbsp;{{c1::psychological and physiological}}</div><div><br></div><div>It is important to find the source of pain</div><div><br></div><div><br></div>",
+                        ""
+                    ],
+                    "guid": "Lc$:po.JUo",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "If a pateint on opioids gets full relief for 2 hours what is there perfect dose",
+                        "Double that",
+                        ""
+                    ],
+                    "guid": "pH/iA.{JSt",
+                    "note_model_uuid": "136833ad-948a-11eb-b54e-ad9d49024ac7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "How common is it to be allergic to opioids?",
+                        "Incredibly rare",
+                        ""
+                    ],
+                    "guid": "n=(!E3$;Q/",
+                    "note_model_uuid": "136833ad-948a-11eb-b54e-ad9d49024ac7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is a rescue drug?",
+                        "Drug you take as needed if normal pain relief isn't enough",
+                        ""
+                    ],
+                    "guid": "CT>@F32i/a",
+                    "note_model_uuid": "136833ad-948a-11eb-b54e-ad9d49024ac7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What drug has no metabolites, is excretdby the GI tract, and has a neuropathic NMDA fxn?",
+                        "Methadone",
+                        ""
+                    ],
+                    "guid": "iy}/Xl*H9D",
+                    "note_model_uuid": "136833ad-948a-11eb-b54e-ad9d49024ac7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Cancer Pain:</b><div><div>Treatment is;</div>\n<div><span style=\"font-weight: bold;\">Individual</span></div>\n<div>Constantly reviewed</div>\n<div>Titrated safely</div></div><div><br></div><div><br></div>{{c1::55}}% of all cancer patients have pain<div>{{c1::66}}% of patients with advanced metastatic cancer have pain</div><div><br></div><div>Drugs used in cancer pain,{{c1::Ketamine</div>\n<div>Methadone</div>\n<div>NSAIDs</div>\n<div>Steroids</div>\n<div>Paracetamol</div>\n<div>Tapentadol}}(6)</div>",
+                        ""
+                    ],
+                    "guid": "AnZ]$HBHYS",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "13685abc-948a-11eb-91c2-ad9d49024ac7",
+            "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "paste-40535901d48a17ed27ec950248dfc3c040ea181d.jpg",
+                "paste-e6b57c55602ea7f904bfdc18833c43f9a816e5d2.jpg"
+            ],
+            "name": "03/22 Local Anaesthetics",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><b>What class of anaesthesia?</b></div><div><br></div><div>{{c1::• General Anaesthesia}}: loss of sensory perception of the entire body<br></div><div><br></div>{{c1::Local Anaesthesia}}: loss of sensory\nperception over a small area of the body&nbsp;<div><br></div><div>{{c1::• Regional Anaesthesia:}}: loss of sensation over\na specific region of the body (e.g. lower trunk)&nbsp;</div><div><br></div><div><br></div>",
+                        ""
+                    ],
+                    "guid": "qidy}FE&XV",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Local Anesthetics (History)</b>&nbsp;<div><br></div><div>• Local anaesthetics - {{c1::reversibly}}&nbsp;block conduction along\nnerve fibers&nbsp;</div><div><br></div><div>•Can produce anaesthesia w/o loss of {{c1::consciousness}}.&nbsp;</div><div><br></div><div>•In the beginning there was {{c1::cocaine •}}</div><div><br></div><div>{{c1::Procaine}} - the first synthetic ester LA (1905)&nbsp;</div><div><br></div><div>{{c1::•Lidocaine}} - the first “amide” LA (1943)</div>",
+                        ""
+                    ],
+                    "guid": "D~hg1A5}OD",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>Amide or Ester?</div>– Cocaine<div>– Bupivacaine&nbsp;</div><div>– Mepivacaine&nbsp;</div><div>– Ropivacaine&nbsp;<div>– Procaine&nbsp;</div><div>– Benzocaine&nbsp;</div><div>– Tetracaine&nbsp;</div><div>– Lidocaine&nbsp;</div><div>{{c1::all with two i's are amides}}<br></div></div><div><br></div><div>All local anasthetics have a&nbsp;{{c1::lipophillic}}and&nbsp;{{c1::hydrophillic}} portions, joined by either a ester or amide linkage</div><div><br></div><div>What LA isn't ionic at body pH?&nbsp;{{c1::benzocaine}}</div>",
+                        "<img src=\"paste-e6b57c55602ea7f904bfdc18833c43f9a816e5d2.jpg\">"
+                    ],
+                    "guid": "C:JH3MXSPu",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Answer long action, short action, surface action and whether they're esters or amides<div><br></div><div>Lidocaine</div><div>Xylocaine&nbsp;{{c1::m,a}}</div><div><br></div><div>procaine</div><div>novocaine{{c1::sh,e}}</div><div><br></div><div>benzocaine</div><div>cocaine{{c1::su,e}}</div><div><br></div><div>tetracaine{{c1::l ,e}}</div><div><br></div><div>bupivacaine</div><div>ropivacaine{{c1::l,a}}</div>",
+                        ""
+                    ],
+                    "guid": "j=n;txrN,G",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Esters - hydrolyzed by plasma (&amp; liver)\n{{c1::pseudocholinesterase}}&nbsp;<div>– {{c1::P-aminobenzoic acid}} (PABA) can cause\nallergic rxns (relatively rare)&nbsp;</div><div><br></div><div>• Amides - hepatic metabolism&nbsp;</div><div>– Liver damage. &amp; {{c1::decreased}} hepatic blood flow, {{c1::increased}} toxicity</div>",
+                        ""
+                    ],
+                    "guid": "tD_;@ItRw,",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "T/F<div>The LA hydrophobic pathway involves access of nerve sodium channels from nerve cell cytoplasm&nbsp;{{c1::false, thats hydrophillic, hydrophobic is within cell membrane}}</div><div>Extracellular acidosis decreases LA effect{{c1::true}}</div><div>Hydrophillicity increases potency and duration of action{{c1::false, hydrophobicity}}</div><div>Bupivacaine&gt;lidocaine&gt;procaine in terms of potency{{c1::true}}</div><div><br></div><div>Explain Use/Frequency Block{{c1::LA is more effective when nerve is firing rapidly, so more pain makes LA work better}}</div>",
+                        "<img src=\"paste-40535901d48a17ed27ec950248dfc3c040ea181d.jpg\">"
+                    ],
+                    "guid": "x+vk;g]C.K",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "LAs block conduction in which order:<div><br></div><div>nonmyelinated axons{{c1::2}}<br></div><div>Small myelinated axons{{c1::1}}<br></div><div>large myelinated\naxons{{c1::3}}<br></div><div><br></div><div><br></div><div>Order of sensory function block<br></div><div><br></div><div>• {{c1::1.}} pain&nbsp;</div><div>• {{c1::2.}} cold&nbsp;</div><div>• {{c1::3.}} warmth</div><div>• {{c1::4.}} touch</div><div>• {{c1::5.}} deep pressure&nbsp;</div><div>• {{c1::6.}} motor<br></div>",
+                        ""
+                    ],
+                    "guid": "tIX1_)q,%q",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "• Numbness of {{c1::tongue}} &amp; {{c1::mouth}}&nbsp;<div>• <font color=\"#aa0000\">Behavioral &amp; sensory disturbances\n– ringing in ears, metallic taste, tingling\nsensations&nbsp;</font></div><div>• Seizures ({{c1::tonic clonic}}(type))&nbsp;</div><div>• Depression / Loss of {{c1::Consciousness&nbsp;}}</div><div>• {{c1::Respiratory}} Failure&nbsp;</div><div>• Arrhythmias*,hypotension, CV Collapse&nbsp;</div>",
+                        ""
+                    ],
+                    "guid": "ze?8|Tf;wG",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "1368f581-948a-11eb-96ae-ad9d49024ac7",
+            "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "paste-08e3eedd068308b54f2fcd399067951507c37afd.jpg",
+                "paste-1d622ba9751021e17c01f31249d21a1b9575db38.jpg",
+                "paste-3ad9601b849df4ce928d087ba84b4d80814e25f0.jpg"
+            ],
+            "mid": 1602236504918,
+            "name": "03/23 General Anaesthetics",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "General Anaesthesia:{{c1::the loss of response to\n&amp; perception of all external stimuli}}<div><br></div><div>Components of General Anaesthesia:\n{{c1::</div><div>• Unconsciousness</div><div>&nbsp;• Analgesia (most GAs are poor analgesics)&nbsp;</div><div>• Attenuation of autonomic responses to painful stimuli&nbsp;</div><div>• Amnesia</div><div>&nbsp;• Immobility (neuromuscular relaxation)}}(5)<br></div><div><br></div><div>Phases of General Anaesthesia&nbsp;</div><div>Induction: {{c1::putting the patient to sleep}}&nbsp;</div><div>Maintenance: {{c1::keeping the patient asleep&nbsp;}}</div><div>Emergence: {{c1::waking the patient up}}<br></div><div><br></div><div>T/F<br>Only drugs with a very specific structure can be a general anaesthetic?{{c1::General anaesthesia\ncan be caused by a\nremarkable number\nof structurally\ndiverse molecules}}</div><div><br></div><div>Briefly what does the Meyer-Overton rule mean?{{c1::The correlation of anaesthetic potency with\nlipid solubility provides a means of predicting\nanaesthetic potency. This correlation has\ntraditionally been interpreted as meaning that\nprimary anaesthetic action sites are lipid portions of\nnerve membranes.}}</div><div><br></div><div><br></div><div><br></div><div><br></div>",
+                        ""
+                    ],
+                    "guid": "C{UhjWN@3p",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "The old theory has something to do with lipid bylayers and miracles<div><br></div><div>BUT NOW.... THE MODERN UNDERSTANDING:</div><div><br></div><div>1. Enhanced GABA effect on {{c1::GABAA}} Receptors&nbsp;</div><div>Drugs that do this:</div><div>{{c1::– Inhaled anaesthetics - Etomidate\n– Barbiturates - Propofol\n– Benzodiazepines&nbsp;}}(5)</div><div><br></div><div>2. Block {{c1::nicotinic}} receptor subtypes (analgesia)\n–&nbsp;</div><div>Drugs that do this:Moderate to high concs of {{c1::inhaled anaesthetics&nbsp;}}</div><div><br></div><div>3. Activate {{c1::K+}} channels (hyperpolarize Vm)\n–&nbsp;</div><div>Drugs that do this:</div><div>{{c1:: Nitrous oxide, ketamine, xenon}}(3)<br></div><div><br></div><div>4. Inhibit {{c1::NMDA}} (glutamate) receptors\n–&nbsp;</div><div>{{c1::Nitrous oxide, ketamine, sevoflurane, xenon, high dose\nbarbiturates&nbsp;}}(5)</div><div><br></div><div>5. Inhibit {{c1::synaptic}} proteins&nbsp;</div><div>({{c1::decrease}} NT release)(amnesia)&nbsp;</div><div><br></div><div>6. Enhance {{c1::glycine}} effect on {{c1::glycine}} Receptor’s (immobility)<br></div><div><br></div><div><br></div>",
+                        ""
+                    ],
+                    "guid": "f!-n_b=WSf",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Barbiturates &amp; Benzodiazepines MOA:&nbsp;&nbsp;<div>1) Both bind to {{c1::GABAA}} receptors, at different sites&nbsp;</div><div>• Both cause increase {{c1::Cl}}-influx in presence of GABA</div><div>• Benzodiazepine binding can be blocked by {{c1::flumazenil&nbsp;}}</div><div><br></div><div>2) Barbituates at high doses - are also {{c1::GABA}} mimetic,\nblock {{c1::Na}} channels &amp; {{c1::NMDA}}/glutamate Rs</div><div><br></div><div>T/F</div><div>Barbituates can never send a person beyond the anasthetic state{{c1::f, thats benzos, barbituates can go all the way to coma}}</div>",
+                        ""
+                    ],
+                    "guid": "pbH!gPh7qV",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Parenteral Anaesthetics (Intravenous)&nbsp;<div>– Barbiturates ({{c1::Thiopental* &amp; Methohexital}}(2))&nbsp;</div><div>– Benzodiazepines ({{c1::Midazolam}}(1))&nbsp;</div><div>– Opioids ({{c1::Morphine &amp; Fentanyl}}(2))&nbsp;</div><div>– {{c1::Propofol*&nbsp;}}</div><div>– {{c1::Etomidate}}</div><div><br></div><div>Give two anaesthetics used mainly for induction{{c1::thiopental and propofol}}</div><div><br></div><div><b>Inhaled Anaesthetics&nbsp;</b></div><div>• Easily vaporized liquid {{c1::halogenated}}\nhydrocarbons&nbsp;</div><div>• Administered as gases<br></div><div><br></div><div>Partial pressure or “tension” in inspired air is a\nmeasure of their concentration&nbsp;</div><div>• The speed of induction of anaesthesia depends on:&nbsp;</div><div>&nbsp;{{c1:: -Inspired gas partial pressure (GA concentration)&nbsp;</div><div>– Ventilation rate&nbsp;</div><div>– GA solubility (less soluble GAs equilibrate more\nquickly with blood &amp; into tissues such as the brain) }}(3)<br></div><div><br></div><div>Are inhaled or IV General anaesthetics more common?</div><div>{{c1::IV}}<br></div><div><br></div><div><br></div>",
+                        ""
+                    ],
+                    "guid": "h3{Lgpb`.u",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Classic Stages of Anaesthesia:</b><div><div><br></div><div>&nbsp;• Stage 1: {{c1::Analgesia}}\n– decreased awareness of pain, amnesia&nbsp;</div><div><br></div><div>&nbsp;• Stage 2: {{c1::Disinhibition}}\n– delirium &amp; excitation, enhanced reflexes,\nretching, incontinence, irregular respiration</div><div><br></div><div>&nbsp;• Stage 3: {{c1::Surgical Anaesthesia}}\n– unconscious, no pain reflexes, regular\nrespiration, BP is maintained</div><div><br></div><div>&nbsp;• Stage 4: {{c1::Medullary Depression}}\n– respiratory &amp; CV depression requiring\nventilation &amp; pharmacological support</div></div><div><br></div><div>This is the drug&nbsp;{{c1::ether}}</div>",
+                        ""
+                    ],
+                    "guid": "w$~hLx`z4?",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What type up of anasthetic exerts its volume quicker?<div>Highly soluble or Low soluble&nbsp;{{c1::low}}</div><div><br></div><div>Blood:Gas coeffecient is&nbsp;{{c1::proportional}} to rate of which anaesthesia exerts its volume</div><div><br></div><div>Ventilation rate is {{c1::proportional}} to rate of which anaesthesia exerts its volume</div>",
+                        "<img src=\"paste-08e3eedd068308b54f2fcd399067951507c37afd.jpg\"><div><img src=\"paste-3ad9601b849df4ce928d087ba84b4d80814e25f0.jpg\"><br></div><div><img src=\"paste-1d622ba9751021e17c01f31249d21a1b9575db38.jpg\"><br></div>"
+                    ],
+                    "guid": "m=ot/>Q9({",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Minimum Alveolar Concentration: {{c1::The alveolar anaesthetic concentration\nrequired to eliminate the motor response to a\npainful stimulus in 50% of patients}}<div><br></div><div>A measure of GA {{c1::potency}}<br></div><div>It’s <font color=\"#aa0000\">“a population average”</font><br></div><div><br></div><div>When several GAs are mixed, their MAC\nvalues are {{c1::additive}}<br></div><div>What does this mean clinically?{{c1::nitrous oxide is\ncommonly mixed w/ other anesthetics}}</div><div><br></div><div>MAC%</div><div>Nitrous Oxide {{c1::&gt;100&nbsp;}}</div><div>Halothane {{c1::0.75}}&nbsp;</div><div>Methoxyflurane {{c1::0.16}}<br></div><div><br></div><div>MAC values are very useful:&nbsp;</div><div>•Allow easy {{c1::comparison}} of anaesthetics&nbsp;</div><div>•Easily {{c1::measured&nbsp;}}</div><div>•Important clinical endpoints&nbsp;</div><div>•Consistent and reproducible<br></div>",
+                        ""
+                    ],
+                    "guid": "I+$A=aIj}V",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Elimination&nbsp;</b><div><br></div><div>&nbsp;• Anaesthesia is most commonly terminated by {{c1::redistribution\nof drug from brain to the blood &amp; out through the lungs}}.</div><div><br></div><div>&nbsp;• The rate of recovery from anaesthesia for GAs with low\nblood:gas PCs is {{c1::faster}} than for highly soluble Gas.</div><div><br></div><div>&nbsp;- Time is $$ in the O.R. &amp; recovery room&nbsp;</div><div><br></div><div>Blood:Gas PCoeff&nbsp;</div><div>Halothane {{c1::2.30&nbsp;}}</div><div>Desflurane {{c1::0.42&nbsp;}}</div><div>Sevoflurane {{c1::0.69}}</div><div><br></div><div>&nbsp;• {{c1::Halothane}} &amp; {{c1::methoxyflurane}} undergo hepatic metabolism\n&amp; can cause {{c1::liver}} toxicity</div><div><br></div><div>•Margin of safety very small&nbsp;</div><div>•TI: {{c1::2-4}}</div><div>&nbsp;•dose that produces circulatory failure may be {{c1::2-4X}} that for anesthesia&nbsp;</div><div>•Most dangerous drugs in use<br></div>",
+                        ""
+                    ],
+                    "guid": "L*`+0Vt,zt",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>NMJ Blockers</b><div>•Drug names: {{c1::Succinylcholine}}, {{c1::Pancuronium}}&nbsp;</div><div>• Used to:\n– relax skeletal muscle\n– facilitate intubation**\n– ensure immobility&nbsp;</div><div>• Effects of Pancuronium can be reversed\nby {{c1::neostigmine*}} &amp; {{c1::glycopyrrolate*}}\nduring post-op period</div>",
+                        ""
+                    ],
+                    "guid": "gb7?P:r63%",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "13696a73-948a-11eb-93ff-ad9d49024ac7",
+            "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "paste-13ce0d8ee78adde84df5cabb9cfb31a786e3a24d.jpg",
+                "paste-1c60af787d2cc4ed5d4c683acdaf1d1c6810e8be.jpg",
+                "paste-4cf616574eb517bd77dca52115982aabe88067ec.jpg",
+                "paste-6226ed517b45b8fa32c4c64dc3ed4fb35f6b8d56.jpg",
+                "paste-8b6d95ecdf67ae73a02cc2839b3562024aea5f69.jpg",
+                "paste-9a233c952032603f4deaed9320c063eaa8224660.jpg",
+                "paste-9c70b49f9bfd143789a2c862bbc2f4031c108701.jpg",
+                "paste-a852427b74fe84afe8c863f5a48baf7259d78220.jpg",
+                "paste-ae0cbbe8139587244ef8f7e8088f91c0029e40a6.jpg",
+                "paste-bcab73c4ac083b2e719a76abd4ef0462b98e5ac9.jpg",
+                "paste-c48f0b3405c8ca1878ea2b2328090a5099e2c0c6.jpg",
+                "paste-cb4c48e204b2f3e767d981a521ba30f62722cd47.jpg",
+                "paste-d8bf984b8aa087d3fc7388f7faa643ac41256bbf.jpg",
+                "paste-d9090d41dbdb18c7150469ffc8d41ecaec4d9765.jpg",
+                "paste-fac2fbe1870d7749967b0f81892f2380b39658e9.jpg"
+            ],
+            "name": "03/29 Dennedy Diabetes 1",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "DIABETES MELLITUS:{{c1::“Transient or permanent disease state of chronic hyperglycaemia characterised\nby insulin deficiency or insulin resistance or a combination of both.”}}<div><br></div><div>What are the type of drugs/treatment one would use for insulin deficiency?</div><div>{{c1::insulin, insulin secretagogues}}(2)<br></div><div><br></div><div>What type of drugs/treatment one would use for insulin resistance?</div><div>{{c1::insulin sensitizers}}<br></div><div>&nbsp;</div><div>type 1 diabetes is an {{c1::autoimmune}} mediated condition<br></div><div><br></div><div>What genetic defects will cause diabetes?&nbsp;</div><div>{{c1::GENETIC DEFECTS IN BETA CELL FUNCTION&nbsp;</div><div>GENETIC DEFECTS IN INSULIN ACTION}}(2)</div><div><br></div><div>Endocrinopathies that cause diabetes?{{c1::cushings and acromegally}}(2) What type?&nbsp;{{c1::insulin resistant}}</div><div><br></div><div>Exocrine pancreas diseases that cause diabetes?{{c1::chronic pancreatitis, alcoholism and cystic fibrosis}}(3) What type?&nbsp;{{c1::insulin deficient}}</div><div><br></div><div>The chronic administration of what type of drug may cause diabetes?&nbsp;{{c1::corticosteroids}}</div><div><br></div><div>When is a woman likely to get diabetes?{{c1::when pregnant}}</div>",
+                        ""
+                    ],
+                    "guid": "pqT6YI-K4N",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Type 1 diabetes is always insulin&nbsp;{{c1::deficient}}<div>Type 2 diabetes is always insulin&nbsp;{{c1::resistant}}</div><div><br></div><div>T/F&nbsp;</div><div>Type 2 diabetes can be both insulin deficient and resistant&nbsp;{{c1::t}}</div><div>Why?{{c1::as disease progresses insulin making stuff goes to shit}}</div><div><br></div><div>A patient presents with slow onset chronic insulin deficiency, type 1 or type 2?</div><div>{{c1::Type 1}}<br></div><div>What is the name of this condition?</div><div>{{c1::latent autoimmune diabetes of Adulthood (LADA)}}<br></div><div><br></div><div>What mutations are monogenic diabetes associated with?{{c1::germ line mutations}}</div><div><br></div><div>Is gestational diabetes type 1 or type 2?{{c1::usually type 2 but can be type 1}}</div><div>Is maturity onset diabetes of the young type 1 or 2&nbsp;{{c1::2}}</div><div><br></div><div>How would one get secondary diabetes mellitus?{{c1::from another disease such as an endocrinopathy or a pancreas problem}}.</div>",
+                        "<img src=\"paste-8b6d95ecdf67ae73a02cc2839b3562024aea5f69.jpg\">"
+                    ],
+                    "guid": "Q?;Z8me<j{",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What are the three parameters you look at when dagnosing diabetes?<div>{{c1::FASTING GLUCOSE&nbsp;</div><div>POST-PRANDIAL GLUCOSE&nbsp;</div><div>HBA1C(glycosylated haemoglobin)}}(3)</div><div><br></div><div>What would you do to determine the aetiology of the diabetes?</div><div>{{c1::PROPER CLINICAL &amp; DRUG HISTORY&nbsp;</div><div>CLINICAL EXAMINATION&nbsp;</div><div>CALCULATION OF INSULIN RESISTANCE&nbsp;</div><div>AUTO-ANTIBODY TESTING</div><div>&nbsp;SPECIFIC GENETIC TESTING&nbsp;</div><div>SPECIFIC EVALUATION FOR ENDOCRINOPATHY}}(6)<br></div><div><br></div><div>Specific genetic testing should have been one of those, but you only do it if you suspect a specific type of diabetes, which one?{{c1::MODY}}</div><div><br></div>",
+                        "HBA1c= how much Hb has a glucose moiety attached to it<div>post prandial= after eating</div><div><img src=\"paste-9c70b49f9bfd143789a2c862bbc2f4031c108701.jpg\"><br></div><div><br></div><div><br></div>"
+                    ],
+                    "guid": "y0:_NgIN(`",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Insulin:<div>{{c1::Peptide}} hormone</div><div>Synthesised, packaged and released from\n{{c1::pancreatic islets - β-cells}}.</div><div>Glucose Dependent Secretion<br></div><div><br></div><div>As it is a peptide hormone it cannot be&nbsp;{{c1::orally}} administered</div><div><br></div><div>Endogenous insulin is released into&nbsp;{{c1::portal}} circulation</div><div>Synthetic insulin is released into&nbsp;{{c1::systemic}} circulation</div><div><br></div><div>Proinsulin consists of an a,b and c chain</div><div>In insulin {{c1::a}} and {{c1::b}} chains are connected through&nbsp;{{c1::s=s}}bonds and the&nbsp;{{c1::c}} chain is cleaved</div><div><br></div><div>Therefore, what is a good indicator that patient taking synthetic insulin is starting to make their own insulin again?{{c1::the c chain}}</div>",
+                        "<img src=\"paste-c48f0b3405c8ca1878ea2b2328090a5099e2c0c6.jpg\">"
+                    ],
+                    "guid": "D#qYM!r]Ia",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Endogenous Insulin Secretion:</b><div>Secreted into {{c1::portal circulation}}<b><br></b></div><div>{{c1::60}}% undergoes hepatic 1st pass metabolism<br></div><div><br></div><div>Step 1: Glucose enter&nbsp;{{c1::pancreatic}} cell through&nbsp;{{c1::GLUT 2}} channels.</div><div><br></div><div>Step 2: Glucose is broken down to&nbsp;{{c1::Glucose-6-Phosphate}} by {{c1::glucokinase}}(enzyme)</div><div><br></div><div>Step 3: ATP is formed through metabolism</div><div><br></div><div>Step 4: ATP opens&nbsp;{{c1::potassium}} channels</div><div><br></div><div>Step 5: The depolarization of the cell caused by the opening of&nbsp;{{c1::k}} channels, opens&nbsp;{{c1::Calcium}} channels.</div><div><br></div><div>Step 6: The influx of&nbsp;{{c1::calcium}} causes insulin to be released</div><div><br></div><div>In brief:</div><div>{{c1::Glucose}} stimulates the release of insulin.&nbsp;</div><div>{{c1::Glucagon}} inhibits its release.&nbsp;</div><div>Counter-regulatory hormones modulate the function of insulin<br></div><div><br></div><div><br></div>",
+                        "<img src=\"paste-13ce0d8ee78adde84df5cabb9cfb31a786e3a24d.jpg\"><div><img src=\"paste-d9090d41dbdb18c7150469ffc8d41ecaec4d9765.jpg\"><br></div>"
+                    ],
+                    "guid": "vmAeo7U.t1",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "The insulin receptor:<div><br></div><div>TWO SUBUNITS&nbsp;</div><div>Alpha - {{c1::Binds Insulin&nbsp;}}</div><div>Beta - {{c1::Tyrosine Kinase}}<br></div><div><br></div><div>Bound together by&nbsp;{{c1::disulfate}} bonds</div><div><br></div><div>Phosphorylation cascade is triggered and 4 things happen</div><div><br></div><div>{{c1::Liberation GLUT 4</div><div>Glycogen Synthesis (Glycogen Synthase)&nbsp;</div><div>TG Synthesis (Acetyl CoA Carboxylase, LPL)&nbsp;</div><div>Inhibits lipolysis}}<br></div>",
+                        "<img src=\"paste-cb4c48e204b2f3e767d981a521ba30f62722cd47.jpg\">"
+                    ],
+                    "guid": "f[CB|I;W:>",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>INSULIN RELEASE PATTERNS</b><div><br></div><div>CONSTANT BASAL RELEASE OF INSULIN:<b><br></b></div><div>Inhibits hepatic {{c1::gluconeogenesis&nbsp;}}</div><div>Prevents excessive {{c1::lipid}} breakdown<br></div><div>{{c1::prevents}}&nbsp;glycogenolysis<br></div><div>Prevents {{c1::Ketosis}}<br></div><div><br></div><div>INCREASED RATES OF INSULIN RELEASE IN RESPONSE TO\nCHO / GLUCOSE i.e. after eating</div><div><br></div><div>Promotes {{c1::glucose utilization&nbsp;}}</div><div>Promotes {{c1::glycogenesis}}<br></div>",
+                        "<img src=\"paste-bcab73c4ac083b2e719a76abd4ef0462b98e5ac9.jpg\">"
+                    ],
+                    "guid": "eX,c<+g>{t",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "THERAPY OF DIABETES MELLITUS&nbsp;<div><br></div><div>AIMS OF THERAPY&nbsp;</div><div>1. Restore physiological patterns of insulin release or increase insulin release ({{c1::if insulin deficient}})</div><div>2. Restore sensitivity of target organs to insulin action&nbsp;</div><div>3. Replace insulin where it is completely deficient.. What type of diabetes would this occur in?{{c1::all type 1, pancreatic type 2}}</div><div>4. Reduce glucose by non-insulin dependent mechanisms, what two ways can you do this?{{c1::prevent uptake from GIT, piss it out more}}</div><div><br></div><div>HOW IS THIS ACHIEVED?&nbsp;</div><div>1. Insulin {{c1::secretagogues}} or incretin agents… (type 1)</div><div>2. Insulin {{c1::sensitising}} agents… (type 2)</div><div>3. Insulin in the form of long acting and short-acting insulin or CSII.&nbsp;</div><div>4. Inhibit absorption from GI tract or promote excretion from kidney..</div>",
+                        ""
+                    ],
+                    "guid": "qAps@Uo6$#",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "TYPE 1 DIABETES MELLITUS MEANS {{c1::COMPLETE}} INSULIN {{c1::DEFICIENCY}}<div><br></div><div>What sort of therapy should type 1 diabetes be treated with?</div><div>{{c1::insulin therapy}}<br></div><div>How long should the patient be treated for?</div><div>{{c1::for life}}<br></div><div><br></div><div>DRIVEN BY AN AUTO-IMMUNE PROCESS&nbsp;</div><div>-{{c1::Anti-Glutamic Acid Decarboxylase (GAD)}} antibodies&nbsp;</div><div>-Associated with abnormalities of {{c1::HLA-DR3/DR4}}<br></div><div><br></div><div>When do patients generally get diagnosed?</div><div>{{c1::teens or twenties}}</div><div><br></div><div>Biggest complication of Type 1 Diabetes is:</div><div>Diabetic {{c1::ketoacidosis (DKA)}}&nbsp;</div><div><br></div><div>symptoms of which include</div><div>-Weight Loss, why?&nbsp;{{c1::body can't store and use glucose so breaks down fat}}</div><div>-Osmotic Symptoms, give two?&nbsp;{{c1::polydipsia, polyuria }}</div><div>-Dehydrated, why?{{c1::you piss glucose, has a severe diuretic effect}}</div><div>-Acidotic, why?&nbsp;{{c1::ketones are acidic}}</div><div>-Ketosis, why?{{c1::body can't use glucose, so has to use ketones}}<br></div>",
+                        ""
+                    ],
+                    "guid": "QEGOWu82JH",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Insulin Therapy:</b><div><br></div><div>{{c1::Recombinant}} human insulin preparations are used</div><div><br></div><div>WHEN IS IT GIVEN?&nbsp;</div><div>To every patient with {{c1::type 1}} diabetes..&nbsp;</div><div>To most patients with {{c1::secondary}} diabetes..&nbsp;</div><div>To many patients with type {{c1::2}} diabetes..<br></div><div><br></div><div>T/F</div><div>Is given orally&nbsp;{{c1::f, given parenterally}}</div><div>No post prandial doses needed as basal dose is long acting{{c1::f, that's not how insulin works, see endogenous insulin slide for more}}</div><div>Can be administered by patient themselves&nbsp;{{c1::t}}</div>",
+                        "<img src=\"paste-1c60af787d2cc4ed5d4c683acdaf1d1c6810e8be.jpg\">"
+                    ],
+                    "guid": "v1qY_P#d(g",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Does endogenous insulin or injected insulin last longer in the body?<div>{{c1::injected}}<br></div><div>Why?</div><div>{{c1::goes into systemic circulation rather than portal, so no fpm}}<br></div><div><br></div><div>Describe basal-bolus insulin dosage</div><div>{{c1::one or two basal long acting insulin injections, as well as further bolus short acting insulin injections at mealtimes to compensate for raised CHO&nbsp;</div><div><img src=\"paste-a852427b74fe84afe8c863f5a48baf7259d78220.jpg\">}}<br></div><div>What does the basal dosage inhibit?</div><div>{{c1::glycogenolysis and ketosis}}<br></div><div><br></div><div>Describe mixed insulin dosage</div><div>{{c1::two doses of mixed long and short acting insulin</div><div><img src=\"paste-ae0cbbe8139587244ef8f7e8088f91c0029e40a6.jpg\">}}<br></div><div>What patients might need mixed insulin dosage?</div><div>{{c1::those that are elderly, blind forgetful etc.}}<br></div><div><br></div><div>What is the biggest risk with mixed insulin dosage?<br>{{c1::hypoglycemia}}<br></div>",
+                        "disclaimer, its very confusing"
+                    ],
+                    "guid": "v=K=&[r,&W",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "How long did the first human recombinant quick acting insulin to work?<div>{{c1::40 minutes and lasted for 6 hours}}<br></div><div><br></div><div>Give three ultra-quick acting insulin and the amino acids that they replace</div><div>{{c1::Insulin Aspart (Pro28 → Asp)</div><div>&nbsp;Insulin Lispro (Pro 28Lys29 Reversed)</div><div>&nbsp;Insulin Glulisine (Asn3 → Lys)}}<br></div><div><br></div><div>Why are certain amino acids replaced?</div><div>{{c1::to form dimers and prevent hexamer formation in the body, easier to be absorbed}}<br></div><div><br></div><div>Fast absorption - {{c1::20}} minutes&nbsp;</div><div>Peak Concentration - {{c1::40}} minutes&nbsp;</div><div>Duration of action - {{c1::2-3}} Hours<br></div><div><br></div><div>What is special about fiasp, the new insulin aspart?</div><div>{{c1::absorbtion in 5 minutes, can even be taken post prandially}}<br></div>",
+                        ""
+                    ],
+                    "guid": "u;q]`L1t)P",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "The three peakless, long acting insulins are as follows, how are they be long acting rather than short acting?<div><br></div><div>Insulin Glargine - {{c1::Altered pH - Prolonged absorption&nbsp;}}<br></div><div>Insulin Detemir - {{c1::Albumin Bound - Longer serum t1/2&nbsp;}}</div><div>Insulin Degludec - {{c1::Zn Bound Hexamers then Phenol Bound - ↓ Solubility}}<br></div><div><br></div><div>What is th emost commonly used one?&nbsp;{{c1::degludec}}</div><div><br></div><div>What is their duration of action?&nbsp;{{c1::18 - 36 HOUR DURATION}}</div><div><br></div><div>You would only use intermediate acting insulins in difficult rare cases, give an example of an intermediate acting insulin.</div><div>{{c1::NPH Insulin - Zn Bound ↓ Solubility}}<br></div><div>What is its duration of action?{{c1::10 - 12 HOUR}}</div><div>What is the big risk acssociated with it?&nbsp;{{c1::RISK OF NOCTURNAL HYPOGLYCAEMIA}}</div>",
+                        "<img src=\"paste-d8bf984b8aa087d3fc7388f7faa643ac41256bbf.jpg\">"
+                    ],
+                    "guid": "IsGIj1p(^$",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>PROBLEMS WITH INSULIN THERAPY</b><div>{{c1::PARENTERAL}} ADMINISTRATION ROUTE ONLY&nbsp;</div><div><br></div><div>LIPODYSTROPHY :{{c1::<span style=\"color: rgb(32, 33, 36);\">lump or small dent in the skin that forms when a person performs injections repeatedly in the same spot</span>}}</div><div>LIPOHYPERTROPHY :{{c1::<span style=\"color: rgb(32, 33, 36);\">&nbsp;</span><span style=\"color: rgb(32, 33, 36);\">lump under the skin caused by accumulation of extra fat at the site of many subcutaneous injections of insulin</span>}}</div><div><br></div><div>INSULIN ANTIBODIES - INFREQUENT WITH RECOMBINANT INSULINS..&nbsp;</div><div><br></div><div>THERAPY MUST BE CONSTANTLY MONITORED&nbsp;</div><div>Measurement of {{c1::capillary glucose}} - Painful&nbsp;</div><div>Monitoring of {{c1::HbA1c&nbsp;}}</div><div><br></div><div>DOSING IS MEAL DEPENDENT AND DEPENDENT ON PHYSIOLOGIC / PATHOLOGIC STATE\nHYPOGLYCAEMIA&nbsp;</div><div><br></div><div>⇧ APPETITE AND WEIGHT GAIN..<b><br></b></div>",
+                        ""
+                    ],
+                    "guid": "jNCu:e#>*&",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Type 2 starts out as insulin&nbsp;{{c1::resistance}}<div>And progresses to insulin&nbsp;{{c1::deficiency}}</div><div><br></div><div>Type 2 diabetes is&nbsp;{{c1::progressive}} and patients&nbsp;{{c1::gain}} weight</div><div><br></div><div>What microvascular complications will diabetes cause?</div><div>{{c1::neuropathy, nephropathy and retinopathy}}<br></div><div><br></div><div>What macrovascular complications will diabetes cause?</div><div>{{c1::cvd }}<br></div><div><br></div><div>What level of HbA1c is needed for risk of microvascular complications to be reduced?&nbsp;{{c1::6}} %</div><div><br></div><div>T/F<br></div><div>Treatment of type 1 geberally stays the same{{c1::t}}</div><div>Treatment of type 2 generally stays the same{{c1::f}}</div><div><br></div><div>What were the three initial therapies for type 2 diabetes?</div><div>{{c1::Metformin&nbsp;</div><div>Sulphonylurea&nbsp;</div><div>Insulin}}<br></div><div><br></div><div>Why isn't insulin the best treatment for type 2 diabetes?</div><div>{{c1::it cuases weight gain and type 2 diabetres is driven by weight gain}}<br></div>",
+                        ""
+                    ],
+                    "guid": "HM`d2@qC|@",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><b>Insulin Sensitisers:</b></div><div><br></div>What is the best insulin sensitisers?<div>{{c1::weight loss and excercise}}<br></div><div><br></div><div>Pharmaceuticals</div><div>&nbsp;</div><div>{{c1::BIGUANIDES / METFORMIN}}<br></div><div>Targets the mitochondrial respiratory chain and Increases Insulin Receptor TK activity<br></div><div><br></div><div>Advantages:&nbsp;<br></div><div>orally available</div><div>&nbsp;well tolerated</div><div>weight stable</div><div><br></div><div>Disadvantages:<br></div><div>Renal Excretion&nbsp;</div><div>Lactic Acidosis&nbsp;</div><div>GI Symptoms<br></div><div><br></div><div>{{c1::THIAZOLIDINEDIONES}}<br></div><div>Activate PPARγ<br></div><div><br></div><div>Advantages:</div><div>orally available</div><div>reduce HbA1c-0.5-0.8%</div><div><br></div><div>Disadvantages:</div><div>CVS effects</div><div>Fluid retention</div><div>Weight gain (1-2 kg)</div><div><br></div><div><br></div><div><br></div><div>SOME QUESTIONS</div><div>1. Drug 1,&nbsp;Acts through {{c1::OCT-1 / AMPK}} ➞ {{c1::de}}crease Hepatic Gluconeogenesis</div><div><br></div><div>2. Explain how lactic acidosis by using drug 1 could occur.{{c1::if its renally excreted and patient has renal failure then its kept in the body so lactic acidosis occurs}}</div><div><br></div><div>3.&nbsp;PPARγ moa</div><div>-{{c1::Nuclear Orphan}} Receptor&nbsp;</div><div>-Modulates insulin sensitivity through GLUT-{{c1::1}} &amp; GLUT-{{c1::4&nbsp;}}</div><div>-Stimulates {{c1::TAG}} storage in organs through {{c1::AGTL}}&nbsp;</div><div>-Governs first step of {{c1::adipo}}genesis&nbsp;</div><div>-Inhibits Hepatic {{c1::Gluconeo}}genesis<br></div><div><br></div><div>4. What is the specific receptor target of drug 1?{{c1::no one knows}}</div><div><br></div><div>5. Why would drug 2 be contraindicted in a patient with heart failure?{{c1::fluid retention}}</div><div><br></div><div>6. Which is the most commonly used drug for type 2 diabetes{{c1::BIGUANIDES / METFORMIN}}</div><div><br></div><div>7. Give 2 examples of drug 2.{{c1::rosiglitazone, pioglitazone}}</div>",
+                        ""
+                    ],
+                    "guid": "KLvK_)N#,3",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>SULPHONYLUREAS: Insulin&nbsp;</b>{{c1::secretagogues}}<div><br></div><div>Safe and well tolerated oral agents '</div><div>Facilitate closure of {{c1::K-ATP}} channel<br></div><div>{{c1::de}}crease HbA1c ~ {{c1::1.5}}%&nbsp;</div><div>Weight gain&nbsp;</div><div>Significant risk of {{c1::hypoglycaemia}}…<br></div><div><br></div><div>Can it be used for both type 1 and 2&nbsp;{{c1::no just type 2}}</div><div>Why?</div><div>{{c1::needs functioning beta-cells for it to work}}<br></div><div><br></div><div>Pharmacokinetics&nbsp;</div><div>Metabolised in liver ({{c1::P450}} enymes)&nbsp;</div><div>Excreted in liver and kidneys&nbsp;</div><div>Duration of action {{c1::12 - 24&nbsp;}}hours<br></div><div><br></div><div>First Generation:</div><div>&nbsp;{{c1::Tolbutamide &amp; Chlorpropamide}}&nbsp;</div><div>Second Generation:</div><div>&nbsp;{{c1::Glibenclamide &amp; Glipizide}}&nbsp;</div><div>Third Generation: {{c1::Gliclazide}}<br></div><div><br></div><div>Give three drugs that will increase sulphonylureas affect and three that will reduce it</div>",
+                        "<img src=\"paste-fac2fbe1870d7749967b0f81892f2380b39658e9.jpg\"><div><img src=\"paste-6226ed517b45b8fa32c4c64dc3ed4fb35f6b8d56.jpg\"><br><div><br></div></div>"
+                    ],
+                    "guid": "bkw1XCX]dS",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Describe the incretin effect&nbsp;{{c1::release of insuilin is 3x greater with oral glucose than iv glucose}}<div><br></div><div>Incretin Hormones</div><div><br></div><div>GLP-1&nbsp;{{c1::glucagon like peptide 1}}</div><div>Released from&nbsp;{{c1::Terminal Ileum}}</div><div><font color=\"#aa0000\">Post-translational Processing\nPro-Glucagon</font><br></div><div>Degraded by {{c1::DPP-IV}}&nbsp;</div><div>Ubiquitously Expressed on&nbsp;{{c1::White blood cells}}</div><div>T1/2 - 1.5 minutes<font color=\"#aa0000\"><br></font></div><div><font color=\"#aa0000\">Released for a number of hours after eating</font></div><div><font color=\"#aa0000\"><br></font></div><div>{{c1::Lower}} post-prandial glucose&nbsp;<font color=\"#aa0000\"><br></font></div><div>{{c1::Low}} risk of hypoglycaemia<br></div><div>{{c1::high}} release of c-peptide, so what?&nbsp;{{c1::c-peptide good marker for endogenous insulin production}}<br></div><div>Causes weight&nbsp;{{c1::loss}}</div><div><br></div><div>Is it class&nbsp;{{c1::yes}}</div><div><br></div><div>So what was the issue?{{c1::too short acting}}</div><div><br></div><div><br></div>",
+                        "<img src=\"paste-4cf616574eb517bd77dca52115982aabe88067ec.jpg\"><div><img src=\"paste-9a233c952032603f4deaed9320c063eaa8224660.jpg\"><br></div>"
+                    ],
+                    "guid": "tSp~-wi)hP",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>HOW TO MAKE GLP-1 last longer</b><div><b><br></b></div><div>1. Use synthetic forms of GLP-1 that block degradation of DPP-4</div><div><br></div><div>such as&nbsp;</div><div>{{c1::liraglutide}}- Which has a glutamate chain that blocks DPP-4<br></div><div>{{c1::Exenatide}}- which only has to administered twice daily and is taken from the saliva of the gila monster<br></div><div><br></div><div>2.DPP IV ANTAGONISTS</div><div>Name:{{c1::gliptins}}</div><div>{{c1::Competitive}} Inhibitors of DPP-IV&nbsp;</div><div>Increase physiological GLP-1&nbsp;</div><div>{{c1::De}}crease HbA1c ~ {{c1::1}}%&nbsp;</div><div>{{c1::Orally}} available (admin)</div><div>Well tolerated&nbsp;</div><div>Weight {{c1::neutral}}<br></div><div><br></div><div>3. GLP-1 AGONISTS&nbsp;</div><div>Name:{{c1::GLUTIDES&nbsp;}}</div><div>Structural analogues of {{c1::GLP-1&nbsp;}}</div><div>{{c1::Parenterally}} administered&nbsp;</div><div>{{c1::De}}crease HbA1c ~ {{c1::1.5 - 2}}%&nbsp;</div><div>&nbsp;weight&nbsp;{{c1::loss}}&nbsp;</div><div>Inhibit gastric emptying&nbsp;</div><div>Safe in moderate renal failure&nbsp;</div><div><br></div><div>BUT….\nNausea and diarrhoea&nbsp;</div><div>Risk of {{c1::pancreatitis&nbsp;}}</div><div>Associated with ↑ {{c1::calcitonin}} and MTC<br></div>",
+                        ""
+                    ],
+                    "guid": "GPowX@;g,]",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "136a60c3-948a-11eb-8937-ad9d49024ac7",
+            "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "paste-173124d048694d62b56ded7842cdafb2d11f52b5.jpg",
+                "paste-29d7b2bf6647150ea310f0b3cf3c9e458bdf5aa5.jpg",
+                "paste-6005b30343c5d711d94084341a125c78856527f9.jpg",
+                "paste-7e39aa3b2025a53ce535128ca71ca96b5ee3ea1a.jpg",
+                "paste-88f589626b17529944256fc225965adede3da880.jpg",
+                "paste-8a470cdc241eeb396ac413f959be600cb61a560f.jpg",
+                "paste-a594fa8b9e2446775d2e29f6aa56455e4e5a346e.jpg"
+            ],
+            "name": "03/30 Dennedy Thyroid",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "The thyroid has right and left lobes, and an&nbsp;{{c1::isthmus}} that connects them<div>Sometimes has a {{c1::Pyramidal}} Lobe that is a&nbsp; Remnant of the {{c1::Thyroglossal}} Duct<br></div><div><br></div><div>In the thyroid there are four&nbsp;{{c1::parathyroid}} glands which contains&nbsp;{{c1::parathyroid}} hormone and is responsible for&nbsp;{{c1::calcium}} metabolism</div><div><br></div><div><br></div><div><img src=\"paste-8a470cdc241eeb396ac413f959be600cb61a560f.jpg\"><br></div>",
+                        "<img src=\"paste-29d7b2bf6647150ea310f0b3cf3c9e458bdf5aa5.jpg\">"
+                    ],
+                    "guid": "L/fr1_M+#0",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Thyroid Glamd Physiology and control<div><br></div><div>1. Hypothalamus releases&nbsp;{{c1::tyrotropin releasing hormone}} which causes the&nbsp;{{c1::anterior pituatary}} gland to release {{c1::thyroid stimulating}} hormone.</div><div><br></div><div>2. This hormone acts on a G{{c1::s}} coupled receptor in the thyroid</div><div><br></div><div>3. Two pathways are stimulated</div><div>&nbsp;-Adenylate cyclase--{{c1::cAMP}} which does what?&nbsp;{{c1::upregulation of transcription factor for thyroid hormone to be synthesized}}</div><div><br></div><div>-PLC--{{c1::DAG/IP3}} which does what?&nbsp;{{c1::increases intracellular calcium which stimulates release of thyoid hormone}}</div><div><br></div><div><br></div><div>What are the two types of thyroid hormone?{{c1::T4 amd T3}}</div><div>Which is the abundant one&nbsp;{{c1::T4}}</div><div>Which is the active one&nbsp;{{c1::T3}}&nbsp;</div><div>WHat converts one to the other{{c1::Di and Dii}}</div><div>So which one do we give therapeutically?{{c1::T4 becuase body is used to it}}</div><div><br></div><div><br></div><div>What sort of hormones are thyrtoid hormone?&nbsp;{{c1::nuclear hormones}}</div><div><br></div><div>EFFECTS (5)</div><div>{{c1::<div>Oxygen Consumption&nbsp;</div><div>Thermogenesis&nbsp;</div><div>CHO, Fat, Protein Metabolism&nbsp;</div><div>Growth / Differentiation&nbsp;</div><div>Modulation hormonal action</div>}}<br></div><div><br></div>",
+                        "<img src=\"paste-173124d048694d62b56ded7842cdafb2d11f52b5.jpg\"><div>T4 and T3 shut off this process</div>"
+                    ],
+                    "guid": "u>U^}Img&>",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "THYROID HORMONE SYNTHESIS&nbsp;<div>MAIN SYNTHETIC STEPS&nbsp;</div><div>put in correct order and whether its cAMP or PLC mediated</div><div><br></div><div>Oxidation of iodine and iodination of tyrosine residues&nbsp;{{c1::3cAMP}}<br></div><div>Plasma Iodide Uptake and Concentration&nbsp;{{c1::1 cAMP}}</div><div>Proteolysis of thyroglobulin to release T3 and T4&nbsp;{{c1::5 PLC}}<br></div><div>Thyroglobulin Synthesis&nbsp;{{c1::2 cAMP}}</div><div>Secretion of thyroid hormone&nbsp;{{c1:: 6 PLC}}</div><div>Coupling of iodotyrosines to make T3 and T4&nbsp;{{c1::4 cAMP}}</div><div><br></div><div>Occurs within the {{c1::follicular}} cells - cuboidal / columnar epithelial cells surrounding\nthe colloid-containing follicle<br></div>",
+                        ""
+                    ],
+                    "guid": "csh*;{.U&4",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "THYROID HORMONE SYNTHESIS IN DEPTH<div><br></div><div>TSHR is stimulated which causes upregulation of cAMP, how does this lead to iodide collecting in the colloid?</div><div>{{c1::cAMP stimulates Na+-I- symporter, which brings in iodide first to the follicular cell and then to the colloid and Na-K atpase pumps back out sodium so that it can be used again for the symporter}}<br></div><div><br></div><div>cAMP also stimulates release of&nbsp;thyroglobulin from the&nbsp;{{c1::ER and Golgi}} into the colloid.</div><div><br></div><div>The&nbsp;</div>",
+                        ""
+                    ],
+                    "guid": "OJ|oso=U#F",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "T4 - {{c1::80}}% OF SECRETED THYROID HORMONE<div><br></div><div><font color=\"#aa0000\">BUT…..\nT3 BINDS WITH HIGH AFFINITY TO THYROID HORMONE RECEPTOR</font><br></div><div><br></div><div>DE-IODINATION (HIGHLY EFFICIENT PROCESS)<br></div><div><br></div><div>Done by&nbsp;{{c1::5’-deiodinases}} - Family of selenoproteins</div><div><br></div><div>D1-{{c1::80}}% circulating T3</div><div><br></div><div>Expressed in {{c1::Liver, Kidney, Thyroid Gland}}(3)</div><div>Inhibited by {{c1::PTU, Amiodarone, Glucocorticoids}}(3)</div><div><br></div><div>D2 - Tissue Specific Role - Lower affinity than D{{c1::1}}&nbsp;</div><div><br></div><div>Expressed in {{c1::Cardiac/Skeletal Muscle, Brain, Pituitary}}(3)<br></div><div><br></div><div>D3 - Produces inactive reverse T3 (rT3)&nbsp;</div><div>Expressed in {{c1::Placenta, Skin, Uterus, Brain, Inflammed Tissue}}(5)<br></div><div><br></div><div>What happens in&nbsp;THYROTOXICOSIS&nbsp;{{c1::D1 and 2 decrease}}</div><div>What happens in&nbsp;HYPOTHYROIDISM&nbsp;{{c1::D1 and 2 increase}}</div><div>What happens in illness and pregnancy&nbsp;{{c1::D3 increases}}</div>",
+                        ""
+                    ],
+                    "guid": "cvQ^TyW1&P",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><b>THYROID HORMONE TRANSPORTATION IN BLOOD&nbsp;</b></div><div>HIGHLY PROTEIN BOUND:<br></div><div>STRONG NON-COVALENT BONDS WITH PLASMA PROTEINS<br></div><div><br></div><div>T4 BOUND WITH {{c1::HIGHER}} AVIDITY THAN T3<br></div><div>{{c1::0.03}}% T4 UNBOUND &amp; {{c1::0.3}}% T3 UNBOUND<br></div><div><br></div><div>Is bound or unbound more biologically active? {{c1::unbound}}</div><div><br></div><div>THREE MAIN PROTEINS:<br></div><div><br></div><div>{{c1::Thyroxine-Binding Globulin (TBG)}}:</div><div>Binds a single T4 with high avidity\nBiological levels of T4 highly influenced by circulating TBG&nbsp;</div><div><br></div><div>{{c1::Transthyreitin}}:</div><div>Higher concentration but lower affinity&nbsp;</div><div>Found in patients with ATTR</div><div><br></div><div>{{c1::Albumin}}:</div><div>Low Affinity Binding<br></div><div>It's the one you're thinking of</div>",
+                        ""
+                    ],
+                    "guid": "wLGkf|`Z;e",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Give three drug and two systemic factors that increase thebinding of thyroids to the proteins",
+                        "<img src=\"paste-88f589626b17529944256fc225965adede3da880.jpg\">"
+                    ],
+                    "guid": "Hph@s(iM7e",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "T4 ELIMINATION&nbsp;<div>Occurs slowly with T1/2 circa {{c1::8}} days&nbsp;</div><div>T1/2 reduced to {{c1::3}} days in thyrotoxicosis&nbsp;</div><div>T1/2 increased to {{c1::9}} days in hypothyroidism&nbsp;</div><div><br></div><div>T3 ELIMINATION&nbsp;</div><div>Occurs quickly with T1/2 circa 1 day\nDue predominantly to {{c1::reduced protein binding}}</div><div><br></div><div>NON-DEIODINATIVE DEGRADATION&nbsp;</div><div>Occurs within the {{c1::liver&nbsp;}}</div><div>{{c1::Conjugates}} excreted in bile<br></div>",
+                        "<img src=\"paste-a594fa8b9e2446775d2e29f6aa56455e4e5a346e.jpg\">"
+                    ],
+                    "guid": "jp%x$p~ic_",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "NUCLEAR RECEPTOR<div>T3 Dimerises with {{c1::RXR}} and binds to {{c1::Thyroxine Response Element}}<br></div><div><br></div><div>THYROID RECEPTOR SUBTYPES<br></div><div>TRβ2 expressed in&nbsp;{{c1::HYPOTHALAMUS &amp; PITUITARY}}<br></div><div>TRβ1 expressed in&nbsp;{{c1::BRAIN, LIVER &amp; KIDNEY}}<br></div><div>TRα1 expressed in&nbsp;{{c1::CARDIAC AND SKELETAL MUSCLE}}<br></div><div><br></div><div>RESISTANCE TO THYROID RECEPTOR BETA AND ALPHA CAN OCCUR<br></div>",
+                        "<img src=\"paste-6005b30343c5d711d94084341a125c78856527f9.jpg\">"
+                    ],
+                    "guid": "C1l$S~-t%2",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Etiology of Thyrotoxicosis</b><div><br><div>Definitions</div><div>Graves’ Thyrotoxicosis&nbsp;&nbsp;{{c1::<span style=\"color: rgb(32, 33, 36);\">&nbsp;</span><span style=\"color: rgb(32, 33, 36);\">immune system disorder that results in the overproduction of thyroid hormones</span>}}</div><div>Toxic Adenoma&nbsp;{{c1::<span style=\"color: rgb(32, 33, 36);\">This occurs when a single nodule (or lump) grows on the thyroid gland causing it to become enlarged and produce excess thyroid hormones.</span>}}</div><div>Toxic Multinodular Goitre&nbsp;{{c1::<span style=\"color: rgb(32, 33, 36);\">one or more nodules (typically benign growths) in the thyroid gland that make thyroid hormone without responding to the signal to keep thyroid hormone balanced.</span>}}</div><div>Inflammatory thyroiditis&nbsp;{{c1::<span style=\"color: rgb(32, 33, 36);\">swelling (</span><b>inflammation</b><span style=\"color: rgb(32, 33, 36);\">) of the&nbsp;</span><b>thyroid</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;gland. It causes either unusually high or low levels of&nbsp;</span><b>thyroid</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;hormones in the blood</span>}}</div><div>Hashitoxicosis\nFactitious /\nOver-replaced LT4&nbsp;{{c1::<span style=\"color: rgb(32, 33, 36);\">&nbsp;</span><span style=\"color: rgb(32, 33, 36);\">transient hyperthyroidism caused by inflammation associated with Hashimoto's thyroiditis disturbing the thyroid follicles, resulting in excess release of thyroid hormone.</span>}}</div><div>Drug Induced&nbsp;</div><div>Post-partum Thyroiditis{{c1::post pregnancy}}<br></div><div><br></div><div>All of these are caused by too much free t4 and too little TSH</div><div>But there is one thyrotoxicosis that is caused by an increase in both?&nbsp;{{c1::TSHoma}}</div><div><br></div><div><br></div><div><br></div><div><br></div></div>",
+                        ""
+                    ],
+                    "guid": "pG^s-)8S~z",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HYPOTHYROIDISM ETIOLOGY&nbsp;<div><br></div><div>{{c1::<div>Autoimmune Thyroiditis&nbsp;</div><div>Post-RAI Rx&nbsp;</div><div>Post-Thyroidectomy&nbsp;</div><div>Inflammatory Thyroiditis&nbsp;</div><div>Haemmorrhage /\nInfiltration&nbsp;</div><div>Under-replacement\nIodine Deficiency&nbsp;</div><div>Pituitary hypothyroidism&nbsp;</div><div>Thyroid Hormone Resistance&nbsp;</div><div>Post-partum Thyroiditis</div>}}(4/9)<br></div><div><br></div>",
+                        ""
+                    ],
+                    "guid": "gTAM11X8^M",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>HYPOTHYROIDISM</b><div><b><br></b></div><div>CLINICAL FEATURES:<b><br></b></div><div>{{c1::Cold}} intolerance&nbsp;</div><div>{{c1::Brady}}cardia&nbsp;</div><div>Constipation&nbsp;</div><div>Weight {{c1::Gain}}&nbsp;</div><div>Poor Concentration&nbsp;</div><div>{{c1::Lethargy&nbsp;}}(less energy)</div><div>{{c1::Decreased}} Appetite&nbsp;</div><div>{{c1::Myxoedema}}(heart)&nbsp;</div><div>Peripheral Oedema, does it pit?&nbsp;{{c1::no}}</div><div>{{c1::Dry}} Skin / Hair<br></div><div><br></div><div>PRINCIPAL CAUSES&nbsp;</div><div>{{c1::Autoimmune Thyroiditis&nbsp;</div><div>Radioiodine Therapy / Surgery&nbsp;</div><div>Pituitary Hypothyroidism}}(3)<br></div><div><br></div><div>TREATMENT</div><div><font color=\"#aa0000\">&nbsp;THYROID HORMONE REPLACEMENT</font><br></div><div><font color=\"#aa0000\"><br></font></div><div>Oral T4&nbsp;</div><div>drug name:&nbsp;{{c1::LEVO-THYROXINE}}</div><div>{{c1::Long}} T1/2</div><div>{{c1::&nbsp;Once daily}} dosage<br></div><div><br></div><div>What can you not take with oral T4?{{c1::anything with calcium and anything that interferes with stomach acid}}</div><div><br></div><div>When would you give Oral T3?&nbsp;{{c1::when patient is in myxoedema coma}}</div><div><br></div><div>What do they give now to patients undergoing radioiodine therepay for thyroid cancer?&nbsp;{{c1::Recombinant TSH}}</div>",
+                        ""
+                    ],
+                    "guid": "Ao;+TQJd)Z",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "THYROTOXICOSIS\nCLINICAL FEATURES&nbsp;<div>{{c1::Heat}} intolerance&nbsp;</div><div>{{c1::Tachy}}cardia / Atrial Fibrillation&nbsp;</div><div>Diarrhoea&nbsp;</div><div>Weight {{c1::Loss}}&nbsp;</div><div>Tremor&nbsp;</div><div>Anxiety / Agitation&nbsp;</div><div>{{c1::Increased}} Appetite&nbsp;</div><div>Thyroid Storm, mortality?{{c1::75%}}<div>High-output {{c1::HF}}<br></div><div><br></div><div><br></div><div>&nbsp;TREATMENT\nBASED ON UNDERLYING CAUSE…\nOPTIONS: {{c1::</div><div>Thioureylenes&nbsp;</div><div>Radioiodine / 131I&nbsp;</div><div>Potassium Iodide / Lugol’s Iodine&nbsp;</div><div>Thyroidectomy&nbsp;</div>}}(4)</div><div><br></div><div>PRINCIPAL CAUSES&nbsp;</div><div>{{c1::<div>Graves’ Thyrotoxicosis&nbsp;</div><div>Toxic Adenoma&nbsp;</div><div>Toxic Multinodular Goitre&nbsp;</div><div>Thyroiditis&nbsp;</div><div>Amiodarone</div>}}(5)<br></div><div><br></div>",
+                        ""
+                    ],
+                    "guid": "jJD3olk!>2",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Grave's Disease or Autoimmune Thyrotoxicosis</b><div><br></div><div>Driven by&nbsp;{{c1::tyrotropin}} receptor antibodies (CTLA, HLA-DR3)</div><div><br></div><div>{{c1::Young}} age of onset - Incidence Women : Men is {{c1::9}}:1<br></div><div><br></div><div>Can go into remission but relapses in &gt; {{c1::50}}%<br></div><div><br></div><div><br></div><div>What happens to the eyes in Grave's Disease?</div><div>{{c1::opthalmopathy, bulging eyeballs. TRAb stimulate adipocytes and fibroblast in the orbit to store fat in the muscles so eyes bulge and opthalmoplegia can occur}}<br></div><div><br></div><div>What problems do these cause?{{c1::patient soemtimes lose their eyes and they can't close them at night. }}</div><div><br></div><div>How would you treat it?&nbsp;{{c1::hydrosteroids, orbital decompression, and hyaluronic acid to moisten eyes}}</div><div><br></div><div>What sort of Goitre do you get with Grave's&nbsp;{{c1::smooth}}</div><div><br></div><div>There are two ways to treat Grave's</div><div><br></div><div>Just Thioureylenes:{{c1::Start at high dose thioureylene and reduce over time to maintain euthyroid state\nRequires 18 months therapy}}</div><div><br></div><div>Combination with LT4:{{c1::Start at high dose thioureylene until euthyroid\nThen continue at high-dose, but add LT4 and titrate the LT4 to maintain euthyroid state\nRequires 12 months therapy}}<br></div>",
+                        "<img src=\"paste-7e39aa3b2025a53ce535128ca71ca96b5ee3ea1a.jpg\">"
+                    ],
+                    "guid": "h,V!ml~a|}",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "GUESS THE THIOURYLENE<div><br></div><div><br></div><div>{{c1::CARBIMAZOLE}}<br></div><div>Plasma half life 4-6 hours</div><div>Vd 40L</div><div>metabolism decreased in liver failure&nbsp;</div><div>No plasma protein binding</div><div>Admin once or twice daily</div><div>Low placental and breast milk levels</div><div>Not used during first trimester of pregnancy, why?{{c1::associated with poor skin development}}</div><div><br></div><div>{{c1::Propylthiouracil}}<br></div><div>Plasma protein binding 75%</div><div>Plasma half life 75 minutes&nbsp;</div><div>Vd 20L</div><div>Admin 1-4 times daily</div><div>low placental and breast milk levels</div><div>Advantagious affects in thyroid storm</div><div><br></div><div>WHich is more commonly used?{{c1::Carbimazole}}</div><div>Where are both concentrsted?{{c1::thyroid}}</div><div><br></div><div><br></div><div>Adverse Effects:</div><div>Agranulocytosis ({{c1::0.2}}%)&nbsp;</div><div>{{c1::In}}creased Liver Blood Tests&nbsp;</div><div>Rash&nbsp;</div><div>Hair {{c1::Loss&nbsp;}}</div><div>Skin {{c1::Pigmentation&nbsp;}}</div><div>Headache<br></div><div><br></div><div>Inhibition of {{c1::NIS (sodium iodine syporter}}&nbsp; &nbsp; &nbsp;&nbsp;</div><div>Inhibition of the enzyme&nbsp;{{c1::TPO}}</div><div>Immunoregulatory Effect reduces production of&nbsp;{{c1::TRAb}} - Additional benefit in Graves’ Disease<br></div><div><br></div><div>PTU inhibits D{{c1::1}} but not D{{c1::2}}</div><div><br></div><div>What should you treat the symptoms of thyrotoxicosis with while waiting for thioureylenes to take effect?</div><div>{{c1::beta-adrenoceptors antagonists}}<br></div><div><br></div><div><br></div><div><br></div><div><br></div>",
+                        ""
+                    ],
+                    "guid": "j|s|L@i<JM",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>TOXIC ADENOMA / TOXIC MULTINODULAR GOITRE:</b>{{c1::SINGLE OR MULTIPLE HYPER FUNCTIONING THYROID NODULES}}<div><br></div><div>They supersede normal {{c1::pituitary}} thyroid regulation</div><div><br></div><div>{{c1::Older}} age of onset<br></div><div>Often presents with {{c1::AFib}} and {{c1::stroke}} or {{c1::Osteoporosis}}<br></div><div><br></div><div>RESPONDS TO THIOUREYLENE THERAPY AT RELATIVELY LOW DOSE&nbsp;<br></div><div>So why don't they use it?</div><div>{{c1::relapse as soon as they come off it}}<br></div><div><br></div><div>So what do we do instead?</div><div>{{c1::SURGERY OR RADIOIODINE THERAPY}}<br></div>",
+                        ""
+                    ],
+                    "guid": "M(S4#V{~/3",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "RADIOIODINE THERAPY<div><br></div><div>When do you use it?{{c1::GRAVES’ RELAPSE OR IN TA / TMNG}}</div><div><br></div><div><font color=\"#aa0000\">131I - Emits β and γ radiation </font>Was possibly going to make this a cloze, but we're not chemists<br></div><div><br></div><div>Destroys {{c1::functioning}} thyroid tissue&nbsp;<br></div><div><br></div><div>Dosage</div><div>{{c1::300}}MBq&nbsp;Higher dose required with PTU<br></div><div>T1/2 ~ {{c1::8}} Days<br></div><div>Therapeutic Effect @ {{c1::8 - 12}} weeks<br></div><div>Need cover with {{c1::thioureylene +/- β blocker}}<br></div><div><br></div><div>PRECAUTIONS / CONTRAINDICATIONS<br></div><div>{{c1::Pregnancy}}</div><div>Thyroid eye disease, why?&nbsp;{{c1::Increased levels of TRAb}}</div><div><font color=\"#aa0000\">For mild case of thyroid eye disease you can pre treat with steroids to put it into remission for duration of treatment</font></div><div><br></div><div>Contact with children&nbsp;</div><div>&lt; 5yo: {{c1::No prolonged close contact for 3 weeks}}&nbsp;</div><div>&gt; 5yo: {{c1::No prolonged close contact for 10 days}}&nbsp;</div><div>&lt; 2yo: {{c1::No contact for 7 days}}<br></div><div><br></div><div>COMPLICATIONS&nbsp;</div><div>Radiation {{c1::thyroiditis}}</div><div>Worsening or emergence {{c1::opthalmopathy}}&nbsp;</div><div>Post-RAI hypothyroidism: does this happen more whilst treating TA/TMNG or Graves?{{c1::Graves}}, why?{{c1::In Graves all of thyroid is active, In TA/TMNG only affected nodules are actually actuve as they shut down the rest}}<br></div><div><br></div><div><br></div><div><br></div>",
+                        ""
+                    ],
+                    "guid": "KK*R1ObtwY",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Lugol's Iodine</b><div><br></div><div>When do you use it?{{c1::When patient is in umar na haimléise and needs a thyroidectomy, this will tide them over}}</div><div><br></div><div>How does it work?{{c1::Collects in colloid, doesn't become thyorid hormone so large collection of iodine so TSH receptor and sodium-iodide symporter stops, basically thyroid fxn stops}}</div><div><br></div><div>What is this effect called?{{c1::Wolff-chaikoff effect}}</div><div>Dosed @ {{c1::150}}mg / day as tincture<br></div><div>Produces a temporary effect for ~ {{c1::2}} weeks only<br></div><div><br></div><div>What happens if surgery doesn't happen before effect wears off?</div><div>{{c1::resistant hyperthyroidism, thyroid storm}}<br></div><div><font color=\"#aa0000\">This is called Jod Basedow effect</font></div><div>What can you do for patient in this situation?</div><div>{{c1::β-blocker to treat adrenergic symptoms but other than that, pray}}<br></div><div><br></div><div><br></div>",
+                        ""
+                    ],
+                    "guid": "nVYV@D=p]8",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>AMIODARONE</b>&nbsp;<div>Class III anti {{c1::arrhythmic}} used in treatment of {{c1::supra ventricular and ventricular\narrhythmias}}</div><div><br></div><div>37% iodine by weight so may cause&nbsp;{{c1::Jod Basedow effect}}<br></div><div><br></div><div>{{c1::In}}crease D3 and {{c1::de}}crease D1, so what forms of thyroid hormone are increased?&nbsp;{{c1::T4 and rT3}} and T{{c1::3}} is decreased.&nbsp;</div><div>This is good as sometimes too much T{{c1::3}} can cause the&nbsp;{{c1::arrythmias}}</div><div>But this might be confusing for doctors, why?{{c1::may prescribe thyroid hormone as levels are low}}</div><div><br></div><div>Accelerates onset of hypothyroidism in {{c1::autoimmune thyroiditis}}<br></div><div><br></div><div>AMIODARONE INDUCED THYROTOXICOSIS&nbsp;</div><div><br></div><div>Type 1</div><div>Severe treatment resistant thyrotoxicosis due to {{c1::Jod Basedow}} Effect&nbsp;</div><div>{{c1::Premorbid nodular}} gland&nbsp;</div><div><br></div><div>Type 2&nbsp;</div><div>Amiodarone-induced thyroiditis - Direct toxic effect of amiodarone on {{c1::follicular}} cells&nbsp;</div><div>Transient effect<br></div>",
+                        ""
+                    ],
+                    "guid": "m-+&Btlh[V",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "PREGNANCY\nHYPOTHYROIDISM&nbsp;<div><br></div><div>Higher binding globulins and higher D{{c1::3}} from placenta&nbsp;</div><div><br></div><div>Requirement for higher doses of LT4\nIncrease dose by ~ {{c1::30}}%&nbsp;</div><div><br></div><div>In women with Graves’ rendered hypothyroid by surgery or RAI\nNeed to check TRAb in 1st trimester and 30 weeks\nRisk of neonatal thyrotoxicosis (transient)..&nbsp;</div><div><br></div><div>{{c1::Radioiodine}} absolutely contraindicated&nbsp;</div><div><br></div><div>TRY TO AVOID PREGNANCY UNTIL EUTHYROID&nbsp;</div><div><br></div><div>Should not become pregnant for {{c1::6}} months after radio iodine&nbsp;</div><div><br></div><div>If resistant, severe thyrotoxicosis, aim for surgery in 2nd trimester&nbsp;</div><div>Can treat with lowest dose PTU which keeps FT4 in Upper Ref Range&nbsp;</div><div><br></div><div>{{c1::Thioureylenes}} cross placenta - can cause fetal goitre&nbsp;</div><div><br></div><div>Carbimazole may cause {{c1::aplasia cutis}}</div>",
+                        ""
+                    ],
+                    "guid": "hkA,s95k~W",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                }
+            ]
         }
     ],
     "crowdanki_uuid": "9698beb1-7dd0-11eb-935e-af478fea30f9",
@@ -3265,6 +4347,85 @@
                     "name": "Card 2",
                     "ord": 1,
                     "qfmt": "{{Back}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "136833ad-948a-11eb-b54e-ad9d49024ac7",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Add Reverse",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic (optional reversed card)",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "all",
+                    [
+                        1,
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{#Add Reverse}}{{Back}}{{/Add Reverse}}"
                 }
             ],
             "type": 0
