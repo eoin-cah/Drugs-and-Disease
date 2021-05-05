@@ -3925,6 +3925,781 @@
                     "tags": []
                 }
             ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "a06c53f6-aded-11eb-9c11-c0b5d703b09e",
+            "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "paste-3b5f158b2569c79b27806b461e3ef003d594ff15.jpg",
+                "paste-3e6c9a284fab6fd61d3bd1215948c94a42b28489.jpg",
+                "paste-41f68bab2081883e337bcfdd2d8b71a58816fad0.jpg",
+                "paste-463f1acca5bb9df1b664fa8b62c5e20d91f363cb.jpg",
+                "paste-4947a505cdb3bc72b16ab720b427c358d84716e5.jpg",
+                "paste-4debe0ca50ff3936b59b38a482af3b25934a7f93.jpg",
+                "paste-7acbe03151acae6d1de29e662025b18da25bc6c1.jpg",
+                "paste-81d836a9e6b50fed8d799ee0da4dc44243202fc6.jpg",
+                "paste-93524eaf72b55a0ab5d9b90d9c0e923d3d5423de.jpg",
+                "paste-ddaed92bf508097186fe142dac3319db774793b7.jpg",
+                "paste-eb1944483516658ae1f84d9f5aebc61131ce3f76.jpg",
+                "paste-ed9b58b93c7df8af6df6a4333a576d9e5ca27244.jpg",
+                "paste-f08017a090816ff4c3201ea836a571e54675a9a8.jpg"
+            ],
+            "name": "04/15 Dennedy Adrenal",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Where do the adrenal glands sit?{{c1::on top of the kidneys}}<div><img src=\"paste-ed9b58b93c7df8af6df6a4333a576d9e5ca27244.jpg\"><br></div><div>Point to the adrenal glands</div>",
+                        "small lines either side of the spine"
+                    ],
+                    "guid": "i47OpSOh]]",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Adrenal Glands</b><div><b><br></b></div><div>The adrenal gland is divided in to the cortex and the medulla&nbsp;</div><div>What is the main function of the cortex?{{c1::production of steroid hormones}}</div><div>What is the main function of the medulla?{{c1::catecholamines}}<br></div><div><br></div><div><br></div><div>Say where each part of the cortex lies (e.g. middle cortex) and what it produces:</div><div><br></div><div>Fasciculata:{{c1::middle cortex, glucocorticoids}}</div><div><br></div><div>Glomerulosa:{{c1::outer cortex, mineralocorticoids}}</div><div><br></div><div>Reticularis:{{c1::inner cortex, sex hormones}}</div><div><br></div><div>Out of all the products produced by the adrenals, what is the most abundant in the body?{{c1::sex hormones}}</div><div><br></div><div>Why, specifically talking about the adrenals, is it the least clinically significant?{{c1::the proportion of sex hormone made by the adrenals is a lot less than what is made by the gonads}}</div><div><br></div><div><br></div><div>The release of the products of the glomerulosa are regulated by the&nbsp;{{c1::RAAS}}</div><div><br></div><div>The release of the products of the Fasciculata are regulated by the&nbsp;{{c1::ACTH from pituatary}}</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div>",
+                        "<img src=\"paste-3b5f158b2569c79b27806b461e3ef003d594ff15.jpg\">"
+                    ],
+                    "guid": "NxGDN?:A</",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>STEROIDOGENESIS</b><div><b><br></b></div><div>What is the rate limiting step for steroidogenesis?{{c1::The movement of cholestrol from the outer mitochondrial membrane to the inner mitochondrial membrane}}</div><div><br></div><div>What is this step regulated by?{{c1::StAR}}</div><div><br></div><div><font color=\"#aa0000\">Enzymes used for steroidogenesis are zone specific</font>, what does this mean?{{c1::what ever part of the cortex the steroid is being produced, that is the only place the enzyme will be expressed}}</div>",
+                        "<img src=\"paste-81d836a9e6b50fed8d799ee0da4dc44243202fc6.jpg\"><div>Talk to Joe</div>"
+                    ],
+                    "guid": "xBp?sXTk~;",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>HYPOTHALAMIC PITUITARY ADRENAL AXIS</b><div><b><br></b></div><div>What hormone does the hypothalamus release in this system and what part of the hypothalamus releases it?</div><div>{{c1::CRH, supraoptic nuclei}}<br></div><div><br></div><div>What hormone is released by the pituatary gland in response to the hypothalamic hormone?&nbsp;{{c1::ACTH}}</div><div><br></div><div>What pattern does there release follow?{{c1::pulsatile e.g. higher amplitude/frequency=more hormone}}</div><div><br></div><div>What does the Adrenal gland release?{{c1::cortisol and DHEA}}</div><div><br></div><div><font color=\"#aa0000\">The products of the adrenal gland have a classical diurnal rhythm</font></div><div><b>diurnal rhythms</b><span style=\"color: rgb(32, 33, 36);\">:&nbsp;</span>{{c1::<span style=\"color: rgb(32, 33, 36);\">the circadian&nbsp;</span><b>rhythm</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;synced with day and night</span>}}<font color=\"#aa0000\"><br></font></div><div>So when is the adrenal cortex most active?{{c1::when you normally wake up}}</div><div><br></div><div>Describe the feedback mechanism for the HPA axis</div><div>{{c1::cortisol=negative feedback, amdrogens don't feed back}}<br></div><div><br></div><div>What is a good indicator of HPA axis activity?{{c1::DHEAS (a product of DHEA)}}</div><div>Why?{{c1::longer half life than the rest of the stuff}}</div><div><br></div><div>ACTH deficiency will cause\n{{c1::glucocorticoid}} deficiency and low\n{{c1::androgens}} (in females)<br></div><div><br></div><div>ACTH deficiency has no bearing on\n{{c1::mineralocorticoids}}<br></div><div><br></div><div><br></div><div><font color=\"#aa0000\"><br></font></div>",
+                        "<img src=\"paste-ddaed92bf508097186fe142dac3319db774793b7.jpg\">"
+                    ],
+                    "guid": "b_pTRs`#e6",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>CONTROL OF MINERALOCORTICOIDS:</b><div><b><br></b></div><div><font color=\"#aa0000\">Mineralocorticoid levels are influenced but not controlled by ACTH levels</font>, why?&nbsp;{{c1::ACTH controls StAR protein which is involved in letting cholestrol crossing the mitochondrial membrane}}</div><div><br></div><div><font color=\"#aa0000\">Mineralocorticoid levels are controlled by the RAAS</font></div><div>You should know what this is by now so give us a basic rundown</div><div>{{c1::<img src=\"paste-f08017a090816ff4c3201ea836a571e54675a9a8.jpg\">}}</div><div><br></div><div>What other things can inhibit the release of renin that stops this whole system?{{c1::Calcium, potassium, sodium and catecholamins}}</div>",
+                        ""
+                    ],
+                    "guid": "qrKsyMV_=9",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>ACTH</b><div><b><br></b></div><div>ACTH is one of 4 products of {{c1::pro-opiomelanocortin (POMC)}} which is synthesized in the hypothalamus<b><br></b></div><div><br></div><div>What are the other 3 products?&nbsp;{{c1::gamma-MSH, gamma-LPH, beta-endorphin}}</div><div><br></div><div>ACTH binds to&nbsp;{{c1::MC2}}R &amp; {{c1::MC1}}R&nbsp;</div><div><br></div><div>These are {{c1::Gs}} coupled GPCR and cause {{c1::cAMP-PKA}} phosphorylation</div><div><br></div><div>Which receptor is bound with more affinity?&nbsp;{{c1::MC2R}}</div><div><br></div><div>Two phased response&nbsp;</div><div>Phase 1: StAR activation, which&nbsp;{{c1::moves the cholestrol through the mitochondrial membrane }}</div><div>Phase 2: Transcription of CYP11B1 which&nbsp;{{c1::is enzyme that makes cortisol}}<br></div>",
+                        ""
+                    ],
+                    "guid": "z_a|t{c/b1",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Glucocorticoids</b><div><b><br></b></div><div>{{c1::Diurnal}} rhythm and stressors effect glucorticoid release at the&nbsp;{{c1::hypothalamic level}}</div><div><br></div><div>Stressors include&nbsp;{{c1::(hypoglycaemia,\nhypotension,\nfever, trauma,\nsurgery}}3/5</div><div><br></div><div>What can effect glucocorticoid release at the pituatary level?</div><div>{{c1::ADH, Cytokines}}<br></div><div><br></div><div>Cortisol release triggered an increase in 4 metabolic functions, what are they?{{c1::Gluconeogenesis\nGlycogenolysis\nProteolysis\nLipolysis}}</div><div><br></div><div>Cortisol effects the CVS, in what ways?&nbsp;{{c1::increase in Myocardial contractility ,Cardiac output, Catecholamine pressor\neffect}}</div><div><br></div><div>Glucocorticoids such as cortisol also have a significant&nbsp;{{c1::immunosupressive }} effect</div><div><br></div><div><br></div><div><b>GLUCOCORTICOID MOA</b></div><div><b><br></b></div><div>Glucocorticoids are steroid hormones, so how do they get into the cell?&nbsp;{{c1::Bound to corticoid-binding globulin}}</div><div><b><br></b></div><div><font color=\"#aa0000\">Once inside the cell the steroid binds to the glucocorticoid response element and relocates to the nucleus where it can effect transcription</font></div><div><font color=\"#aa0000\"><br></font></div><div>Why doesn't the glucocorticoid response element enter the nucleus when unbound to a steroid?{{c1::the element is bound to heat shock proteins 70 and 90}}</div><div><br></div><div><br></div>",
+                        "<img src=\"paste-7acbe03151acae6d1de29e662025b18da25bc6c1.jpg\">"
+                    ],
+                    "guid": "K3~=gUQL)l",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Cortisol has the same affinity for the mineralocorticoid receptor as&nbsp;{{c1::aldosterone}}<div><br></div><div>However cortisol inctivated by constitutive expression of {{c1::11βHSD Type 2}} which is expressed at the mineralocorticoid receptor, it turns cortisol into its inactive form, {{c1::cortisone}}</div><div><br></div><div>This system can be overloaded by:</div><div>{{c1::cushings}} syndrome</div><div>high doses of {{c1::hydrocortisone}}</div><div>Syndrome of Apparent Mineralocorticoid Excess<br></div><div>Drugs:{{c1::Carbenoxalone, Glycerrhinic Acid}} (2)</div>",
+                        "<img src=\"paste-93524eaf72b55a0ab5d9b90d9c0e923d3d5423de.jpg\">"
+                    ],
+                    "guid": "H}Nsv.YlYk",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What three glucocorticoids have no effect on the mineralocorticoid receptor?{{c1::<img src=\"paste-463f1acca5bb9df1b664fa8b62c5e20d91f363cb.jpg\">}}",
+                        ""
+                    ],
+                    "guid": "t%vBT/wt$U",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What changes would you make to the glucocorticoid backbone to increase glucocorticoid r activity, but completely diminish mineralocorticoid r activity?{{c1::g}}",
+                        "<img src=\"paste-3e6c9a284fab6fd61d3bd1215948c94a42b28489.jpg\">"
+                    ],
+                    "guid": "C;9>|lzH>7",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>PHARMACOLOGIC USE OF GLUCOCORTICOIDS</b><div><br></div><div><font color=\"#aa0000\">At high-dose (supraphysiologic) they are anti-inflammatory / immunosuppressive</font><b><br></b></div><div><br></div><div>Used in {{c1::inflammatory}} conditions both systemically and topically<br></div><div><br></div><div>Immunosuppressive post-{{c1::transplantation - avoid rejection}}<br></div><div><br></div><div>Long-term use - Causes Iatrogenic Cushing’s Syndrome&nbsp;</div><div>Symptoms</div><div>{{c1::Thin Skin / Bruising\nHypertension\nOsteoporosis\nProximal Myopathies\nDrug-Indices Diabetes Mellitus / Insulin Resistance\nOpportunistic Infections}}4/6<br></div><div><br></div><div>What happens when you take a patient who had been taking glucocorticoids long-term off them?</div><div>{{c1::Secondary Adrenal Insufficiency}}<br></div>",
+                        ""
+                    ],
+                    "guid": "c.]&M|01Je",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>GLUCOCORTICOID DEFICIENCY</b><div><b><br></b></div><div><b>1. </b>ACTH deficiency- due to {{c1::anterior pituitary}} or {{c1::hypothalamic}} dysfunction</div><div><br></div><div><b>2.</b>Atrophy due to chronic exogenous {{c1::glucocorticoid}} excess</div><div><br></div><div>What part of the adrenal cortex do these 2 conditions affect?</div><div>{{c1::Destruction of the zonae fasciculata and reticularis only}}<br></div><div><br></div><div>So what will need to be replaced?{{c1::only glucocorticoid}}</div><div><br></div><div>{{c1::Addison’s Disease}} is Complete autoimmune destruction of the adrenal cortex<br></div><div><br></div><div>So what will need to be replaced?{{c1::both glucocorticoid and mineralocorticoid}}</div>",
+                        ""
+                    ],
+                    "guid": "BlO97a+qXi",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Replacement GLucocorticoid</b><div><b><br></b></div><div>Attempt to mimic physiologic {{c1::diurnal}} rhythm.(very difficult to do this)<b><br></b></div><div>Use {{c1::hydrocortisone}}, why? - {{c1::identical properties to cortisol}}<br></div><div><br></div><div>Must give at higher dose or parenterally during times of {{c1::illness}} or {{c1::high stress}}<br></div><div><br></div><div>Very important to give parenterally if patient has&nbsp;{{c1::vomiting}}</div>",
+                        "<img src=\"paste-4debe0ca50ff3936b59b38a482af3b25934a7f93.jpg\">"
+                    ],
+                    "guid": "v`f}>z.mlx",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>CUSHING’S DISEASE / SYNDROME</b><div>Cushing’s Disease: {{c1::Caused by Pituitary ACTH excess&nbsp;}}</div><div>Ectopic ACTH: {{c1::Most commonly from SCC Lung&nbsp;}}</div><div>Cushing’s Syndrome: {{c1::Autonomous Adrenal Tumours / Nodules&nbsp;}}</div><div>Adrenal CRF Secretion: {{c1::Bilateral Pigmented Nodular Hyperplasia (ARMC5)}}<b><br></b></div><div>Exogenous Glucocorticoid Excess<b><br></b></div><div><b><br></b></div><div><b>What is the treatment of choice?</b></div><div>{{c1::surgery}}<b><br></b></div><div><br></div><div>Cushing’s Disease: {{c1::Hypophysectomy or Bilateral Adrenalectomy&nbsp;}}</div><div>Ectopic ACTH: {{c1::Removal of Primary Tumour or Bilateral Adrenalectomy&nbsp;}}</div><div>Cushing’s Syndrome: {{c1::Adrenalectomy}}<br></div><div><br></div><div>How would you treat a patient who cannot undergo surgery?</div><div>{{c1::STEROIDOGENESIS INHIBITORS OR ADRENOLYTIC AGENTS}}<br></div>",
+                        ""
+                    ],
+                    "guid": "O56vHfY4}@",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><br></div><div><br></div><div><br></div><div><br></div><div>{{c1::KETOCONAZOLE}}<br></div><div>Less used therapeutically&nbsp;</div><div>Inhibits CYP17 and at higher doses CYP11A1&nbsp;</div><div>Powerful inhibitor of steroidogenesis&nbsp;</div><div>Also anti-fungal agent but given at higher doses to inhibit steroidogenesis<br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>{{c1::METYRAPONE}}<br></div><div>Principally used agent therapeutically&nbsp;<br></div><div>Inhibits CYP11B1 - ACTH sensitive enzyme&nbsp;</div><div>Glucocorticoid inhibition of ACTH removed with build-up of precursors&nbsp;</div><div>Includes 11_DOC (Strong MR activity) and aldosterone…&nbsp;</div><div>Can also increase production of adrenal androgens..</div><div>&nbsp;Hence usually used for primary adrenal lesions or exceptionally in ectopic\nACTH</div>",
+                        ""
+                    ],
+                    "guid": "iO#D>^[P^A",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Mineralocorticoid Excess</b><div>SEVERAL FORMS\n{{c1::Primary Aldosteronism / Conn’s Syndrome\nGlucocorticoid Excess\nDrug Induced / Liquorice\nSyndrome of Apparent Mineralocorticoid Excess\nGlucocorticoid Remediable Hyperaldosteronism\nPseudoaldosteronism / Liddle’s Syndrome}}3/6<b><br></b></div><div><br></div><div>What symptoms are all categorized by?&nbsp;{{c1::hypertension and spontaneous or drug induced hypokalaemia}}</div><div><br></div>",
+                        ""
+                    ],
+                    "guid": "L__~P@6:~-",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>The Somatic Mutation theory</b><div><b><br></b></div><div>Essentially cancer is a result of many {{c1::mutations }} over time working together to change the&nbsp;{{c1::function}} of the cell, in many cancer patient there is also mutations within the&nbsp;{{c1::DNA repair mechanisms}} of the cell.</div><div><br></div><div><div>Cancer causes the\n{{c1::proliferation}} of cells where and when they should not</div>\n<div>Cancers\nare “clonal”, meaning: {{c1::arising from a single aberrant cell}}</div>\n<div><font color=\"#aa0000\">This\ndoes not mean that tumours are a homogeneous population of cells</font></div>\n<div>The\ngenomes of cancer cells are {{c1::unstable}}</div>\n<div>As\ntumour cells proliferate, they acquire more {{c1::mutations}}</div>\nTumour “{{c1::evolves}}” as its environment\nimposes selective pressures<br></div><div><br></div><div>Why is cancer among the older population at a higher rate thna the younger population?&nbsp;{{c1::Because the mutations aise from divisions, the more divisions you undergo the bigger chance of cancer}}</div>",
+                        ""
+                    ],
+                    "guid": "BzRdkpzzFB",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Cancer is a&nbsp;{{c1::multi-stage}} process<div><br></div><div>It can take many&nbsp;{{c1::years}} and multiple&nbsp;{{c1::mutations}} for malignancy to tkae place</div>",
+                        "<img src=\"paste-eb1944483516658ae1f84d9f5aebc61131ce3f76.jpg\">"
+                    ],
+                    "guid": "Luy+C2,io8",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><div>Current\nmodels suggest that genome instability must result in {{c1::mutations that subvert particular cellular processes in order for a cancer to develop}}</div></div><div><br></div><div><br></div>Progression\nfrom normality to {{c1::malignancy}} requires the <font color=\"#aa0000\">acquisition</font> of various different <font color=\"#aa0000\">capabilities</font> or\n<font color=\"#aa0000\">characteristics</font> that <font color=\"#aa0000\">cooperate</font> to cause cancer.&nbsp;<div><br></div><div>While no one change is\nsufficient to cause cancer, these changes are necessary for malignant\n{{c1::transformation}} and also for maintenance of the {{c1::malignant state}}.&nbsp;</div><div><br></div><div>So what capabilities/characteristics that cancer requires are targeted by anti-cancer drugs?{{c1::ideally all of them}}</div>",
+                        "<img src=\"paste-41f68bab2081883e337bcfdd2d8b71a58816fad0.jpg\">"
+                    ],
+                    "guid": "NH+2]]Vs6L",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<img src=\"paste-4947a505cdb3bc72b16ab720b427c358d84716e5.jpg\"><div>Blue=nurture</div><div>Green=Nature</div>",
+                        ""
+                    ],
+                    "guid": "jQuY,=KQ^W",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What are the three goals of cancer chemotherapy?<div><br></div><div>1.&nbsp;{{c1::cure}}:{{c1::kill cancer cells, enter complete remission}}</div><div><br></div><div>2. {{c1::Control}}:{{c1::Prolong remissionDecrease rate\nof relapse}}</div><div><br></div><div>3.{{c1::Palliate}}:{{c1::Relieve symptomsImprove quality of life}}</div><div><br></div>",
+                        ""
+                    ],
+                    "guid": "LxnhV|l]x9",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "a06d6c21-aded-11eb-a5f2-c0b5d703b09e",
+            "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "paste-030213664e93ca85c90f0ed2d8026d92d19d9b8a.jpg",
+                "paste-064b50d61be5f1495d847aca29537c77273b4291.jpg",
+                "paste-0feaef695d7912003fe26823765ca1a941a6d65e.jpg",
+                "paste-10734b273154eb4e97a8ee9430cfc0f9594d3683.jpg",
+                "paste-169c070abf4feb79b3b542a986bea030fa62ef20.jpg",
+                "paste-2a44e1a30365281bcadd175abf47f2f778c62081.jpg",
+                "paste-30e42cf60f37ca63573d254d1481a5dd10f7f155.jpg",
+                "paste-3274d80e8aca22c9f25308fbf7d2045c534000d0.jpg",
+                "paste-341a32e835a8a97d53f7b414b9763f2ff72daad4.jpg",
+                "paste-34e5ff10f3f03c0a8f35eec17db8a0187c38ca6a.jpg",
+                "paste-36fde18e28477e182975518705f3e65fd3594f0d.jpg",
+                "paste-372f47f53491c4d96ebdebb5b7fb5d83397c5247.jpg",
+                "paste-3cc3b5eefa27151400d5d7f53861fb00ff0a0f99.jpg",
+                "paste-4143c0738aa48da26c90da853a4b15eb909a80d4.jpg",
+                "paste-417c2f701d53d3c024499d79bbc80907ce526abd.jpg",
+                "paste-42f9894f449b3fbfdce25ab1ac31886b291c3db4.jpg",
+                "paste-43b2eff959ecf31338fba1b0f59644c1809484db.jpg",
+                "paste-44071cd56c495a4450d2e02ef1692dbc98979c6a.jpg",
+                "paste-44e97009dd6d5df389555c135bfa0804c3f0743c.jpg",
+                "paste-45fb862cea3f3321acaa8d54db740d78afd8b8c8.jpg",
+                "paste-46d7b6eabe396216aab2d8a64182e9f2fcfda762.jpg",
+                "paste-514eda490250291d9b0416b37c1deb060e5e211c.jpg",
+                "paste-54092d59d7f77ab4065a69789847351b5f139257.jpg",
+                "paste-566cf6c0b0605f6416ec46019c81132675b7f7fb.jpg",
+                "paste-66ff69edf891ded010870a1bec45efdfe1b68352.jpg",
+                "paste-6c6d0051ad2844d9cc27ae13e81de3f4991c9997.jpg",
+                "paste-70efff2decc62e26c540c3ada5f597d22b5ddccf.jpg",
+                "paste-758998a2099dfa471c476d3a0c23c722df9b1395.jpg",
+                "paste-8cdd4d995da2419b0e984c4526cf52a03afab6ed.jpg",
+                "paste-96ec4dff56499d172d43a4e2c4e72d204472c9df.jpg",
+                "paste-a5bcfd992e5143b2b8db58cd6db7e568871f2259.jpg",
+                "paste-a60d159962ee2a4b9f55caa2f170db434e150412.jpg",
+                "paste-a87f7b70d927deb77be1f282d92de839a5ecd641.jpg",
+                "paste-bbd7a6353ea4874c110ed0076dc010cd3173d42d.jpg",
+                "paste-c588b2cc0e12cc63432631be48c3cdf650c5f318.jpg",
+                "paste-c99ef6d49733965a70f2c775665867d6418c31ef.jpg",
+                "paste-d161b8b99793a744ef727763b53e9763b8d28758.jpg",
+                "paste-d442b9b15b34e0e10a7db6e5e22524ff0632b62c.jpg",
+                "paste-da0fa0cdbaa8e9a2ce41175ac20c896dc70fbcf2.jpg",
+                "paste-de727d573c1e74d0ecfad3e3dfc08bd2f15e661f.jpg",
+                "paste-e4643b4845a14969c03918d708152133fc8f86fc.jpg",
+                "paste-e6307fbfc7de9c47210570b90903bcb50bd4e2aa.jpg",
+                "paste-e7c1cfd6b4121e5866e2fe423389ffdbfac5d32f.jpg",
+                "paste-eb98d33f190de9f29c8e906b71fb561906ddb1f9.jpg",
+                "paste-f142627652f1adc5e2e5dcf7e1fead9e391558a1.jpg",
+                "paste-f4699a631948a53912abfb3fe5b5f7bbe1b758a1.jpg",
+                "paste-fb09d81c7da2c82c99355d46e616bed7be54c0e9.jpg",
+                "paste-ff02b30f5bfc2e4a15f1c32f384d5a2c20934cc4.jpg"
+            ],
+            "name": "04/16-27 Fearnhead Cancer",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What are the two most common cnacers?{{c1::Prostate and Breast}}<div><br></div><div>What cancers causes the most deaths?&nbsp;{{c1::lung and bronchus}}</div>",
+                        "<img src=\"paste-e6307fbfc7de9c47210570b90903bcb50bd4e2aa.jpg\">"
+                    ],
+                    "guid": "p=fwW&`#iD",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Etiology of Cancer:</b><div><b><br></b></div><div>Somatic mutation theory:{{c1::accumulation of particular mutations acting in concert allows disregulation of cell behaviour, malignancy. These mutations are acquired over time as cells divide.}}</div><div><br></div><div>A mutation that contributes to cancers by causing accumulatio of more genetic damage would be a mutation of what?{{c1::DNA damage repair mechanisms}}</div><div><br></div><div>Cancer, in essence, is the&nbsp;{{c1::proliferation}} of cells where and when they should not</div><div><br></div><div>Cancers are clonal, what does this mean?&nbsp;{{c1::they arise from a single abherrent cell}}</div><div><br></div><div>Would this mean all cancer cells in a cancer are the same (homogenous)?</div><div>{{c1::no}}<br></div><div><br></div><div>Why?{{c1::the genomes of the cancer cell sare unstable and as the cancer progresses, it acquires more mutations}}</div><div><br></div><div><br></div><div>Most cancers take years to develop and they have stages</div>",
+                        "<img src=\"paste-d161b8b99793a744ef727763b53e9763b8d28758.jpg\">"
+                    ],
+                    "guid": "g=-&IclI7M",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "T/F<div><br></div><div>In order for a normal cell to become malignant, only one change is needed{{c1::false, many characteristics and adaptations are needed, and they all need to work in tandem}}</div><div><br></div><div>What were the original 6 characteristics that a cnacer cell needed (Hanahan and Weinberg)?{{c1::<img src=\"paste-fb09d81c7da2c82c99355d46e616bed7be54c0e9.jpg\">}}</div><div><br></div><div>So then relating to new anti-cancer therapies, what should we target?{{c1::any of these characteristics}}</div><div><br></div><div><br></div>",
+                        ""
+                    ],
+                    "guid": "PyoTO3MP9[",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What are the three goals of cancer therapy?<div><br></div><div>{{c1::cure}}:{{c1::kill cancer cells, complete remission}}<br></div><div>{{c1::control}}:&nbsp;{{c1::prolong remission, decrease rate of relapse}}<br></div><div>{{c1::palliate}}:{{c1::relieve symptoms and improve quality of life}}<br></div><div><br></div><div>What are the three criteria by which anti-cancer drugs select a malignant cell?{{c1::Cell behaviour (e.g. cell proliferation)</div>• Molecular markers that identify tumours<br>• Molecular changes that confer tumour<br><div>behaviour}}</div><div><br></div><div><br></div><div><br></div>",
+                        ""
+                    ],
+                    "guid": "Ir=<,&v0h.",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Cytotoxic drugs</b><div><b><br></b></div><div>-They typically react with cellular {{c1::macromolecules}} and damage them&nbsp;<b><br></b></div><div><br></div><div>-Act on normal and cancerous cells that are {{c1::proliferating}} (limited selectivity)</div><div><br></div><div>-Were identified because they kill cells</div><div><br></div><div>What non-cancer cells are at risk of being killed by cytotoxic drugs?</div><div>{{c1::rapidly proliferating cells, such as GIT, stem cells or bone marrow cells}}<br></div><div><br></div><div><b>Targeted Drugs</b></div><div>They have a pharmacological mode of action i.e.{{c1::have an affinity for a target (enzyme,receptor,microtubule)}}</div><div><br></div><div>Act on specific {{c1::molecular}} targets that are associated with cancer<br></div><div><br></div><div><font color=\"#aa0000\">Are deliberately chosen or designed to interact with their target</font><br></div>",
+                        ""
+                    ],
+                    "guid": "zRy&MYKa$S",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<img src=\"paste-f142627652f1adc5e2e5dcf7e1fead9e391558a1.jpg\"><div>Talk to Joe{{c1::h}}</div>",
+                        ""
+                    ],
+                    "guid": "Fr%Ex>X&hl",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>CYTOTOXIC CHEMOTHERAPY</b><div><b><br></b></div><div>Selectivity through targeting {{c1::rapidly proliferating cells}}<b><br></b></div><div><br></div><div><font color=\"#aa0000\">Some therapies target specific phases, some do not</font><br></div><div><font color=\"#aa0000\"><br></font></div><div>Name 3 S-phase specific cytotoxic drugs<br>{{c1::Doxorubicin<br>Etoposide<br>5-FloraUracil}}<font color=\"#aa0000\"><br></font></div><div><br></div><div>Name 3 M-phase (mitosis) specific cytotoxic drugs</div><div>{{c1::Vincristine<br>Vinblastine<br>Taxol}}<br></div><div><br></div><div>What is their mechanism of action?{{c1::they poison microtubules}}</div><div><br></div><div>Name 2 Cytotoxic drugs that act in all phases</div><div>{{c1::Cisplatin</div><div>Cyclophosphamide}}<br></div><div>Why do they act in all phases?</div><div>{{c1::they damage the cell by reacting with the DNA}}<br></div><div><br></div><div>Give an example of an ANTI-METABOLITE cytotoxic drug{{c1::5-Fluorouracil}}</div><div><br></div><div>Give 3 examples of cytotoxic drugs that are naturally occurring products{{c1::Vincristine</div>– Etoposide<br><div>– Doxorubicin}}</div>",
+                        ""
+                    ],
+                    "guid": "FpYF(0JSh,",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>ALKYLATING AGENTS</b><div><br></div><div><font color=\"#aa0000\">Alkylating Agents are a sub-group of Cytotoxic Drugs</font></div><div><font color=\"#aa0000\"><br></font></div><div><font color=\"#aa0000\"><b>TYPE/ DRUG NAME/ DISEASE</b></font></div><div><br></div><div>e.g. Nitrogen Mustards/ Cyclophosphamide/ Many Malignancies</div><div><br></div><div>{{c1::Ethyleneimines and methylmelamines}} /{{c1::Altretamine}}/ Ovarian cancer</div><div><br></div><div>Methylhydrazines/ {{c1::Procarbazine}}/&nbsp;{{c1::Hodgkin’s disease}}<br></div><div><br></div><div>{{c1::Nitrosoureas}}/ Carmustine/ {{c1::Hodgkin’s disease, non Hodgkin’s lymphoma, brain, melanoma}}<br><br></div><div>{{c1::Triazenes}}/ {{c1::Dacarbazine}}/ Malignant melanoma<br><br></div><div>Platinum compounds/ {{c1::Cisplatin}}/ {{c1::Many malignancies}}<br></div>",
+                        ""
+                    ],
+                    "guid": "PGqQVT3RYj",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>NITROGEN MUSTARDS</b><div><b><br></b></div><div><b><font color=\"#aa0000\">NITROGEN MUSTARDS ARE A SUB-TYPE of ALKYLATING AGENTS</font></b></div><div><br></div><div>What are nitrogen mustards MOA?</div><div>{{c1::they alkylate(react) with various substances in the cell, but specifically the N7 position on Guanine}}<br></div><div><br></div><div>DRUG NAME/ DISEASE IT CURES</div><div><br></div><div>e.g. Cyclophosphamide/ Broad application</div><div><br></div><div>Mechlorethamine/ {{c1::Hodgkin’s disease; non Hodgkin’s lymphoma}}<br><br></div><div><br></div><div>{{c1::Chlorambucil}}/ Chronic lymphocytic lymphoma<br><br>{{c1::Melphalan}}/ Multiple myeloma, ovarian and breast<br></div><div><br></div><div><br></div>",
+                        ""
+                    ],
+                    "guid": "l[dUI<:T*@",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>CYCLOPHOSPHAMIDE</b><div><b><br></b></div><div><img src=\"paste-c588b2cc0e12cc63432631be48c3cdf650c5f318.jpg\"><br></div><div>This is cyclophosphamide, what a good little boy he is, but what part is important for it to react with and kill cancer cells (or any cell for that matter, he's cytotoxic, he doesn't care who he murders)?</div><div>{{c1::those chlorine leaving groups on the end}}<br></div><div><br></div><div>What part of him lets you know he's a nitrogen mustard?</div><div>{{c1::that little nitrogen in the middle there}}<br></div><div><br></div><div>Cyclophosphamide&nbsp;Alkylates proteins, give 4 parts of a protein it can alkylate,{{c1::</div><div>Amino groups</div>– Carboxyl groups<br>– Sulphydryl<br>– Imidazole groups}}<div><br></div><div>What is the most pharmacologically relevant thing it reacts with?</div><div>{{c1::Alkylation of N7 of</div><div>guanine}}<br></div><div><br></div><div>Would cyclophosphamide be more or less reactive if it was monofunctional (one chlorine leaving group){{c1::much fucking less&nbsp;<img src=\"paste-0feaef695d7912003fe26823765ca1a941a6d65e.jpg\">}}</div><div><br></div><div>Why?{{c1::Bifunctional mustards</div>crosslink molecules<br>• DNA crosslinks<br><br>• Intra-strand and inter-<br><div>strand crosslinks}}</div>",
+                        "BIS-2-chloroethylamino group is<br>essential for drug activity<br>Chloro atom provides maximum<br><br>activity"
+                    ],
+                    "guid": "H::?>qY~{$",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<img src=\"paste-6c6d0051ad2844d9cc27ae13e81de3f4991c9997.jpg\"><div>Which is the most reactive?</div><div>{{c1::mechlorethamine}}<br></div><div><br></div><div>Why?{{c1::the more complex the r-group is the less reactive, mechlorethamine has the simplest r-group}}</div><div><br></div><div>What is the least reactive?{{c1::cyclophosphamide}}</div><div>Why?{{c1::most complex r-group, in fact tis actually a pro-drug}}</div><div><br></div><div>So presumably what we want is the most reactive?</div><div>{{c1::braitheann sé, mustards are cytotoxic drugs, if its really reactive, it is going to destroy all cells in its path, cnacer or non cancer}}<br></div><div><br></div><div>Drug/ Route of Administration/ Plasma T1/2</div><div><br></div><div>e.g.Chlorambucil/ Oral/ 90 m</div><div><br></div><div>Mechlorethamine/ {{c1::Iv (not im or sc)}}/ {{c1::1 m}}<br>Melphalan/ {{c1::Oral}}/ {{c1::90 m}}<br>Cyclophosphamide/ {{c1::Oral or iv}}/ {{c1::7 h}}<br></div><div><br></div><div>What is the acute side effect they all cause?{{c1::nausea and vomiting}}</div><div><br></div><div>Meclorethamine also causes :</div><div>Vesicant, which is&nbsp;{{c1::blistering}}, why?{{c1::it is so reactive it literally burns through the body}}</div><div>Phlebitis, which is&nbsp;{{c1::inflammation of a vein}}, why?{{c1::again really damages anything it goes through}}</div><div>Local reaction</div><div><br></div><div>What is the chronic side effect they all cause&nbsp;{{c1::bone marrow depreciation, sort of alopecia}}</div><div>Why?{{c1::they're all cytotoxic, so they're going to effect rapidly proliferating cells}}</div><div><br></div><div>What has the most chronic side effects?&nbsp;{{c1::cyclophosphamide}}</div><div>We'll get to what they are, dw Joe</div><div><br></div><div><br></div>",
+                        "<img src=\"paste-4143c0738aa48da26c90da853a4b15eb909a80d4.jpg\">"
+                    ],
+                    "guid": "j+C{tsoP)z",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Cyclophosphamide metabolism</b><div><b><br></b></div><div><img src=\"paste-2a44e1a30365281bcadd175abf47f2f778c62081.jpg\"><b><br></b></div><div>This step happens in the liver, what enzyme makes it happen?{{c1::Hepatic cyt P450}}</div><div><br></div><div>4-hydroxy-cyclophosphamide is then non-enzymatically converted into one of two products, one is aldophosphamide whichis furthering the metabolic process, what is the other product?{{c1::4-keto-cyclophosphamide}}</div><div><br></div><div>What is the significance of this?&nbsp;{{c1::just a non-toxic metabolite}}</div><div><br></div><div>Aldophosphamide is converted non-enzymatically into <font color=\"#aa0000\">phosphoramide</font> which is the <font color=\"#aa0000\">first toxic metabolite of cyclophosphamide.</font></div><div><br></div><div>Aldophosphamide can also undergo an enzyme mediated reaction</div><div>What is the enzyme?{{c1::Aldehyde dehydrogenase}}</div><div>What is the product? {{c1::Carboxyphosphamide}}</div><div>What is the significance of this?{{c1::a detoxification mechanism, its great in liver cells, as it means liver is protected, but we DO NOT want this to happen in a cancer cell}}</div><div><br></div><div>What does phosphoramide break down into? {{c1::Nornitrogen mustarad and acrolein}}(2)</div><div><br></div><div>Which is the functional metabolite in a cancer cell?</div><div>{{c1::nornitrogen mustard, alkylates DNA and kills cell}}<br></div><div><br></div><div>What does the other metabolite do?</div><div>{{c1::Its just really reactive, we try to excrete it as quick as possible from the bladder, causes most of side effects}}</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div>",
+                        "<img src=\"paste-45fb862cea3f3321acaa8d54db740d78afd8b8c8.jpg\">"
+                    ],
+                    "guid": "sA.d}/`[7h",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>MORE CYCLOPHOSPHAMIDE</b><div><b><br></b></div><div>Normal tissues such as liver may be protected from<br>cyclophosphamide by high levels of {{c1::– Aldehyde dehydrogenase}} and {{c1::– Glutathione and Glutathione transferases}}<b><br></b></div><div><br></div><div>What does each detoxify?</div><div>{{c1::Aldehyde dehydrogenase detoxifies Aldo- phosphamide}}</div><div>{{c1::Glutathione and Glutathione transferases detoxify Nornitrogen</div><div>mustard}}</div><div><br></div><div>So how might a cancer cell evolve to become immune to cyclophosphamide?{{c1::develop high levels of Aldehyde dehydrogenase and&nbsp;&nbsp;Glutathione and Glutathione transferases}}</div><div><br></div><div><b>Controlling the side effects of cyclophosphamide</b></div><div><b><br></b></div><div><i>Control ACROLEIN and you control the side effects</i>.</div><div><br></div><div>Haemorrhagic Cystitis:<span style=\"color: rgb(32, 33, 36);\">&nbsp;</span>{{c1::<span style=\"color: rgb(32, 33, 36);\">inflammation of the bladder defined by lower urinary tract symptoms that include dysuria, hematuria, and&nbsp;</span><b>hemorrhage</b>}}</div><div><br></div><div>You reduce acrolein toxicity by,</div><div>-Increased&nbsp;{{c1::fluid}} intake, why?&nbsp;{{c1::piss more, less time for acrolein to accumulate}}</div><div>-Administer&nbsp;{{c1::n-acetyl-cysteine}} or&nbsp;{{c1::Mesna}} why?&nbsp;{{c1::both have thiol groups and accumulate in bladder so acrolein will react with them instead of bladder epithelium }}</div>",
+                        "<div><img src=\"paste-44071cd56c495a4450d2e02ef1692dbc98979c6a.jpg\"><br></div><img src=\"paste-f4699a631948a53912abfb3fe5b5f7bbe1b758a1.jpg\">"
+                    ],
+                    "guid": "Od#Bs/Z>oj",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Antimetabolites</b><div><b><br></b></div><div><font color=\"#aa0000\">Antimetabolites are a sub-group of cytotoxic drugs.</font></div><div><font color=\"#aa0000\"><br></font></div><div><div>-Interfere\nwith production of {{c1::nucleic acids}}</div>\n<div>-Inhibit\nproduction of deoxyribonucleoside {{c1::tri}}phosphates</div>\n<div>-Others\nmimic purines or pyrimidines and inhibit {{c1::nucleotide}} synthesis</div></div><div><img src=\"paste-42f9894f449b3fbfdce25ab1ac31886b291c3db4.jpg\"><font color=\"#aa0000\"><br></font></div><div>{{c1::<img src=\"paste-de727d573c1e74d0ecfad3e3dfc08bd2f15e661f.jpg\">}}</div><div><br></div><div>What is Methotrexate's MoA?{{c1::It's a competitive anolog of folic acid, and can bind to the enzyme dihydrofolate reductase and inhibit it, sice DHFR is needed to make DNA, DNA production is inhibited}}</div><div><br></div><div>What is 5-Fluorouracil's MoA?&nbsp;{{c1::mimics uridine and uracil containing monophosphates, so binds and poisons the enzyme thymidylate synthase}}</div><div><br></div><div>What is the MoA for purine analogs?{{c1::They are incorporated into the DNA, and the lesions destroy the cell}}</div><div><br></div><div>What are two complications that can arise from Antimetabolite treatment?{{c1::dose limiting toxicities and emergence of drug resistance}}</div><div><br></div><div>Give an example of a complication associated with 5-Flourouracil.</div><div>{{c1::amplification of thymidylate synthase, so 5-FU has less of an effect}}<br></div><div><br></div><div><br></div>",
+                        ""
+                    ],
+                    "guid": "GXC~AfS/5{",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Microtubule Poisons</b><div><b><br></b></div><div>T/F&nbsp;</div><div>Microtubule poisons are cytotoxic drugs&nbsp;{{c1::t}}</div><div>Microtubule poisons are fully synthetic&nbsp;{{c1::f}}</div><div><br></div><div><img src=\"paste-10734b273154eb4e97a8ee9430cfc0f9594d3683.jpg\"><br></div><div>What drug is this, and what is it isolated from?</div><div>{{c1::vincritine, periwinkle}}<br></div><div><br></div><div><img src=\"paste-70efff2decc62e26c540c3ada5f597d22b5ddccf.jpg\"><br></div><div>What drug is this, and what is it isolated from?<br></div><div>{{c1::paclitaxel, American Yew}}<br></div><div><br></div><div>What drugs destabilise microtubules?</div><div>{{c1::Vincristine, vinblastine}}</div><div><br></div><div>What drugs stabilise microtubules (thus not letting cell progress in mitosis)?{{c1::Paclitaxel}}</div><div><br></div><div>What is the dose limiting toxicity with microtubule poisons?</div><div>{{c1::neuropathy/neurotoxicity}}<br></div><div><br></div><div>What is the mechanism behind this?</div><div>{{c1::microtubules required for axonal transport, transports nutriens, organelles etc., breka that and the cell bodies of the neurons and functionality of the synapse breaks down}}</div>",
+                        ""
+                    ],
+                    "guid": "IRfQ~]<zcm",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Cyclophosphamide</b><div><b><br></b></div><div><b><font color=\"#aa0000\">Is an Alkylating Agent</font></b></div><div><b><font color=\"#aa0000\">Is a Nitrogen Mustard</font></b></div><div><b><font color=\"#aa0000\"><br></font></b></div><div>Route of administration:&nbsp;{{c1::oral or IV}}</div><div>Plasma Half life:&nbsp;{{c1::7hours}}</div><div>Acute Side effects:&nbsp;{{c1::nausea, vomiting}}</div><div>Delayed Side effects: {{c1::Bone marrow depr., haemorrhagic cystitis,&nbsp;alopecia, neurotox, water retention }}</div><div><br></div><div><img src=\"paste-417c2f701d53d3c024499d79bbc80907ce526abd.jpg\"><br></div><div>Point to the R-group</div><div>What is the significance of the R-group?{{c1::more complex the R-group, slower mustard is to react}}</div><div><br></div><div>What is the functional part of cyclophosphamide?</div><div>{{c1::BIS-2-chloroethylamino group i.e. the chlorine nitrogen and H}}<br></div><div><br></div><div>What parts of proteins do nitrogen mustards Alkylate?</div><div>{{c1::Amino groups</div>– Carboxyl groups<br>– Sulphydryl<br><div>– Imidazole groups}}<br></div><div><br></div><div>But what is the most important reaction that Nitrogen Mustards facilitate?{{c1::Alkyklation of the N7 of guanine forming a monoalkylation\nadduct, which damages DNA}}</div><div><br></div><div>Is Cyclophosphamide a monofunctional or a bifunctional mustard?{{c1::bifunctional}}</div><div><br></div><div>Why?{{c1::two Cl molecules}}</div><div><br></div><div>Is this more or less reactive then the other option?</div><div>{{c1::Much more}}<br></div><div><br></div><div>Why?{{c1::Since it has two chlorine molecules, it can crosslink molecules specifically DNA and it enables Intra-strand and inter-</div><div>strand crosslinks}}</div><div><br></div><div><b>CYCLOPHOSPHAMIDE METABOLISM</b></div><div><b><br></b></div><div><font color=\"#aa0000\">Cyclophosphamide is actually a prodrug</font></div><div><br></div><div>It is first acted upon by cytochrome p450 in the&nbsp;{{c1::liver}}</div><div><br></div><div>Which break it down into 2 products which are in equilibriam with each other</div><div><br></div><div><img src=\"paste-169c070abf4feb79b3b542a986bea030fa62ef20.jpg\"><br></div><div><br></div><div>Product 1 gets broken down into a non-reactive substance</div><div>What is product 1 and what is its non reactive substance</div><div><br></div><div>Product 2 can be broken down by an eznyme into a non reactive substance as well</div><div>{{c1::<img src=\"paste-e4643b4845a14969c03918d708152133fc8f86fc.jpg\">}}</div><div><br></div><div>How does product 2 become the functional nornitrogen?</div><div>{{c1::<img src=\"paste-36fde18e28477e182975518705f3e65fd3594f0d.jpg\">}}</div><div><br></div><div>Tissues can be protected from&nbsp;cyclophosphamide by high levels of</div><div>{{c1::Aldehyde dehydrogenase}}<br></div><div>{{c1::Glutathione and Glutathione transferases}}<br></div><div><br></div><div>Describe each&nbsp;</div><div><br></div><div>{{c1::Aldehyde dehydrogenase detoxifies Aldophosphamide to Carboxyphosphamide}}</div><div><br></div><div>{{c1::Glutathione-S-transferases enable a reaction between glutathione and nornitrogen mustard which inactiates it }}<br></div><div><br></div><div>What cells have naturally high levels of each?</div><div>{{c1::Liver}}</div><div><br></div><div>What is the incredibly toxic by-product of cyclophosphamide?</div><div>{{c1::Acrolein}}<br></div><div><br></div><div>What is the main side effect caused by this by-product?</div><div>{{c1::Haemorrhagic cystitis}}<br></div><div><br></div><div>How does this side effect come about?</div><div>{{c1::acrolein accumulates in the bladder and reacts with the epithelium}}<br></div><div><br></div><div>What are the two ways to treat this condition, and describe the mechanism of treatment?</div><div>{{c1::Increase fluid intake, keeps everything moving in the bladder, less chance of accumulation}}<br></div><div><br></div><div>{{c1::NAC or Mesna, both accumulate in bladder and both have thiol groups, which means that Acrolein reacts with them instead of bladder epithelium}}<br></div>",
+                        ""
+                    ],
+                    "guid": "kWU?:JD&z?",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>The Rest of The Nitrogen Mustards</b><div>Chronic lymphocytic lymphoma<b><br></b></div><div><br></div><div>Drug Name:{{c1::Melphalan}}<b><br></b></div><div>Used to treat: Multiple myeloma, ovarian and breast</div><div>Route of Administration: Oral</div><div>Acute Side effects: mild nausea</div><div>Delayed Side effects: Bone marrow depr.</div><div>Plasma half Life: 90 min</div><div>Molecular Structure:<img src=\"paste-eb98d33f190de9f29c8e906b71fb561906ddb1f9.jpg\"></div><div><br></div><div><br></div><div><div>Drug Name:{{c1::Mechlorethamine}}<b><br></b></div><div>Used to treat: Hodgkin’s disease; non Hodgkin’s lymphoma</div><div>Route of Administration: IV</div><div>Acute Side effects: Vesicant,severe nausea, vomiting, phlebitis, local reaction</div><div>Delayed Side effects: Bone marrow depr., amenorrhea</div><div>Plasma Half life: 1min</div><div>Molecular Structure:<img src=\"paste-064b50d61be5f1495d847aca29537c77273b4291.jpg\"></div></div><div><br></div><div><div><br></div><div>Drug Name:{{c1::Chlorambucil}}<b><br></b></div><div>Used to treat: Chronic lymphocytic lymphoma</div><div>Route of Administration: Oral</div><div>Acute Side effects: nausea, vomiting</div><div>Delayed Side effects: Bone marrow depr.</div><div>Plasma Half Life: 90min</div><div>Molecular Structure:<img src=\"paste-d442b9b15b34e0e10a7db6e5e22524ff0632b62c.jpg\"></div></div><div><br></div><div><br></div><div>Which is most reactive and why?</div><div>{{c1::Meclorethamine, simplest structure}}<br></div><div><br></div><div>Is this a good thing?{{c1::Not really, it just kills all cells in it's path, has most side effects and shortest half life}}</div><div><br></div><div>Why do all have bone marrow depr. as a delayed side effect?{{c1::Nitrogen mustards target rapidly proliferating cells, and bone marrow cells do be rapidly proliferating}}</div><div><br></div><div>What is the main long term affect of cytotoxic drugs?</div><div>{{c1::hogher risk of cancer int he future}}<br></div>",
+                        ""
+                    ],
+                    "guid": "wTuWSSj7:Z",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>CISPLATIN</b><div><b><br></b></div><div><font color=\"#aa0000\">Is a type of Alkylating agent</font></div><div><font color=\"#aa0000\">Is a type of platinum compound</font></div><div><font color=\"#aa0000\"><br></font></div><div>Cisplatin\nenter cells either by transporters, such as {{c1::CTR1}}, or by {{c1::passive diffusion}}<font color=\"#aa0000\"><br></font></div><div><br></div><div>Once inside cells, it is hydrolyzed by the addition of {{c1::water}} molecules to form\na chemically reactive {{c1::aqua}} species<br></div><div><br></div><div>What can this react with</div><div>{{c1::DNA\nand with other cellular nucleophilic\ngroups, such as the thiol groups in cysteine or methionine amino acids or\nwith the&nbsp; tripeptide glutathione.}}(4)</div><div><br></div><div>How does the active Cis-platin damage the DNA?</div><div>{{c1::Binds to N7 of Guanine, and due to its bifunctionality it can cross link molecules as well }}<br></div><div><br></div><div>Would trans-platin be more or less reactive?</div><div>{{c1::Less}}<br></div><div><br></div><div>Why?</div><div>{{c1::the trans form is\nmore reactive, meaning it does not reach the DNA before it has reacted with a\ntarget and/or because the trans conformation limits crosslinking in DNA.}}</div><div><br></div><div>What are the two ways cisplatin is ejected from the cell?</div><div>{{c1::through\nthe copper exporters ATP7A and ATP7B}}</div><div>{{c1::glutathione\nS-conjugate export GS-X pump}}</div><div><br></div><div>How would a cell become resistant to cisplatin?</div><div>{{c1::Higher levels of glutathione S-conjugate}}<br></div><div><br></div><div><div>Cisplatin\ntaken up by an organic cation transporter expressed on {{c1::renal tubular}} cells</div>\n<div>Generation\nof {{c1::ROS}} causes cisplatin induced {{c1::nephotoxicty}}</div></div>",
+                        "<img src=\"paste-8cdd4d995da2419b0e984c4526cf52a03afab6ed.jpg\"><div><img src=\"paste-54092d59d7f77ab4065a69789847351b5f139257.jpg\"><br><div><br></div></div>"
+                    ],
+                    "guid": "MuF!47zTOD",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>THE PURINE ANALOGS</b><div><b><br></b></div><div><i>SUB-GROUP OF ANTI-METABOLITES</i></div><div><i><br></i></div><div>Drug Name:{{c1::Mercaptopurine}}</div><div>Used to treat: ALL, AML</div><div><br></div><div>Drug Name:&nbsp;{{c1::Fludarabine}}</div><div>Used to treat: CLL</div><div><br></div><div>What is their MoA?</div><div>{{c1::Incorporated into DNA and the lesions cause DNA damage}}<br></div>",
+                        ""
+                    ],
+                    "guid": "ekiP5Bv;xK",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>FOLIC ACID ANALOGS</b><div><br></div><div><i>SUB-GROUP OF ANTI-METABOLITES</i></div><div><i><br></i></div><div><u>Methotrexate</u></div><div><br></div><div>Used to treat:&nbsp;{{c1::ALL, breast, head and neck, lung, bladder}}</div><div><br></div><div>MoA:&nbsp;{{c1::Competitive Analog of Folic Acid, so can bind to enzyme dihydrofolate reductase and inhibits it, and DHFR is needed for DNA synthesis, so it effectively inhibits DNA synthesis}}</div><div><br></div><div><u>Raltitrexed</u></div><div><u><br></u></div><div>Used to treat:&nbsp;{{c1::Colon}}</div><div><br></div><div>MoA: {{c1::Thymidylate synthase is an enzyme needed to convert dUMP to dTMP and then to dTTP which is is needed for DNA repair, raltitrexed binds to TS at CH2THF site and inhibits it, so a DNA repair mechanism is inhibited&nbsp;}}</div><div><br></div><div><br></div>",
+                        ""
+                    ],
+                    "guid": "B|b<%K{U-S",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>5-FLUORURACIL</b><div><b><br></b></div><div><i>A PYRIMIDINE ANOLOG</i></div><div><i>AN ANTI-METABOLITE</i></div><div><i><br></i></div><div>Used to treat: {{c1::Breast, <u><b><i>colon</i></b></u>, stomach, head and neck</div>\n<div>AML, ALL, non Hodgkin’s lymphoma}}</div><div><br></div><div>5-Fluorouracil has <u>3</u>&nbsp;mechanisms of action</div><div><br></div><div>1. Being converted to&nbsp;{{c1::FUTP}} which is taken up by&nbsp;{{c1::RNA}} and the lesions it causes, causes serious damage to the cells</div><div><br></div><div>2.Being converted to&nbsp;{{c1::FdUTP}} which is taken up by&nbsp;{{c1::DNA}} and the lesions it causes, causes serious damage to the cells</div><div><br></div><div>3. Being converted to&nbsp;{{c1::FdUMP}} which binds to and inhibits the enzyme {{c1::Thymidylate Sulfate}} which inhibits&nbsp;{{c1::DNA}} repair mechanism</div><div><br></div><div>The full conversions are here&nbsp;{{c1::<img src=\"paste-ff02b30f5bfc2e4a15f1c32f384d5a2c20934cc4.jpg\">}}</div><div><br></div><div>How is 5-flourouracil metabolised?</div><div>{{c1::5-FU is broken down by (DPD)-mediated conversion of 5-FU\nto dihydrofluorouracil\n(DHFU)}}</div><div><br></div><div>Where does this metabolism happen?&nbsp;{{c1::the liver}}</div><div>How much is metabolised through fps?&nbsp;{{c1::80}}%</div><div><br></div><div>How would a cell become resistant to 5-flourouracil?</div><div>{{c1::Upregulation of Thymidylate Synthase so there's too much for the 5-FU to have any real effect}}<br></div><div><br></div><div><br></div>",
+                        ""
+                    ],
+                    "guid": "wVg0(U&t/}",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>MICROTUBULE POISONS</b><div><br></div><div><i>MADE FROM NATURAL PRODUCTS</i></div><div><i><br></i></div><div><u>VINCA ALKALOIDS</u></div><div><u><br></u></div><div>Drug Name:&nbsp;{{c1::vinblastine}}</div><div>Used for: Kaposi’s\nsarcoma, Hodgkin’s\ndisease, breast, lung, testicular, others, Acute\nlymphocytic leukemia</div><div><br></div><div>Drug Name: Vincristine</div><div>Used for: acute\nlymphocytic leukemia, neuroblastoma, others</div><div><br></div><div>What plant were both isolated from?{{c1::Catharanthus\nroseus/ Periwinkle}}</div><div><br></div><div>What is the MoA for the Vinca Alkaloids?</div><div>{{c1::They destabilise the microtubules}}</div><div><br></div><div><u>TAXANES</u></div><div><br></div><div>Drug Name: Paclitaxel (Taxol)&nbsp;</div><div>Used For: Ovarain,\nbreast, lung others small cell</div><div><br></div><div>What plant was it originally isolated from?&nbsp;{{c1::American Yew}}</div><div><br></div><div>What is the mechanism for the Taxanes?&nbsp;</div><div>{{c1::they stabilise the microtubules, so they arrest the cell in a certain stage of mitosis}}<br></div><div><br></div><div><br></div><div>T/F</div><div>Microtubule poisons are simple drugs{{c1::false, they're so fucking complicated}}</div><div><br></div><div>What is the dose limiting toxicity for microtubule poisons?</div><div>{{c1::neurotoxicity/neuropathy}}<br></div><div><br></div><div>WHat is the mechanism for this?</div><div>{{c1::microtubules required for axonal transport, material, organelles, proteins, nutrients etc., if you cut that off then synapse and cell body suffers}}</div><div><br></div>{{c1::Vincristine}} causes more severe neuropathy than {{c1::paclitaxel}}.\nVincristine is delivered iv but intrathecal delivery is {{c1::fatal}}.<div>\n<div><br></div><div>Anterograde fast axonal transport\ninhibited potency being vincristine {{c1::&gt;}}\npaclitaxel. </div>\n<div><br></div><div>Paclitaxel does not {{c1::inhibit}} retrograde\nfast axonal transport while vincristine\ndoes.</div></div><div><br></div>",
+                        "<img src=\"paste-030213664e93ca85c90f0ed2d8026d92d19d9b8a.jpg\">"
+                    ],
+                    "guid": "n^<F022.oA",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Cellular\nconsequences of treatment with cytotoxic drugs&nbsp;</b><div><b><br></b></div><div><div>•Damage\nto/perturbation&nbsp; of cellular\nmacromolecules</div>\n<div>–{{c1::DNA}}</div>\n<div>–{{c1::Microtubules}}</div>\n<div>•Disruption\nof cellular processes</div>\n<div>–{{c1::Cell\ncycle arrest}}</div>\n<div>•Activation\nof a “checkpoint” and/or stress response and increased cancer cell death</div>\n<div>–Up-regulation\nof {{c1::p53}}</div></div><div><br></div><div>All these designed to cause&nbsp;{{c1::apoptosis}} of the cell</div><div><br></div>",
+                        ""
+                    ],
+                    "guid": "P$?L,6,8@^",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Give 3 benefits of drug combination therapy<div><br></div><div><div>•{{c1::Additive\nor synergistic effects}}</div>\n<div>•{{c1::Reduced\nrisk of drug-resistance}}</div>\n<div>•{{c1::Reduced\nconcentration of each drug</div>\n<div>–Limits\nadverse effects}}</div></div>",
+                        ""
+                    ],
+                    "guid": "z<Mok3e1l9",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::75}}% of breast cancers are positive for the Oestrogen receptor (ER+).<br><div><br></div><div><font color=\"#aa0000\">Means Tumour is Reliant On ER Signalling to Proliferate and Survive</font></div><div><font color=\"#aa0000\"><br></font></div><div>The oestrogen receptor is initially inactive in the&nbsp;{{c1::cytoplasm}} of the cell.</div><div><br></div><div>What type of oestrogen binds to the oestrogen receptor?</div><div>{{c1::E2, also known as Oestradiol}}<br></div><div><br></div><div>The receptor then&nbsp;{{c1::dimerizes}} and translocates to the&nbsp;{{c1::nucleus}}</div><div><br></div><div>What does it bind in the nucleus?</div><div>{{c1::to\nthe oestrogen response element which is a ligand activated transcription factor, specifically activating\nfunction 1 (AF1) and 2 (AF2)}}</div><div><br></div>",
+                        "<img src=\"paste-e7c1cfd6b4121e5866e2fe423389ffdbfac5d32f.jpg\">"
+                    ],
+                    "guid": "PHARe3JE*]",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>THE DRUGS THAT EFFECT THE OESTROGEN RECPTORS</b><div><b><br></b></div><div><b>The SERMs (SELECTIVE ESTROGEN RECEPTOR MODULATORS)</b></div><div><b><br></b></div><div>MoA:&nbsp;{{c1::partial agonists}} of the ER that interfere with the signalling that make it more likely for&nbsp;{{c1::pro-apoptotic}} signals to be expressed.</div><div><br></div><div>{{c1::tamoxifen}} and&nbsp;{{c1::Toremifene}} are SERMs used for Breast cancer<br></div><div><br></div><div>Clomiphene is used for {{c1::(Female infertility)}}<br></div><div><br></div><div>Bazedoxifene is on Clinical trial for {{c1::osteoporosis)}}</div><div><br></div><div>Ospemifene is on Clinical trial for {{c1::vaginal atrophy &amp; dryness)}}<br></div><div><br></div><div><b>The SERDs (SELECTIVE OESTROGEN RECEPTOR DOWN REGULATORS)</b></div><div><b><br></b></div><div>MoA: Pure ER&nbsp;{{c1::antagonist}} binds to ER and prevents&nbsp;{{c1::dimerization}} and increases ER degradation by use of&nbsp;{{c1::proteases}}</div><div><br></div><div>The ONLY SERD that is approved is {{c1::Fulvestrant}}<br></div><div><br></div><div>Approved for {{c1::post menopausal}} women with ER+ tumours and metastatic tumours {{c1::refractory}} to other anti-<br>oestrogen therapy<br></div><div><br></div><div><b>THE AROMATASE INHIBITORS</b></div><div><br></div><div>Aromatase is a {{c1::cytochrome p450}} enzyme, which converts {{c1::androgens}} into estrogens</div><div><br></div><div>Steroidal Aromatase Inhibitors: {{c1::Formestane, <b>EXEMESTANE</b>}}</div><div>Non-Steroidal Inhibitors: {{c1::Letrozole, ANASTROZOLE}}</div><div><br></div><div><br></div><div><br></div><div>Most of these treatments are used in combination with other treatments</div>",
+                        "<img src=\"paste-96ec4dff56499d172d43a4e2c4e72d204472c9df.jpg\"><div><img src=\"paste-a87f7b70d927deb77be1f282d92de839a5ecd641.jpg\"><br></div>"
+                    ],
+                    "guid": "z^:w~(koCQ",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Prostate Cancer</b><div><b><br></b></div><div>{{c1::80-90}}%\nprostate carcinomas are androgen dependent&nbsp;initially<b><br></b></div><div><br></div><div>Non-steroidal Anti-androgens such as&nbsp;{{c1::Flutamide, Bicalutamide, Nilutamide}}(3) are used to treat this.</div><div><br></div><div>Inhibit androgen-binding to the receptor i.e. is an&nbsp;{{c1::antagonist}}<br></div><div><br></div><div><font color=\"#aa0000\">Unfortunately prostate cancer generally develops beyond androgen dependancy which eventually makes it unresponsive to the Non-steroidal Anti-androgens</font></div>",
+                        ""
+                    ],
+                    "guid": "xva!p<N4^z",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "How might anti-androgen therapy increase the amount of androgen in the body?<div>{{c1::The feedback loop will no longer have androgens giving it feedback so more will be produced}}<br></div><div><br></div><div>So <b>GnRH agaonists, </b>such as {{c1::</div><div>Leuprolide (Lupron), Goserelin (Zoledex), Triptorelin</div>(Trelstar), Histrelin (Vantas)}}(4) are used.<div><br></div><div>What is their MoA:{{c1::Down-regulates a GPCR involved with the androgen feedback loop}}<br><div><br></div></div>",
+                        "<img src=\"paste-bbd7a6353ea4874c110ed0076dc010cd3173d42d.jpg\"><div>I don't know what this means</div>"
+                    ],
+                    "guid": "tX4?>VQ^Lv",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Glucocorticoid Receptor.</b><div><b><br></b></div><div><font color=\"#aa0000\">Activating the glucocorticoid receptor in some case causes cell death</font></div><div><font color=\"#aa0000\"><br></font></div><div>Dexamethasone and&nbsp;{{c1::prednisone}} are two corticosteroids used in the treatment of&nbsp;{{c1::Acute Lymphoblastic</div><div>Leukemia}}&nbsp;</div><div><br></div><div>What is the MoA?</div><div>{{c1::Binds to the GR, which translocates to the nucleus and binds to the Glucocorticoid response element and either transactivates or represses some genes, which leads to altered gene expression, which leads to cell cycle arrest and apoptosis}}<br></div><div><br></div><div>What are the corticosteroids usually used in combination with for this particular condition?&nbsp;{{c1::vincristine}}</div>",
+                        "<img src=\"paste-514eda490250291d9b0416b37c1deb060e5e211c.jpg\">"
+                    ],
+                    "guid": "`{OjkXHqj",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>All-Trans-Retinoic Acid</b><div><b><br></b></div><div>What is used to treat?&nbsp;{{c1::Acute promyelocytic leukemia}}<br><div><br></div></div><div>How is the MoA of the disease? . {{c1::The PML gene on Chromosome 15 is fused to the RARa gene\non Chromosome 17 to produce a PML-RARa fusion protein that inhibits myelocytic\ndifferentiation.}}{{c1::<img src=\"paste-a5bcfd992e5143b2b8db58cd6db7e568871f2259.jpg\">}}</div><div><br></div><div>So how does&nbsp;<b>All-Trans-Retinoic Acid </b>help with this?</div><div>{{c1::If you give a high enough dose, it will outnumber the faulty gene expression and thus forcing the cancer cell to differentiate}}<br></div>",
+                        ""
+                    ],
+                    "guid": "b`3hBfYOdR",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "T/F<div>One activated oncogene is not enough to cause cancer&nbsp;{{c1::t}}</div><div>An activated TSG causes cancer&nbsp;{{c1::f, the opposite}}</div><div>An oncogene needs to be constantly active to cause cancer&nbsp;{{c1::t}}</div><div><br></div><div><br></div>",
+                        ""
+                    ],
+                    "guid": "D|{wSgvp>?",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>The Philadelphia Chromosome</b><div><b><br></b></div><div>Caused by a translocation between chromasomes 9 and 22 which causes the oncogenic kinase&nbsp;{{c1::ABL}} to attach to&nbsp;{{c1::BCR}}</div><div>Which causes the tyrosine kinase to be constituitively active.</div><div><br></div><div>This kinase can phosphorylate certain proteins which activates certain oncogenic pathways such as&nbsp;{{c1::Ras, PI3-kinase, Jak-STAT}}(3)</div><div>And certain oncogenic transcription factors such as&nbsp;{{c1::c-Myc, NF-KappaB, Jun}}</div><div><br></div><div>Which causes the condition&nbsp;{{c1::CML, can also cause ALL,\nCNL and AML}}</div><div><br></div><div><br></div>",
+                        "<div>•Retrovirus\nused to introduce BCR-ABL in to\nmouse</div>\n<div>•Mice\ndeveloped a CML-like leukemia</div>\n<div>•Mutant\nBCR-ABL (lacking kinase\nactivity) did not induce leukemia</div><div><br></div><div>This is how Imatanib was found</div>"
+                    ],
+                    "guid": "yZkL%h8,%>",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>KINASE THERAPY</b><div><br></div><div>Class of Kinase Inhibitor:Type I<br></div><div><br></div><div>MoA: {{c1::Competes for the substrate and binds in the ATP-binding pocket of the active conformation }}</div><div><br></div><div>Examples of Drugs:{{c1::Bosutinib, Cabozantinib, Ceritinib,</div>Crizotinib, Gefitinib, Pazopanib, Ruxolitinib, Vandetanib}}(8)<div><br></div><div><br></div><div><br></div><div><div>Class of Kinase&nbsp;Inhibitor:Type II<br></div><div><br></div><div>MoA: {{c1::Type II inhibitors bind to the DFG-Asp out protein kinase conformation, which corresponds to an inactive enzyme form}}</div><div><br></div><div>Examples of Drugs: {{c1:: Imatinib, Sorafenib, Axitinib, Nilotinib }}(4)</div></div><div><br></div><div><br></div><div><div>Class of Kinase&nbsp;Inhibitor: Type III (Allosteric Inhibitor)</div><div><br></div><div>MoA: {{c1::Occupy a site next to the ATP-binding pocket so that both ATP and the allosteric inhibitor can bind simultaneously to the protein.}}</div><div><br></div><div>Examples of Drugs:&nbsp;&nbsp;{{c1::Trametinib, GnF2}} (2)</div></div><div><br></div><div><br></div><div><br></div><div><div>Class of Kinase&nbsp;Inhibitor:&nbsp; Type IV (Substrate Directed Inhibitors)</div><div><br></div><div>MoA:&nbsp; {{c1::Undergo a reversible interaction outside the ATP pocket and offer selectivity against targeted kinases}}</div><div><br></div><div>Examples of Drugs:&nbsp; ONO12380</div></div><div>What is&nbsp;ONO12380 used for?</div><div>{{c1::binds\nan allosteric site on BCR-ABL and can be used to treated imatinib\nresistant CML.}}</div><div><br></div><div><br></div><div><br></div><div><div>Class of Kinase&nbsp;Inhibitor: Type V (Covalent Inhibitor)</div><div><br></div><div>MoA:{{c1::Bind covalently (irreversible)to their protein kinase target}}</div><div><br></div><div>Examples of Drugs:&nbsp;{{c1::Afatinib, Ibrutinib, HK1–272}}</div></div><div><br></div><div><div><font color=\"#aa0000\">The discovery that Rous sarcoma virus\nencoded an oncogenic gene that was a tyrosine\nkinase (v-src) first\nimplicated kinases in the pathogenesis of cancer.\nOther human\noncogenes were subsequently found to be kinases. Imatinib\ndemonstrated the efficacy of targeting kinases in\ncancer and triggered a revolution in cancer therapy heralded the era of\n“targeted therapy”.&nbsp;</font></div></div><div><font color=\"#aa0000\"><br></font></div><div>What are the benefits of targeting oncogenic kinases?</div><div>{{c1::increased specificity,\nfewer adverse effects and dose limiting toxicity,\nculminating in &nbsp;and better patient outcomes}}</div><div><br></div><div><b>Different Ways of Targeting Kinases</b></div><div><b><br></b></div><div>Examples of small molecule kinase inhibitors</div><div><br></div><div>Drug Name: Gefitinib</div><div><br></div><div>Class of tyrosine kinase: Type&nbsp;{{c1::I}}</div><div><br></div><div>Targeting what?:&nbsp;{{c1::Epithelial growth factor receptor EGFR}}</div><div><br></div><div>What is it used to treat?&nbsp;{{c1::Lung Cancer (NSCLC)}}</div><div><br></div><div><br></div><div>Drug Name: Vemurafenib&nbsp;</div><div><br></div><div>Targeting What?:{{c1::BRAF}}</div><div><br></div><div>What is it used to treat?{{c1::Melanoma}}<br></div><div><br></div><div><br></div><div>Drug Name: Sorefenib</div><div><br></div><div>Class of Tyrosine Kinase: Type&nbsp;{{c1::II}}</div><div><br></div><div>What is it Used to Treat?&nbsp;{{c1::Hepatocarcinoma}}</div><div><br></div><div>Sorefenib has 3 MoAs, can you describe them?</div><div>1.&nbsp;{{c1::can activate a cell death process called ferroptosis}}</div><div>2.&nbsp;{{c1::Inhibits PDGFR signalling}}</div><div>3.{{c1::Targets MAP kinase pathways}}</div><div><br></div><div>Monoclonal Antibodies have also been used as they can bind to the extracellular domain of\nreceptor tyrosine kinases: such as Cetuximab which binds to the&nbsp;{{c1::EGFR}} in&nbsp;{{c1::Colorectal}} cancer</div><div><br></div><div>And Trastuzumab which binds to&nbsp;{{c1::HER-2 (tyep of EGFR)}} in&nbsp;{{c1::HER-2+ Breast}} cancer</div><div><br></div><div>mAbs can also bind to signalling molecules to prevent it from activating a receptor:</div><div>Such as&nbsp;Bevacizumab, which binds&nbsp;{{c1::VEGF}}, which stops it binding to the&nbsp;{{c1::VEGFR}} which inhibits&nbsp;{{c1::angiogenesis}} in&nbsp;{{c1::renal}} cancer</div>",
+                        "<img src=\"paste-758998a2099dfa471c476d3a0c23c722df9b1395.jpg\">"
+                    ],
+                    "guid": "hUxB_8{c=w",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<font color=\"#aa0000\">BRCA1/2 genes play roles in\nhomologous recombination and contribute to DNA repair after damage.&nbsp;</font><br><div><br></div><div>BRCA1/2 Mutations often lead to breast cancer.&nbsp;</div><div><br></div><div>BRCA1/2 mutated cancer rely on&nbsp;{{c1::base excision repair}} to survive, which is mediated by&nbsp;{{c1::PARP}}. Therefore a treatment for cancers such as this is to inhibit&nbsp;{{c1::PARP}}, which means cancer DNA cannot be repaired, thus leading to cell death.</div><div><br></div><div>An example of a drug like this is&nbsp;{{c1::Olaparib}}</div><div><br></div>",
+                        "<img src=\"paste-da0fa0cdbaa8e9a2ce41175ac20c896dc70fbcf2.jpg\">"
+                    ],
+                    "guid": "pnz;$>9z?[",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><b>Irinotecan</b><br></div><div><br></div>A drug used to treat {{c1::colorectal}} cancer<br><br><div><br></div><div>• A prodrug activated by a {{c1::carboxylesterase}}to SN-38 which&nbsp;inhibits topoisomerase I<br><br></div><div>• Topoisomerase I is an enzyme that<br>{{c1::plays a role in unwinding DNA}} which<br>is required for DNA replication and<br>transcription<br><br></div><div>• By blocking DNA replication and/or<br>transcription, SN-38 induces<br>apoptosis<br><br></div><div>• SN-38 inactivated by {{c1::glucuronidation}}<br>by {{c1::uridine diphosphate glucoronosyl</div>transferase 1A1 (UGT1A1)}}<div><br></div><div>What is the first dose limiting toxicity of Irinotecan?</div><div>{{c1::Myelo-suppression</div>(bone marrow<br><div>suppression)}}<br></div><div><br></div><div>Why?{{c1::rapidly proliferating cells}}</div><div><br></div><div>What is the second dose limiting toxicity?</div><div>{{c1::Kills gut cells and causes potentially fatal diarrhoea}}<br></div><div><br></div><div>Why?{{c1::Glucuronide is</div>metabolized by gut<br><div>microbes so then its just SN-38 again, and gut cells are rapidly proliferating}}</div>",
+                        "<img src=\"paste-c99ef6d49733965a70f2c775665867d6418c31ef.jpg\"><div><img src=\"paste-341a32e835a8a97d53f7b414b9763f2ff72daad4.jpg\"><br></div>"
+                    ],
+                    "guid": "p6njI@2yZo",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Doxorubicin (Adriamycin)</b><div><b><br></b></div><div>An antibiotic derived from {{c1::Streptomyces}}<br><br></div><div>Binds DNA (it is an “intercalating agent”)<br><br>Doxorubicin bound to DNA inhibits {{c1::topoisomerase II}}</div><div><br></div><div>Which does what?<br>{{c1::• DNA synthesis ceases<br>• DNA double&nbsp; strand breaks occur}}<b><br></b></div><div><br></div><div><br></div><div>What is the big old dose limiting toxicity with Doxorubicin?</div><div>{{c1::Acute and chronic Cardiotoxicity</div>– Severe and rapidly progressive congestiveheart failure}}<div><br></div><div>Doxorubicin can be reduced by&nbsp;{{c1::quinone reductase}} to form doxirubicin semiquinone.</div><div><br></div><div>Doxirubicin Semiquinone can react with&nbsp;{{c1::Fe3+}} to generate {{c1::free radicals}}.</div><div>{{c1::<img src=\"paste-3cc3b5eefa27151400d5d7f53861fb00ff0a0f99.jpg\">}}</div><div><br></div><div>Why does it effect cardiac tissue more than others?</div><div>{{c1::–because\nheart has lower levels of superoxide dismutase and catalase</div>\n<div>–Enzymes\nwhich protect against free radicals}}<br></div><div><br></div><div>How to prevent this.</div><div><br></div><div>Co-treatment with iron {{c1::chelators}} such as&nbsp;{{c1::dexrazoxane}} to limit redox cycling<br></div><div>which has been show to reduce cardiotoxicity from</div>{{c1::47}}% to {{c1::6}}%<div><br></div><div>Synthesis of Doxorubicin analogues that retain<br>the DNA interchelating activity of the drug but<br>do not redox cycle<br>– {{c1::Mitoxantrone}}, synthetic doxorubicin-like drug<br><div><br></div></div>",
+                        "<img src=\"paste-46d7b6eabe396216aab2d8a64182e9f2fcfda762.jpg\"><div>Subclinical cardiac<br>damage in approx 25% of<br>children treated with<br>moderate doses<br></div>"
+                    ],
+                    "guid": "gU:qaReibQ",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<img src=\"paste-372f47f53491c4d96ebdebb5b7fb5d83397c5247.jpg\"><div>{{c1::<img src=\"paste-a60d159962ee2a4b9f55caa2f170db434e150412.jpg\">}}</div>",
+                        ""
+                    ],
+                    "guid": "bX,mhp+_Kp",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Angiogenesis and cancer</b><div><b><br></b></div><div>The supply of oxygen and nutrients to cells limits the size of a tumour to approximately a {{c1::millimetre}}.<b><br></b></div><div><br></div><div>How might a tumour get around this problem?</div><div>{{c1::Tumours\ncan stimulate angiogenesis by releasing angiogenic\nfactors or stimulating nearby normal cells to produce angiogenic\nfactors}}</div><div><br></div><div><font color=\"#aa0000\">Tumours consist of many different types of cancer cells that all have different mutations</font></div><div><br></div><div>What meadiates apoptosis for cells that don't have a good enough O2 or nutrient supply.</div><div>{{c1::Caspase 3,6,7, through proteolytic cleavage of proteins}}<br></div><div><br></div><div>Is there anything the tumour can do to prevent this?</div><div>1.{{c1::angiogenesis}}</div><div>2.{{c1::BCL-2, oncogene that inactivates these caspases}}</div><div><br></div><div>What are some so-called 'angiogenic switches' (changes that causes a tumour to express angiogenic factors)?</div><div>{{c1::oxygen\ndeprivation, although other stimuli such as inflammation, oncogenic mutations\nand mechanical stress may also play a role}}</div><div><br></div><div>What are some angiogenic factors?</div><div>{{c1::angiogenin,\nvascular endothelial growth factor (VEGF), fibroblast growth factor (FGF), and\ntransforming growth factor-β (TGF-β)}}(4)</div><div><br></div><div>What is the most prominent angiogenic factor?{{c1::VEGF, found in 60% of cells}}</div><div><br></div><div><br></div><div><b>Targeting Angiogenesis</b></div><div><b><br></b></div><div>Lets take the example of VEGF on the VEGFR to promote angiogenesis.</div><div><br></div><div>There are three ways to inhibit this</div><div><br></div><div><u>Kinase Inhibitor</u></div><div><u><br></u></div><div>Drug Name:&nbsp;{{c1::sorefenib}}</div><div><b><br></b></div><div>MoA:{{c1::Sorefenib inhibits the kinase activity of the\nVEGFR by binding to it}}</div><div><br></div><div><u>mAb</u></div><div><u><br></u></div><div>Drug Name: {{c1::Bevacizumab}}</div><div><br></div><div>MoA:&nbsp;{{c1::Binds VEGF, thus preventing it from binding the VEGFR}}</div><div><br></div><div><u>Recombinant protein<br></u></div><div><br></div><div>Drug Name:{{c1::Aflibercept}}</div><div><br></div><div>MoA: {{c1::Aflibercept is a recombinant protein that is a\nfusion of the ligand binding domain of VEGFR fused to another protein, so it can bind to VEGF, thus stopping the binding&nbsp;}}</div><div><br></div>",
+                        "More kinase inhibitors<div>Axitinib<br>• Cabozantinib<br>• Pazopanib<br>• Regorafenib<br>• Sunitinib<br>• Thalidomide<br>• Vandetanib<br></div><div><br></div><div>mAb: ramucirumab</div><div><br></div><div><img src=\"paste-44e97009dd6d5df389555c135bfa0804c3f0743c.jpg\"><br></div>"
+                    ],
+                    "guid": "hz&rrF6-y&",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Different Ways that mAbs can elicit responses on tumour antigens.</b><div><b><br></b></div><div><b>1.</b>&nbsp;Inhibit signalling</div><div>MoA:{{c1::mAb binds to receptor which inhibits ligand binding}}</div><div>Exmaple:{{c1::Trastuzumab and the HER-2 receptor}}</div><div><br></div><div>2. Antibody dependant cellular cytotoxicity (ADCC)</div><div><br></div><div>MoA:{{c1::mAb binds to tumour antigen and immune\neffector cells, such as macrophages and natural killer (NK) cells, bind to the\nCH3 region of IgG mAbs, immune cells then do a number on the immune cell}}</div><div><br></div><div>3.CDC</div><div><br></div><div>MoA:{{c1::mAb binds to tumour antigen and complement pathway attacks tumour}}</div><div><br></div><div>4. Antibody drug conjugates (ADC)</div><div><br></div><div>MoA:{{c1::mAb bound to very cytotoxic drug, that only activates when mAb attaches to tumour antigen}}</div>",
+                        "<img src=\"paste-66ff69edf891ded010870a1bec45efdfe1b68352.jpg\">"
+                    ],
+                    "guid": "cpiZ9&avQ_",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Antibody-drug conjugates (ADCs)&nbsp;</b><div><b><br></b></div><div>ADCs are made up of three parts</div><div>1.{{c1::antibody}}</div><div>2.{{c1::cytotoxic agent}}</div><div>3.{{c1::linker}}</div><div><br></div><div>ADC binds to antigen on tumour, how does cell die?</div><div>{{c1::ADC brought inside the cell due to endocytosis, lysosomes break linker, andcytotoxic drug goes to town}}<br></div><div><br></div><div>Examples:</div><div>Lapatinib-Capecitabine, what is capecitabine a prodrug of&nbsp;{{c1::5-flourouracil}}</div><div>Trastuzumab-Emtansine, when would you use this drug?{{c1::if treatment for trastuzumab (which is an ADCC) isn't working}}</div><div><br></div><div><img src=\"paste-34e5ff10f3f03c0a8f35eec17db8a0187c38ca6a.jpg\"><br></div>",
+                        "<img src=\"paste-30e42cf60f37ca63573d254d1481a5dd10f7f155.jpg\">"
+                    ],
+                    "guid": "m_{K@+MKq*",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Anti-tumour T-cell responses</b><div><b><br></b></div><div>A t-cell has two ways that a tumour cell cn comunicate with it to not harm it.</div><div><br></div><div>1. CD80;CD86 on the tumour binds to CTLA-4 on t-cell</div><div><br></div><div>Give a drug that inhibits this,&nbsp;{{c1::Ipilimumab}}</div><div><br></div><div>2. PD-1 on T-cells bind to PD-L1 on cancer cells</div><div><br></div><div>What drugs target PD-1 (T-cell)&nbsp;{{c1::Pembrolizumab, Nivolumab}}</div><div>{{c1::Melanoma of the skin, non- small cell lung cancer, kidney cancer, bladder cancer, head and neck cancers, and Hodgkin lymphoma if the tumour is positive for PD-1L}}</div><div><br></div><div>What drugs target PD-L1 (cancer cells)&nbsp;{{c1::Atezolizumab, Avelumab, Durvalumab}}</div><div>{{c1::Bladder cancer, non-small cell</div>lung cancer, and Merkel cell skin<br><div>cancer (Merkel cell carcinoma)}}<br></div>",
+                        "<img src=\"paste-566cf6c0b0605f6416ec46019c81132675b7f7fb.jpg\"><div><img src=\"paste-3274d80e8aca22c9f25308fbf7d2045c534000d0.jpg\"><br></div>"
+                    ],
+                    "guid": "s!>epye_];",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>The Importance of Downstream Stuff (also two new drugs)</b><div><b><br></b></div><div>This is the&nbsp;{{c1::MAPK}} signalling pathway<br><div><b><br></b></div><div><img src=\"paste-43b2eff959ecf31338fba1b0f59644c1809484db.jpg\"><b><br></b></div><div>Anything in red causes a different type, or a few different types of cancer</div><div><br></div><div>But if we target BRAF or MEK (1/2) we can treat all of these cancers</div><div><br></div><div>BRAF is inhibited by&nbsp;{{c1::Vemurafenib}} which is mainly used to treat&nbsp;{{c1::melanoma}}</div></div><div><br></div><div>MEK 1/2 is inhibited by&nbsp;{{c1::Selumetinib}}</div>",
+                        ""
+                    ],
+                    "guid": "z=_nj&fOEr",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Ventoclax:</b><div><b><br></b></div><div>Type of Drug:&nbsp;{{c1::BH3 Mimetic}}</div><div><br></div><div>MoA:{{c1::Inhibits Anti-apoptotic Bcl-2 Proteins}}</div>",
+                        ""
+                    ],
+                    "guid": "C*H<[OWOw@",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><br></div>Tazemetostat is a\npotent and selective inhibitor of\nthe {{c1::EZH2 histone methyltransferase}}<div><br></div><div><br></div>",
+                        "EZH2\nis overexpressed or mutated in a variety of cancer cells and plays a key role\nin tumor cell\nproliferation. Inhibition of EZH2 specifically prevents the methylation of\nhistone H3 lysine 27 (H3K27),\naltering chromatin conformation and patterns of gene expression patterns, disrupting signalling and\ndecreasing tumour cell proliferation in cancers with&nbsp; EZH2\nmutations"
+                    ],
+                    "guid": "nra0@`tF8o",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><b>Selinexor</b><br></div><div><br></div>Selective\ninhibitors of nuclear export are drugs that block {{c1::exportin 1\n(XPO1 or CRM1)}}, a protein involved in transport from the cell nucleus to the\ncytoplasm<div><br></div><div>What does it treat&nbsp;{{c1::Multiple Myeloma}}</div><div>When would you use it?&nbsp;{{c1::A last resort}}</div>",
+                        ""
+                    ],
+                    "guid": "p$RoXC,Ou$",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "a06f113b-aded-11eb-8ae2-c0b5d703b09e",
+            "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "05/05 Dennedy Pituatary",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>PITUITARY GLAND</b><div><b><br></b></div><div>Where is it located?{{c1::sella tunica at base of skull between eyes anteriorly}}</div><div><br></div><div>The hypothalamus is continuous with the&nbsp;{{c1::posterior}} pituitary gland</div><div><br></div><div>So what would be the difference in how hypothalamus communicates with either lobe of the pituitary?</div><div>{{c1::post, communicate directly, it is continuous</div><div>Anterior, communicates through hypophyseal portal system}}<br></div><div><br></div><div>The hypothalamus releases&nbsp;{{c1::neuropeptide}} which causes the release of hormones from the ant. pituitary gland. This is normally released in a&nbsp;{{c1::pulsatile/diurnal}} pattern.</div><div><br></div><div>Hormone released by hypothalamus/ hormone reeleased by Ant pituatary/ Hormone released by gland as a result</div><div><br></div><div>GnRH/{{c1::LH+FSH}}/{{c1::Testosterone and estradiol}}</div><div>{{c1::CRF}}/ACTH/{{c1::Cortisol}}<br></div><div>{{c1::TRH}}/{{c1::TSH}}/Thyroid Hormone<br></div><div><br></div><div>And GHRH causes release of&nbsp;{{c1::Growth hormone}}</div><div><br></div><div>{{c1::Dopamine}} causes the tonic inhibition of release of&nbsp;{{c1::prolactin}} from ant pituitary</div><div>{{c1::Somatostatin}} causes the tonic and controlled inhibition of release of&nbsp;{{c1::growth hormone}} from ant pituitary<br></div><div><br></div><div>The posterior pituitary gland releases&nbsp;{{c1::oxytocin and aVP/ADH}}</div>",
+                        ""
+                    ],
+                    "guid": "d{)uSH`3%n",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                }
+            ]
         }
     ],
     "crowdanki_uuid": "9698beb1-7dd0-11eb-935e-af478fea30f9",
