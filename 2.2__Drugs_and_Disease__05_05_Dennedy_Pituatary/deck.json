@@ -1,0 +1,192 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "a06f113b-aded-11eb-8ae2-c0b5d703b09e",
+    "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    1,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 5,
+                "perDay": 500
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "paste-19c7a6c326242e786b67a57e369eadb2704ad331.jpg",
+        "paste-419b245e3c75ea17e642c70f7e0bb6040489e906.jpg",
+        "paste-703866f7c963dfe5bbcc4d2c1313c5f9bbf456db.jpg",
+        "paste-fd6b73b9ed766f2d1174fee03edb105a78b1f655.jpg"
+    ],
+    "mid": 1602236504918,
+    "name": "2.2::Drugs and Disease::05/05 Dennedy Pituatary",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Back Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>PITUITARY GLAND</b><div><b><br></b></div><div>Where is it located?{{c1::sella tunica at base of skull between eyes anteriorly}}</div><div><br></div><div>The hypothalamus is continuous with the&nbsp;{{c1::posterior}} pituitary gland</div><div><br></div><div>So what would be the difference in how hypothalamus communicates with either lobe of the pituitary?</div><div>{{c1::post, communicate directly, it is continuous</div><div>Anterior, communicates through hypophyseal portal system}}<br></div><div><br></div><div>The hypothalamus releases&nbsp;{{c1::neuropeptide}} which causes the release of hormones from the ant. pituitary gland. This is normally released in a&nbsp;{{c1::pulsatile/diurnal}} pattern.</div><div><br></div><div>Hormone released by hypothalamus/ hormone reeleased by Ant pituatary/ Hormone released by gland as a result</div><div><br></div><div>GnRH/{{c1::LH+FSH}}/{{c1::Testosterone and estradiol}}</div><div>{{c1::CRF}}/ACTH/{{c1::Cortisol}}<br></div><div>{{c1::TRH}}/{{c1::TSH}}/Thyroid Hormone<br></div><div><br></div><div>And GHRH causes release of&nbsp;{{c1::Growth hormone}}</div><div><br></div><div>{{c1::Dopamine}} causes the tonic inhibition of release of&nbsp;{{c1::prolactin}} from ant pituitary</div><div>{{c1::Somatostatin}} causes the tonic and controlled inhibition of release of&nbsp;{{c1::growth hormone}} from ant pituitary<br></div><div><br></div><div>The posterior pituitary gland releases&nbsp;{{c1::oxytocin and aVP/ADH}}</div>",
+                ""
+            ],
+            "guid": "d{)uSH`3%n",
+            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>Pituitary Tumours:</b><div><br></div><div>{{c1::80}}% are non-functioning tumours, how do they effect the pituitary gland?</div><div>{{c1::compress and cause hormonal dysfunction or inhibition of the release of the hormones}}<br></div><div><br></div><div>Functioning tumours:&nbsp;</div><div>ACTH producing tumour causes {{c1::Cushing's disease}}</div><div>GH producing tumour causes&nbsp;{{c1::Acromegaly or pituitary gigantism}}</div><div>Secretory Gonadotropinomas causes&nbsp;{{c1::too much LH and FSH}}</div><div>TSHoma causes&nbsp;{{c1::hyperthyroidism}}</div><div>Prolactinomas ccause&nbsp;{{c1::too much prolactin}}</div>",
+                ""
+            ],
+            "guid": "Q/iSiX;V|X",
+            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>HYPERPROLACTINAEMIA: Excessive Prolactin</b><div><b><br></b></div><div>SOURCES:</div><div><br></div><div>Functional tumours:</div><div>Microprolactinoma causes&nbsp;{{c1::1500-5000}}prolactin levels</div><div>Macroprolactinoma cuases&nbsp;{{c1::&gt;5000}} prolactin levels</div><div><br></div><div>How might a non-functional tumour cause it?</div><div>{{c1::Tumour compresses pituitary stalk, inhibiting dopamine transport to the pituitary}}<br></div><div>What prolactin levels does this cause?{{c1::&gt;1500}}</div><div><br></div><div>Drug Induced:</div><div>Name three drug types that would cause it</div><div>{{c1::dopamine antagonists, anti-psychotics, antiemetics}}<br></div><div>What particular function on a particular receptor would cause it?</div><div>{{c1::inhibition of D2 receptor}}<br></div><div><br></div><div>Name two other causes:</div><div>{{c1::STRESS-INDUCED</div><div>PREGNANCY / BREAST FEEDING}}<br></div><div><br></div><div><br></div><div>The prolactin receptor is a type of&nbsp;{{c1::GH}} receptor, dimerizes when prolactin binds.</div><div><br></div><div>Give two functions of this receptor</div><div>{{c1::trophic effect on breast tissue and production of milk (STAT5) signalling}}<br></div><div>{{c1::Increase in efficient fuel utilisation and glucose coming into cell (Akt)}}<br></div><div><br></div><div>Unfortunately, when there is too much it inhibits the GnRH neuron in the hypothalamus</div><div>What is the outcome of this?</div><div>{{c1::Causes inhibition of GnRH which causes Hypogonadism due to the inhibition of LH and FSH which cuases less testosterone and progesterone}}<br></div><div>{{c1::<img src=\"paste-703866f7c963dfe5bbcc4d2c1313c5f9bbf456db.jpg\">}}</div><div><br></div><div><br></div><div><br></div><div><b>Clinical Problems</b></div><div><b><br></b></div><div>Hypogonadotrophic hypogonadism:<b><br></b></div><div>{{c1::Anovulation / Infertility}}<br></div><div>{{c1::↓ Libido}}<br></div><div>{{c1::Erectile Dysfunction}}in men<br></div><div>{{c1::Osteoporosis due lack of estradiol}} in women<br></div><div><br></div><div>Galactorrhoea:&nbsp;{{c1::production of breast milk in men and women}}<br></div><div><br></div><div>Pressure Effects:</div><div>{{c1::<div>Pituitary Adenoma&nbsp;</div><div>Headache&nbsp;</div><div>Bi-temporal Visual Field\nDefect}}(3)</div></div><div><br></div><div><br></div><div><b>MEDICAL\tMANAGEMENT</b><br></div><div><b><br></b></div><div>Contraceptive pill</div><div>Hormone Replacement therapy, what hormone?&nbsp;{{c1::Dopamine, if you said prolactin you deserve to fail this exam}}</div><div><br></div><div>Very rarely surgical debulking</div><div><br></div><div>Dopamine Agonist therapy:</div><div><br></div><div>Two drugs</div><div>What is their drug class?&nbsp;{{c1::Ergot Alkaloids}}</div><div>What is their 5-HT2A mediated adverse affect thta has to be checked on every 5 years?</div><div>{{c1::right sided valvular disease}}<br></div><div><br></div><div>{{c1::Bromocriptine}}<br></div><div>t1/2 2-8 hours</div><div>3 times a day dosage</div><div>Adverse effects:</div><div>Nausea&nbsp;</div><div>Postural Hypotension&nbsp;</div><div>CNS side effects that end up being severly limiting</div><div>Can be used during pregnancy</div><div><br></div><div>{{c1::Cabergoline}}<br></div><div>4 times more potent</div><div>T1/2 65 hours</div><div>1-2 weekly</div><div>Less side effects and better clinical response</div><div>What is a side effect it has?</div><div>{{c1::Behavioural abnormalities, higher risk taking}}<br></div><div><br></div><div><br></div><div>REDUCED PROLACTIN IN &gt;{{c1::90}}% CASES<br>REDUCED TUMOUR BULK IN &gt;{{c1::70}}% CASES<br></div><div><br></div>",
+                "canstop<br>and<br>bromowiptive I cabergolineinpatients4microprolactinwasduringpregnancy"
+            ],
+            "guid": "x:*Gkw^>S_",
+            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>GROWTH HORMONE</b><div><img src=\"paste-19c7a6c326242e786b67a57e369eadb2704ad331.jpg\"></div><div>Can you guess what factor almost all growth hormones actions are mediated by?{{c1::IGF-1}}</div><div><br></div><div>What is GH signalling pathway mediated by?{{c1::JAK-2}}</div><div><br></div><div>The effects of GH:</div><div><br></div><div>1. In bones:{{c1::increases osteoclastic activity which promotes bone mineralisation and turnover}}</div><div><br></div><div>2. In muscles:{{c1::Muscle growth and differentiation}}</div><div><br></div><div>3.Adipocytes:{{c1::Pre-adipocyte to adipocyte differentiation and fat storage}}</div><div><br></div><div>4.In kidneys:&nbsp;{{c1::Increases Glomerular Filtration Rate}}</div><div><br></div><div>5. Liver has a range of functions</div><div><br></div><div>6. Promotes acral growth and soft tissue expansion</div><div><br></div><div>7. Increases expression of&nbsp;{{c1::glucose transporter}}</div>",
+                "<img src=\"paste-fd6b73b9ed766f2d1174fee03edb105a78b1f655.jpg\">"
+            ],
+            "guid": "Nu}q?C!5Y,",
+            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>GH DEFICIENCY</b><div><b><br></b></div><div>Most common Ant pituitary hormone deficiency</div><div><br></div><div>The treatment is&nbsp;{{c1::rhGH (replacement Growth hormone)}}</div><div>It is administered&nbsp;{{c1::subcutaneously}}</div><div>Circulating T1/2&nbsp;{{c1::20mins}}</div><div>Biological T1/2&nbsp;{{c1::17 hours}}</div><div><br></div><div>Dosage?{{c1::once daily}}</div><div><br></div><div>Do you give it to children?</div><div>{{c1::yes, it is needed for good bone growth and getting to their height}}<br></div><div><br></div><div>DO you give it to adults?</div><div>{{c1::Braitheann sé, if their AGHDA(QoL) score improves then yes,</div><div>if it doesn't after six months then no}}<br></div><div><br></div><div>How do you monitor therapy?{{c1::Monitor therapy with serum IGF-1 concentration}}</div>",
+                "Notadministeredtopatientswactivelygrowingtumororcancer"
+            ],
+            "guid": "N|)Zyh_z6a",
+            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>Growth Hormone Excess</b><div><b><br></b></div><div>What are the general effects of too much growth hormone?</div><div>{{c1::Insulin}} resistance<br>Intracranial {{c1::hyper}}tension<br>Arthralgia / myalgia:&nbsp;{{c1::muscle and joint pain}}<br></div><div>{{c1::Carpal tunnel}} syndrome</div><div>Muscle,{{c1::atrophy}}</div><div>Osteoporosis</div><div><br></div><div>And the one that usually eventually kills you,&nbsp;{{c1::dilated cardiomyopathy}}</div><div><br></div><div>What is the physiological difference between pituitary gigantism and accromegaly?{{c1::Gigantism occurs before epiphyseal plates closes, tumour is arge enough to compress pituitary and cause hypogonadism, Acromegaly occurs after so cannot stimulate longitudinal growth so extremities get bigger}}</div><div><br></div><div>Acromegaly Symptoms:</div><div>Macroglossia&nbsp;{{c1::large tongue}}</div><div>Large Hands/Feet<br>Prognathism{{c1::protrusion of lower jaw}}<br>Skin Tags<br>Bowel hamartomas{{c1::benign tumours of the bowel}}<br>Cardiomyopathy<br>Obstructive Sleep Apnoea<br></div><div>Type 2 diabetes</div><div>Osteoporosis</div><div>Osteoarthrits</div><div><br></div><div>Gigantism symptoms;</div><div>All that but an additional one&nbsp;{{c1::growth can also be longitudinal}}</div><div><br></div>",
+                ""
+            ],
+            "guid": "B61[@,bh1|",
+            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>Treatment of Growth Hormone Excess</b><div><b><br></b></div><div>What hormone anologue would you use to inhibit the release of Growth Hormone&nbsp;{{c1::somatostatin}}</div><div><br></div><div>What receptors in particular would you target?{{c1::SSTR 2 and 5}}</div><div><br></div><div>They inhibit GH secretion and reduce tumour size</div><div><br></div><div>These hormone analogues</div><div><br></div><div>Administered {{c1::subcutaneously}}<br></div><div><br></div><div><u>Short-acting</u></div><div>{{c1::short acting octreotide}}<u><br></u>100% bioavailability<br>Peak - 30 minutes<br>T1/2 - 90 minutes<br>Duration of action 12 hours approximately<br></div><div><br></div><div><u>Long Acting</u></div><div>{{c1::Microsphere bound preparation (octreotide)<br>Gel preparation (Lanreotide)}}(2)<br>Circulates for 2 - 3 weeks<br>Slow release of hormone from spheres<br>Intramuscular Injection fortnightly<u><br></u></div><div><br></div><div>Side effects of these</div><div>{{c1::GI Upset}} - 50%<br>{{c1::Gallstones}} - 25%<br>{{c1::Diabetes Mellitus}} - &lt;5%<br>Local skin reactions<br></div><div><br></div><div>What else can they be used for?</div><div>{{c1::Neuroendocrine tumours<br>Acute Variceal Bleeding<br>Splanchnic vasoconstriction<br>TSHoma}}(4)<br></div><div><br></div><div>You can also inhibit the Growth hormone receptor using&nbsp;</div><div>{{c1::Pegvisomant}}<br></div><div>Subcutaneous administration<br>Daily injection<br>Titrated to IGF-1<br></div><div><br></div><div>Does this cure the condition?{{c1::No, only treats symptoms, may actually increase tumour size, due to decrease in IGF-1}}</div><div><br></div>",
+                "<img src=\"paste-419b245e3c75ea17e642c70f7e0bb6040489e906.jpg\">"
+            ],
+            "guid": "O-2{pvt0r:",
+            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+            "tags": []
+        }
+    ]
+}
